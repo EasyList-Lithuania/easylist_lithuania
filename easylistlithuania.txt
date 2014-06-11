@@ -362,6 +362,7 @@ server2.beta.lt###for-product1
 siloaidas.lt##A[target="_blank"][href*="http://"] > IMG
 siloaidas.lt,mususavaite.lt,spainetosdraudimas.lt##IMG[src*="baneris"]
 skelbiu.lt###offer-container
+skelbiu.lt##DIV.advertisementTitle
 skelbiu.lt##DIV.content
 skelbiu.lt##DIV.result
 skelbiu.lt##DIV[style="padding: 1px; border-bottom: 1px solid #E3E3E3; margin-top: -10px;"]
