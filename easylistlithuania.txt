@@ -384,6 +384,7 @@ siloaidas.lt##A[target="_blank"][href*="http://"] > IMG
 siloaidas.lt,mususavaite.lt,spainetosdraudimas.lt##IMG[src*="baneris"]
 skelbiu.lt###offer-container
 skelbiu.lt##DIV.content
+skelbiu.lt##DIV.advertisementTitle
 skelbiu.lt##DIV.result
 skelbiu.lt##DIV[style="padding: 1px; border-bottom: 1px solid #E3E3E3; margin-top: -10px;"]
 skelbiu.lt##DIV[style="text-align: center; padding: 0px 0px; height: 200px; margin-bottom: 10px;"]
