@@ -9,6 +9,27 @@
 ###delfi-front-right-column
 ##.blockMain.partners
 ##.reklamos_nuorodos
+verdiktas.lt##IMG[src^="/images/banners/"]
+kelioniuklubas.lt##IMG[src^="http://www.kelioniuklubas.lt/resources/_banners/"]
+automedia.lt##IMG[src^="http://www.automedia.lt/resources/_banners/"]
+automokyklos.lt##.reklamaadd
+manosveikata.lt##IMG[src^="http://www.manosveikata.lt/resources/_banners/"]
+15min.lt##IMG[src="http://s1.15cdn.lt/img/banners/knorr/knorr_oru_ikonele.png"]
+alio.lt###banner-top
+alio.proxy.dlf.lt###main-content-right EMBED[src^="http://delfilt.adocean.pl/files/"]
+aeropolis.lt###aeropolis *
+drg.lt##IMG[src^="http://drg.lt/images/banners/"]
+krs.lt###right_banner
+||verdiktas.lt/dzukuainiai.swf
+|http://samata.lt/out_data/banners/
+megon.lt##.slider
+rkdragunas.lt##.infiniteCarousel > *
+rkdragunas.lt###newsticker-demo
+rkdragunas.lt##IMG[src^="http://www.rkdragunas.lt/ip_themes/dragunas/rk_pav/"]
+samata.lt##.banner_right
+samata.lt##IMG[src^="/out_data/banners/"]
+zodynai.igloro.info##.border_style.padding0px
+banners.igloro.info##IMG[src^="http://banners.igloro.info/"]
 ##.reklamos_tarpas
 ##.top_reklama
 ##A[href="http://igrovieavtomationline.net"]

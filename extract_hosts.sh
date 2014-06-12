@@ -1,8 +1,8 @@
 #!/bin/bash
 #istraukt visus adresus ir pažiūrėt ar visos reklamos visdar blokuojamos
-sed -n 's/\(.*\..*\)\#.*/\1/p' easylistlithuania.txt |sed -n 's/\(.*\)\#.*/\1/gp' | sed 's/\#//'|sort -u > hosts.txt
-sed -n 's/[\|\||#|\|]\([^/]*\)[\/|^|#].*/\1/p' easylistlithuania.txt | sed '/#.*/d' | sed '/[\||^~]/d' |sort -u > hosts.txt
-x=1
+#~ sed -n 's/\(.*\..*\)\#.*/\1/p' easylistlithuania.txt |sed -n 's/\(.*\)\#.*/\1/gp' | sed 's/\#//'|sort -u > hosts.txt
+#~ sed -n 's/[\|\||#|\|]\([^/]*\)[\/|^|#].*/\1/p' easylistlithuania.txt | sed '/#.*/d' | sed '/[\||^~]/d' |sort -u > hosts.txt
+x=11
 lines=$(cat hosts.txt |wc -l)
 while [ $x -le $lines ]
 do
