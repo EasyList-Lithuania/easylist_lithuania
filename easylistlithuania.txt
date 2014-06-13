@@ -136,8 +136,7 @@ burgis.lt###banners
 bznstart.lt##[id^="google_ads_iframe_/"]
 cargo.lt##A > IMG[src^="../banners/"]
 cargonews.lt##.bottom-banner IMG[src^="http://www.cargonews.lt/wp-content/banners/"]
-cdn.torrent.ai###google_ads_iframe_\/19228508\/www\.torrent\.ai-750x100-Virsutinis-PAGRINDINIS_0
-cdn.torrent.ai##[id*="div-gpt-ad-*"]
+||cdn.torrent.ai/lt/advise/
 chatas.lt###ad-30
 chatas.lt##.content[style="text-align: center;"]:first-child
 chatas.lt##.row.bg1.global-announce + .content
