@@ -26,7 +26,6 @@ sapnuotisapnus.lt###td_ad_idAdbillboard
 sapnuotisapnus.lt##DIV[style="width: 286px; height: 33px; left: 0px; top: 0px; background-color: rgb(255, 255, 255);"]
 sapnuotisapnus.lt##[id*="td_ad_idAdbillboard*"]
 sapnuotisapnus.lt##[data-rocketsrc^="http://implt.tradedoubler.com/imp"] + * > [type="text/rocketscript"] + * > #td_ad_idAdbillboard20946930
-||engine.adclick.lt:8080/architectures/ads
 sapnuotisapnus.lt##DIV[align="center"]
 friendsclub.lt##[src^="http://www.friendsclub.lt/banners/"] + *
 martens.lt##.squarebanner
