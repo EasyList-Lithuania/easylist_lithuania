@@ -9,6 +9,31 @@
 ###delfi-front-right-column
 ##.blockMain.partners
 ##.reklamos_nuorodos
+||cdn.torrent.ai/lt/advise/
+||skelbiu-static.dgn.lt/static/html/banners/credit24.html
+perpasauli.lt##.pp-article-banner
+manosveikata.lt##IMG[src^="http://www.manosveikata.lt/resources/_banners/"]
+kkml.lt##IMG[src^="http://www.kkml.lt/public/var/banners/"]
+kkml.lt##.left-banner-wrap
+ekspresas.co.uk##IMG[src="http://ekspresas.co.uk/wp-content/uploads/2013/10/ujsgroup_banner_big1.gif"]
+ekspresas.co.uk##.hometakeover.gofollow
+ekspresas.co.uk##IMG[src="http://www.ekspresas.co.uk/files/2014/06/My-Ferry-Link-1000x164.gif"]
+||ekspresas.co.uk/wp-content/uploads/2013/11/dental_clinics_banner1.jpg
+ekspresas.co.uk##[content="\a0 „Help to Buy“ būsto paskolos schema su 5% pradiniu depozitu\a0  Pabodo nuomotis būstą ar gyventi su giminaičiais? Vargina įkyrus kaimynai ir erzinantis namo savininkas? Nedelskite! Jei turite bent 5% norimo […]"] + * + .hometakeover.gofollow[href="http://www.londondent.com/"]
+tja.lt##IMG[src^="http://www.tja.lt/images/banners/"]
+katinukai.lt##IMG[src^="http://katinukai.lt/banners/"]
+sapnuotisapnus.lt###td_ad_idAdbillboard
+sapnuotisapnus.lt##DIV[style="width: 286px; height: 33px; left: 0px; top: 0px; background-color: rgb(255, 255, 255);"]
+sapnuotisapnus.lt##[id*="td_ad_idAdbillboard*"]
+sapnuotisapnus.lt##[data-rocketsrc^="http://implt.tradedoubler.com/imp"] + * > [type="text/rocketscript"] + * > #td_ad_idAdbillboard20946930
+||engine.adclick.lt:8080/architectures/ads
+sapnuotisapnus.lt##DIV[align="center"]
+friendsclub.lt##[src^="http://www.friendsclub.lt/banners/"] + *
+martens.lt##.squarebanner
+kronika.lt###leftbar-w A > IMG
+||kronika.lt/images/balandis2014/Zaizdos_1.gif
+||kronika.lt/images/BEGIMAS.jpg
+||kronika.lt/images/Untitled.jpg
 verdiktas.lt##IMG[src^="/images/banners/"]
 kelioniuklubas.lt##IMG[src^="http://www.kelioniuklubas.lt/resources/_banners/"]
 automedia.lt##IMG[src^="http://www.automedia.lt/resources/_banners/"]
