@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: Adblock Plus Lithuania
+! Title: EasyList Lithuania
 ! Contributors: Mantas Malcius, Algimantas Margevičius
 ! About not blocked ad or any issues report to algimantas@margevicius.lt
 ! Apie neužblokuotas reklamas ar kitas bėdas praneškite el. paštu algimantas@margevicius.lt
@@ -551,6 +551,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||games.lt/i/banners/
 ||games4you.lt/img/game2.gif
 ||glamourgeles.lt/serveris/PAJURIO_FOTOsmall.jpg
+||grafika.iv.lt/serveriai/hosted.gif
 ||greitukas.lt/images/kupi.jpg
 ||greitukas.lt/images/papuosaliukas.JPG
 ||greitukas.lt/images/vestuves_baneris.jpg
@@ -591,6 +592,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||laimos-sapnininkas.lt/banners/baneris-2.jpg
 ||laisvaslaikrastis.lt/laikrascio%20baneris.swf
 ||lapes.lt/banners/
+||lh3.googleusercontent.com/-HlLkax1GggM/UGSYFJmOVpI/AAAAAAAAmCc/TZT-DJmpt4g/s125/aukok.png
 ||lh6.googleusercontent.com/-emSu6klAyOM/U00ckPNq4KI/AAAAAAAAAOk/Op4XYSWK7R4/w700-h112-no/go9000bannerisiforuma.jpg
 ||lrvalstybe.lt/images_new/gubele_960x100url2.swf
 ||lrvalstybe.lt/images_new/yukon_960x100url.swf
@@ -659,7 +661,6 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||priejuros.lt/palangosvila/palangosvila.swf
 ||prokuraturos.lt/Portals/0/Skins/lrgp/images/Patarimai.gif
 ||prokuraturos.lt/Portals/0/Skins/lrgp/images/banner1.gif
-||grafika.iv.lt/serveriai/hosted.gif
 ||pulas.lt/htm/texas.gif
 ||pzemaitis.lt/wp-content/uploads/2013/06/VMI/150x150_VMI_v03.swf
 ||r.diena.lt/i/co-sites/
@@ -670,7 +671,6 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||redo.lt/galery/_redo/page/klaipedos_info20110506.png
 ||rimi.lt/assets/upload/userfiles/images/background/Frette%20fonas%201600x970-3.jpg
 ||rkdragunas.lt/ip_themes/dragunas/rk_pav/
-||lh3.googleusercontent.com/-HlLkax1GggM/UGSYFJmOVpI/AAAAAAAAmCc/TZT-DJmpt4g/s125/aukok.png
 ||russianamerica.com/top/logo/index.php?id=5983
 ||s-microsoft.com/global/ImageStore/PublishingImages/logos/hp/logo-lg-1x.png
 ||s1.15cdn.lt/img/banners/knorr/knorr_oru_ikonele.png
