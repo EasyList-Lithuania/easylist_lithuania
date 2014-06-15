@@ -538,6 +538,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||europoszemelapis.lt/dedikuoti-nuolaida150.jpg
 ||europoszemelapis.lt/serveriai-nuolaida150.jpg
 ||evaistine.camelia.lt/site/ad/getimage/
+||filmai.in/v2_ajax.php
 ||filosofija.info/wp-content/uploads/2013/11/praktine-filosofija.gif
 ||finmedia.lt/grape/$third-party
 ||fm99.lt/wp-content/banners/
