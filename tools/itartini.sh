@@ -1,5 +1,6 @@
 #!/bin/bash
-sed -n 's/[\|\||#|\|]\([^/]*\)[\/|^|#].*/\1/p' easylistlithuania.txt | sed '/#.*/d' | sed '/[\||^~]/d' |sort -u > ~temp_hosts.txt
+#patikrint ar blokuojami hostai visdar veikia
+sed -n 's/[\|\||#|\|]\([^/]*\)[\/|^|#].*/\1/p' ../easylistlithuania.txt | sed '/#.*/d' | sed '/[\||^~]/d' |sort -u > ~temp_hosts.txt
 while read line; 
 	do 
 		stat=$(curl -o /dev/null --silent --head --write-out '%{http_code}\n' $line)
