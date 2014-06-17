@@ -20,6 +20,40 @@
 ##IMG[alt="Hostingas Serveriai.lt"]
 ##IMG[alt="Reklaminis skydelis"]
 ##a[href="http://igrovoi-klub.org/fair-land"]
+kaunieciai.lt###zoro-offers-mod-container *
+kaunieciai.lt##.mod_mtc_container *
+kaunieciai.lt##IMG[src="/images/stories/lietuve_zurnalas_logas naujas.jpg"]
+kaunieciai.lt##.banneritem
+travianas.lt##IMG[src="http://travianas.lt/images/2007/zaidimai-01.gif"]
+pankontaktas.lt##IMG[src^="images/banners/"]
+jurbarkosviesa.lt##IMG[src^="/var/ezwebin_site/storage/images/media/skydeliu-kategorijos/"]
+pixolain.lt##IMG[src="images/stories/peliuko.jpg"]
+panbalsas.lt##.banner
+kovosakademija.lt###links_container *
+ccic.lt###block_banner_2 *
+ccic.lt##IMG[src^="/get.php?i."]
+||grafika.iv.lt/hostingas/small_logo.png
+buhalteris.lt##[id^="block_baneris"] *
+||filmai.in/v2_ajax.php
+15min.lt##[href^="http://adsplius.lt/trackers"] > *
+hardas.lt##IMG[src="http://www.hardas.lt/http://www.hardas.lt/wp-content/uploads/icons//2014/04/brother-mazasis.png"]
+ranka.lt##IMG[src="http://getlikes.eu/promo/banner.png"]
+cagsolution.blogspot.com##MARQUEE IMG
+meniu.lt##IMG[src="/uploads/user_images/RV41_cover.jpg"]
+meniu.lt##IMG[src="/uploads/user_images/Ozonas_virselis_Maistas_250pix.jpg"]
+suduvosgidas.lt##.banneritem
+kedainiai.lt##TD[valign="top"][height="168"][bgcolor="#ffffff"][style="PADDING-TOP: 15px"]
+prizme.lt##IMG[src^="http://www.prizme.lt/images/banners/"]
+asliekna.lt###jhfbapp > *
+gyvensena.sveikas.lt##IMG[src^="http://sveikas.lt/uploads/img/banners/"]
+gyvensena.sveikas.lt##A.close
+seimos.sveikas.lt##IMG[src^="http://sveikas.lt/uploads/img/banners/"]
+beligu.lt##IMG[src="images/longavit.jpg"]
+sveikata24.lt##IMG[src="http://www.mamosgidas.lt/uploads/images/modifast.jpg"]
+||lombas.lt/image/gmx/
+||jurbarkosviesa.lt/content/download/229/2025/coral_solutions_banner.swf
+||fanpagelistbuilder.net/pagetab/app_coupon/scriptindex.php?pageid=
+||vinita.lt/uploads/banner1.swf
 -baneris-
 /PopBox.js
 /baneriai/*
