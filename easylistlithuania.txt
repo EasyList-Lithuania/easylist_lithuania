@@ -43,6 +43,54 @@ meniu.lt##IMG[src="/uploads/user_images/RV41_cover.jpg"]
 meniu.lt##IMG[src="/uploads/user_images/Ozonas_virselis_Maistas_250pix.jpg"]
 suduvosgidas.lt##.banneritem
 kedainiai.lt##TD[valign="top"][height="168"][bgcolor="#ffffff"][style="PADDING-TOP: 15px"]
+psichika.eu##IMG[src="http://psichika.eu/wp-content/uploads/1/Terapija.jpg"]
+leech.lt##IMG[src="http://www.twickerz.com/banner/125x125.gif"]
+maxima.lt###popopen[url="http://www.maxima.lt/asortimentas/meistro-kokybes-grilio-gaminiai-1/"]
+ori.lt##IMG[src="http://www.ori.lt/wp-content/uploads/2013/09/Moters_pagalba_180x150.gif"]
+lova.lt##IMG[title="Baldų Katalogas LT"]
+lova.lt##IMG[title="UAB„Rumšiškių baldai“"]
+lova.lt##.floating-box-inner
+lova.lt##IMG[src^="http://www.lova.lt/files/uploads/images/sitefriends/"]
+devetibaldai.lt##.banner
+kedes.lt##IMG[src="/showimage.php?f=banner_rumsiskes_200x200_6447s.jpg&w=215"]
+kedes.lt##IMG[src="/showimage.php?f=4786_banner_lauko_baldai_6520s.jpg&w=215"]
+sodobaldai.lt##.banner
+geopolitika.lt##IMG[src^="img/ban/"]
+geopolitika.lt##IMG[src^="img/banner_"]
+geopolitika.lt##IMG[src="img/book_ppceu_en.jpg"]
+geopolitika.lt##IMG[src="img/logo_srtrf.png"]
+geopolitika.lt##IMG[src="img/newtimeslogo.jpg"]
+15min.lt##IMG[src="http://s2.15cdn.lt/images/infoblocks/vaiva-cili-535f717dc89e7.jpg"]
+15min.lt##IMG[src="http://s2.15cdn.lt/images/infoblocks/versli-lietuva-5371f4a560b08.jpg"]
+viko.lt##IMG[src="http://www.viko.lt/public_files/EMP_sugedo_210x105.gif"]
+bdsm.blogas.lt##IMG[src="http://bdsm.blogas.lt/files/2014/01/malonucom-dinamic.gif"]
+pagalbadaiktais.lt##.draugai
+||toxnet.nlm.nih.gov/help/widget/lactmed_widget_large.html
+||urmas.net/upload/rk/
+pagalbadarbais.lt##.draugai
+gyvenimas.eu##.textwidget > A[href^="http://"] > IMG
+gyvenimas.eu##IMG[src="http://www.gyvenimas.eu/G_DS/skelb_arkl.jpg"]
+invega.lt##IMG[src^="site/banners/"]
+invega.lt##[src^="site/banners/"] + * TD
+kudikiuprekes.lt###minic_slider.theme-default *
+zindymas.lt##IMG[src="/sites/zindymas.lt/files/ptc-logo2.png"]
+zindymas.lt##IMG[src="/sites/zindymas.lt/files/MilkSENSE.jpg"]
+zindymas.lt##IMG[src="/sites/zindymas.lt/files/la_leche_banner_0.jpg"]
+||ultrashop.lt/radiocool.php
+tattoo.lt###layerslider_widget-3
+apiterapija.lt##TABLE[style="BACKGROUND-POSITION: left top; BACKGROUND-IMAGE: url(/apiterapij/m/m_images/wfiles/izu1ly243.jpg); BACKGROUND-REPEAT: no-repeat"] *
+istidom.lt##IMG[src="http://ic.pics.livejournal.com/sig_tyr/13029589/2153/2153_900.jpg"]
+istidom.lt##IMG[src="http://ic.pics.livejournal.com/sig_tyr/13029589/1652/1652_900.gif"]
+mvitalijus.blogspot.com##IMG[src="http://ic.pics.livejournal.com/sig_tyr/13029589/1319/1319_900.jpg"]
+mvitalijus.blogspot.com##IMG[src="http://ic.pics.livejournal.com/sig_tyr/13029589/1652/1652_900.gif"]
+auto.plius.lt##.auto_leasing *
+auto.plius.lt##.citadele-wrapper *
+pankontaktas.lt##IMG[src^="images/banners/"]
+kaunoturgus.lt###cpopup *
+kaunoturgus.lt###reklama28
+kaunoturgus.lt##IMG[alt="http://www.pirkautolizingu.lt/"]
+||skelbimai.lrytas.lt/rimaro/rinka/media/Mokejimai_baneris.swf?*
+@@|http://skelbimai.one.lt/uploads/modules/ads/
 prizme.lt##IMG[src^="http://www.prizme.lt/images/banners/"]
 asliekna.lt###jhfbapp > *
 gyvensena.sveikas.lt##IMG[src^="http://sveikas.lt/uploads/img/banners/"]
