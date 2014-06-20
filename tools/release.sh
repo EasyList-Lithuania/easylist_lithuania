@@ -25,6 +25,7 @@ cp $file ~easylistlithuania.txt
 sed -n '1,8p' ~easylistlithuania.txt > $file
 sed -i '1,8d' ~easylistlithuania.txt
 cat ~easylistlithuania.txt|sort -u >> $file
+rm ~easylistlithuania.txt
 
 #pakeist datą, surašyt komentarus
 sed -i '/^\[/d' $file
@@ -34,6 +35,7 @@ sed -i "1 i\
 \[Adblock Plus 2.0\]\n! Title: EasyList Lithuania\n! Contributors: Mantas Malcius, Algimantas Margevičius\n! About not blocked ad or any issues report to algimantas@margevicius.lt\n! Apie neužblokuotas reklamas ar kitas bėdas praneškite el. paštu algimantas@margevicius.lt\n! License: this software is licensed under GNU GPL3 license.\n! License url: http://www.gnu.org/licenses/gpl-3.0.txt\n! Homepage: http://margevicius.lt/easylist_lithuania/\n! Last update: $data\n! Expires: 7 days (update frequency)" $file
 
 #pridėt checksum
+cp $file ~easylistlithuania.txt
 python2 addChecksum.py < ~easylistlithuania.txt > $file
 rm ~easylistlithuania.txt
 
