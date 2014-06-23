@@ -9,6 +9,18 @@
 ! Homepage: http://margevicius.lt/easylist_lithuania/
 ! Last update: 2014-06-21
 ! Expires: 7 days (update frequency)
+||suaugusiems.lt/Uploads/Affiliates/
+efarma.lt##.footer-container > *
+faberlic-deguonies-kosmetika.lt##IMG[src="http://www.faberlic-deguonies-kosmetika.lt/images/stories/dykai-lt.jpg"]
+dykai.eu##IMG[src="http://www.dykai.eu/fun/content/2014/01/08/video-chatas-juodame.jpg"]
+dykai.eu##IMG[src="http://empire.dykai.eu/logo_empire.jpg"]
+ernesta.lt###imagecontainer[style="background: url('http://www.ernesta.lt/wp-content/themes/atahualpa/images/header/header6.jpg') top center no-repeat;"]
+mamoszurnalas.lt##IMG[src="multisites/mamoszurnalas/images/stories/logotipai/ikimpokyklinis.jpg"]
+masazonamai.lt###imagecontainer.header-image-container
+masazonamai.lt##IMG[src="http://www.gydomasismasazas.lt/pasikeisk.jpg"]
+masazonamai.lt##IMG[src="http://www.masazonamai.lt/imunitetas.gif"]
+masazonamai.lt##IMG[src="http://www.masazonamai.lt/kleopatra 60x120.jpg"]
+sveikata24.lt##IMG[src="http://www.mamosgidas.lt/uploads/images/modifast.jpg"]
 ###delfi-front-right-column
 ##.blockMain.partners
 ##.reklamos_nuorodos
