@@ -21,6 +21,34 @@
 ##IMG[alt="Hostingas Serveriai.lt"]
 ##IMG[alt="Reklaminis skydelis"]
 ##a[href="http://igrovoi-klub.org/fair-land"]
+||alio.proxy.dlf.lt/infoblock.html
+@@||apatinukai.lt/image/cache/data/baneriai/*
+||delfi.lt/misc/ebooks.php
+agmasazas.lt##IMG[src^="http://www.magicminerals.lt/images/banners/"]
+putinukas.lt##IMG[src^="/images/banners/"]
+rcdrift.lt##IMG[src="2010-07-29/Plakatas%20(1).jpg"]
+rcdrift.lt##IMG[src="putinukas.png"]
+sveikatossodas.lt##[class^="baneris"]
+zvejokliai.lt##IMG[src^="http://www.zvejokliai.lt/images/banners/"]
+mūsųlaikas.lt##.panel.ad
+mūsųlaikas.lt##[class^="banner"]
+mūsųlaikas.lt##.partners
+girdziai.lt##IMG[src="http://jurbarkiskis.lt/images/stories/lanmeta.gif"]
+nemunelis.ritmu.lt##IMG[src^="http://www.ritmu.lt/banners/"]
+||adbox.lt/scripts/engine.js
+silainiupoliklinika.lt##IMG[src="http://www.silainiupoliklinika.lt/sil/registracija2.jpg"]
+konsultuokis.lt##.useful_banner_manager_banner *
+visospagalves.lt##IMG[src^="http://visospagalves.lt/skin/frontend/default/grayscale/images/banners/"]
+rubuskrynia.lt###links_block_left *
+geliukrautuvele.lt##IMG[src="/images/vestuviu_atributika.png"]
+baltupiudarzelis.lt###content > A[href^="http://www."] > IMG
+meistras1.lt##.banners
+zindyk.lt##A[href*="http://www"] > IMG
+zindyk.lt##IMG[src="http://www.zindyk.lt/wp-content/themes/purple-pastels/images/nesiokles.png"]
+zindyk.lt##IMG[src="http://www.zindyk.lt/wp-content/themes/purple-pastels/images/MamaIrTetisLOGO.png"]
+zaislaivaikams.lt##.banner
+mesmoterys.lt##IMG[src^="http://banners.alio.lt/"]
+mesmoterys.lt##.ad
 -baneris-
 /PopBox.js
 /baneriai/*
