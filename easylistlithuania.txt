@@ -21,6 +21,48 @@
 ##IMG[alt="Hostingas Serveriai.lt"]
 ##IMG[alt="Reklaminis skydelis"]
 ##a[href="http://igrovoi-klub.org/fair-land"]
+||ltvirtove.lt/baneriai
+||mobijava.lt/baneriai/
+||balsas.lt/iframe/orams
+tavovaikas.lt##.article-banner
+mamairtetis.lt##.djslider-loader *
+mamairtetis.lt##.djslider-loader
+rankdarbiai.biz##IMG[src="/images/patigraziausia_200x100.jpg"]
+rankdarbiai.biz##IMG[src="/Jolitos-rankdarbiai-180x80.gif"]
+apiereklama.lt##.spacer.ads
+infoadmin.lt##IMG[src="uploads/images/infoadmin120x60.jpg"]
+infoadmin.lt##IMG[src="img/alertpay120x60.gif"]
+infoadmin.lt##IMG[src="http://www.infoadmin.lt/uploads/images/Banner120x60.gif"]
+||pics.livejournal.com/yourprivatehell/pic/00050ypw
+||musupuikiojinorvegija.com/images/stories/OAN_banners
+||travianas.lt/images/2008/travian-lt-03.jpg
+||travianas.lt/images/2007/travian-468x60-01h.gif
+||basset-hound.lt/uploads/basset_banner.gif
+||bullmastiffs.lt/lt/uploads/posts/2009-01/1232120461_baneris.jpg
+||diablo3.lt/images/banners/
+infoadmin.lt##IMG[src="http://www.sgg.lt/uploads/images/sgg120x60.jpg"]
+||lese.lt/data/baneriai
+ziukai.lt##.banner-block
+skaidrasalonas.lt##IMG[src^="/uploads/banner/"]
+||directus.lt/images/banners
+madairgrozis.lt##.bannergroup
+reitingai.eu##IMG[src^="http://www.reitingai.eu/draugai/"]
+reitingai.eu##IMG[src="http://www.gusttis.lt/baneris125.png"]
+reitingai.eu##.contentadbox + * *
+anglija.lt##.right_banner
+anglija.lt###weather
+||buypcgame.eu/banner
+buypcgame.eu##.ads
+auto-loads.lt##IMG[src^="http://auto-loads.lt/media/uploads/banners/"]
+auto-loads.lt##.js-autotaurage-banner *
+auto-loads.lt###banner_container_corner_right
+auto-loads.lt###banner_container_corner_top
+prestigeidea.lt##IMG[src^="http://www.prestigeidea.lt/images/banners/"]
+nuotykiu-lenktynes.pramoguslenis.lt##IMG[src="/failai/iliustracijos/2013/Generalinis_KAS.gif"]
+nuotykiu-lenktynes.pramoguslenis.lt##IMG[src="/failai/iliustracijos/2014/Pagr_remejai_AIC-Imenza_S-Sportas.gif"]
+nuotykiu-lenktynes.pramoguslenis.lt##IMG[src="/failai/iliustracijos/2014/SmaPro.JPG"]
+nuotykiu-lenktynes.pramoguslenis.lt##IMG[src="/failai/iliustracijos/2014/s_sportas_LOGOTIPAS_horizontalus_small.jpg"]
+nuotykiu-lenktynes.pramoguslenis.lt##IMG[src="/failai/iliustracijos/AiC%20logo%20copy_2.JPG"]
 -baneris-
 /PopBox.js
 /baneriai/*
