@@ -22,7 +22,30 @@
 ##IMG[alt="Reklaminis skydelis"]
 ##a[href="http://igrovoi-klub.org/fair-land"]
 ||ltvirtove.lt/baneriai
+lavinantys.lt##IMG[src^="http://www.lavinantys.lt/shop/out/oxbaseshop/html/2/images"]
+aukles.lt##IMG[src="http://www.aukles.lt/uploads/baneris120x200.gif"]
+aukles.lt##IMG[src="http://www.aukles.lt/uploads/mystore.gif"]
+aukles.lt##IMG[src="http://www.aukles.lt/uploads/poliklinika.gif"]
+mystore.lt##.banner
+bitute.lt##.banners
+bitute.lt##.kontaktai *
+5braskes.lt##.delfi-article-banner
+karjerairsveikata.lt##[src="http://www.karjerairsveikata.lt/wp-content/uploads/2013/09/profertil-720_200_1.png"]
+tvenkiniu-projektai.lt##.banner1
+dideleszuvys.lt##IMG[src^="http://www.dideleszuvys.lt/images/banners/"]
+marciusxxxx.blogspot.com##IMG[src="http://i461.photobucket.com/albums/qq339/martynukas/AntBangos.gif"]
+marciusxxxx.blogspot.com##IMG[src="http://www.dideleszuvys.lt/templates/rhuk_milkyway/images/blue/logo.png"]
+ant-bangos.lt###linkcat-16
+žūklė.lt##IMG[src="http://www.xn--kl-9ma74a8c.lt/images/angleris.jpg"]
+filmux.net##IMG[src^="http://imknuolaida.lt/images/banners/"]
+meteoprog.lt##IMG[src="http://www.hostex.lt/images/header/logo.gif"]
+silaine.lt##IMG[src="http://silaine.lt/Kase/Silokarcema2.gif"]
+silaine.lt##IMG[src="http://silaine.lt/m/wp-content/uploads/2013/11/MLA-2.gif"]
+silokarcema.lt###ads
+silute-hobi.lt##DIV[align="center"]
+kaunozurnalistai.lt##IMG[src="/templates/zurnalistai/images/random/kamane.jpg"]
 ||mobijava.lt/baneriai/
+||tvenkiniu-projektai.lt/baseinai.swf
 ||balsas.lt/iframe/orams
 tavovaikas.lt##.article-banner
 mamairtetis.lt##.djslider-loader *
