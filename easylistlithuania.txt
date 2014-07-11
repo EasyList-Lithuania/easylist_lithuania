@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: LZpHH6hdn12dKD3PLO9MUg
+! Checksum: ios/x766OGdcFHgWCXbTOw
 ! Title: EasyList Lithuania
 ! Prisidėjo: Algimantas Margevičius, Mantas Malcius 
 ! Apie neužblokuotas reklamas ar kitas bėdas praneškite el. paštu algimantas@margevicius.lt arba forume http://forums.lanik.us/ 
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2014-07-09
+! Paskutinis atnaujinimas: 2014-07-11
 ! Expires: 7 days (update frequency)
 ###delfi-front-right-column
 ##.reklamos_nuorodos
@@ -27,7 +27,7 @@
 /baneriukai/*
 /baneriukas/*
 /skydeliai/*
-1000receptu.lt###gp-block
+1000receptu.lt###gpt-block
 118.lt##.adnet-add
 1588.lt###headerBanner
 15min.lt###plius_container_0
@@ -466,6 +466,9 @@ trakai.lt##TD[style="PADDING-BOTTOM: 15px; PADDING-LEFT: 12px; PADDING-RIGHT: 10
 trakai.lt##TD[style="PADDING-BOTTOM: 15px; PADDING-LEFT: 22px; BACKGROUND: url(/trakai/m/m_images/wfiles/ipxjgy5347.jpg) repeat-y left top; PADDING-TOP: 16px"]
 trolinukitus.lt##IMG[alt="Lankytinos vietos Lietuvoje"]
 tv1.lnkgo.lt##.videoBanner > *
+tv3play.lt#@#.ad-banner
+tv3play.lt#@#.section-ad
+tv3play.lt@@v.fwmrm.net^$object-subrequest,third-party
 tvenkiniu-projektai.lt,nemokamosknygos.lt##.banner1
 vaistai.lt###bannerright [data^="http://www.vaistai.lt/images/banners/"]
 vaistai.lt###table-rightbanner1
