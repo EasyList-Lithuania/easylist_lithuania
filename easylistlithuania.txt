@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: vR2ov4Oa5zn3++qFGSM5Ew
+! Checksum: qM8VtugGLTwuQNPz5aLZVA
 ! Title: EasyList Lithuania
 ! Prisidėjo: Algimantas Margevičius, Mantas Malcius 
 ! Apie neužblokuotas reklamas ar kitas bėdas praneškite el. paštu algimantas@margevicius.lt arba forume http://forums.lanik.us/ 
@@ -67,6 +67,7 @@
 @@||post.lt/files/resized/*x*/banners/
 @@||teatras.lt/uploads/img/banners/
 @@||technologijos.lt/iframe_komentarai
+@@||v.fwmrm.net$domain=tv3play.lt
 aciu.lt###adrotate_2
 aciu.lt##.parama
 aciu.lt,gydomasismasazas.lt###adrotate_1
@@ -468,7 +469,6 @@ trolinukitus.lt##IMG[alt="Lankytinos vietos Lietuvoje"]
 tv1.lnkgo.lt##.videoBanner > *
 tv3play.lt#@#.ad-banner
 tv3play.lt#@#.section-ad
-tv3play.lt@@v.fwmrm.net^$object-subrequest,third-party
 tvenkiniu-projektai.lt,nemokamosknygos.lt##.banner1
 vaistai.lt###bannerright [data^="http://www.vaistai.lt/images/banners/"]
 vaistai.lt###table-rightbanner1
