@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: ios/x766OGdcFHgWCXbTOw
+! Checksum: vR2ov4Oa5zn3++qFGSM5Ew
 ! Title: EasyList Lithuania
 ! Prisidėjo: Algimantas Margevičius, Mantas Malcius 
 ! Apie neužblokuotas reklamas ar kitas bėdas praneškite el. paštu algimantas@margevicius.lt arba forume http://forums.lanik.us/ 
