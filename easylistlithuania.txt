@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: hbDhSxBhwO5yf90ECBMU+g
+! Checksum: T2Xf7Dtza6Dq+C96I+/OKg
 ! Title: EasyList Lithuania
 ! Prisidėjo: Algimantas Margevičius, Mantas Malcius 
 ! Apie neužblokuotas reklamas ar kitas bėdas praneškite el. paštu algimantas@margevicius.lt arba forume http://forums.lanik.us/ 
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2014-07-21
+! Paskutinis atnaujinimas: 2014-07-26
 ! Expires: 7 days (update frequency)
 ###delfi-front-right-column
 ##.reklamos_nuorodos
@@ -44,6 +44,7 @@
 15min.lt##.pi_base_box.pi_base_box_domo
 15min.lt##.pi_base_box.pi_base_box_plius
 15min.lt##A[href="http://www.vistienakitaip.lt/fiesta"] > IMG
+15min.lt##IMG[alt="Klasikinės muzikos gerbėjams dovana – „Vivace Vilnius“ festivalio koncertai"]
 15min.lt##[href^="http://adsplius.lt/trackers"] > *
 15min.lt##pi_one_ad
 5braskes.lt,klubas.lt##.delfi-article-banner
@@ -109,6 +110,7 @@ auto-loads.lt##.js-autotaurage-banner *
 auto.plius.lt##.auto_leasing *
 auto.plius.lt##.citadele-wrapper *
 automokyklos.lt##.reklamaadd
+baidare.com##.spotlight > *
 balsas.lt##A[href="http://aroma24.lt"]
 balsas.lt##A[href="http://www.eshops.lt/prekes-internetu/apranga-drabuziai-internetu"]
 balsas.lt##A[href="http://www.kim.lt/svetainiu-kurimas.html"]
@@ -362,6 +364,7 @@ orai.biz###AutoNumber1
 orai.biz##A IMG[src^="pav/"]
 pagalbadaiktais.lt,priejuros.lt,pagalbadarbais.lt##.draugai
 pagamintarankomis.lt,pasidarykpats.eu###text-5.widget.widget_text
+pakalne.lt##DIV.widget.box.last A[href^="http://"] > IMG[src^="http://pakalne.lt/wp-content/uploads/"]
 panele.lt,tavovaikas.lt##.article-banner
 panevezieciai.lt###zoro-offers-mod-container > *
 panevezieciai.lt##.bannergroup_center > *
@@ -395,7 +398,6 @@ priejuros.lt##A[href="http://www.priejuros.lt/lt/apgyvendinimas/sventojoje-1-kam
 priejuros.lt##A[href="http://www.priejuros.lt/lt/pramogos/velykos-pajuryje/"]
 priejuros.lt##A[rel="nofollow"][href="http://www.karkle.lt/page10.php"]
 priekavos.lt###post + #content-banners
-priekavos.lt/reklamos
 prokuraturos.lt###dnn_LeftPane
 prokuraturos.lt###dnn_daugiauInfo
 psichologas.info##IMG[alt="laisvoji banga tiesiogine laida"]
@@ -408,7 +410,7 @@ reitingai.eu##.contentadbox + * *
 reklamos4.lt##.smallbrd[classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"]
 reklamos4.lt##.smallbrd[src^="http://www.reklamos4.lt/site/templates/siger_r4/"]
 respublika.lt##a[href^="http://www.respublika.lt/,banner_id."]
-rinkaplius.lt,pasikeisk.lt,priekavos.lt,1588.lt,devetibaldai.lt,panbalsas.lt,sodobaldai.lt,ekopasaulis.com,ekopirk.lt,zaislaivaikams.lt,kcci.lt,mystore.lt##.banner
+rinkaplius.lt,strazdaneles.lt,pasikeisk.lt,priekavos.lt,1588.lt,devetibaldai.lt,panbalsas.lt,sodobaldai.lt,ekopasaulis.com,ekopirk.lt,zaislaivaikams.lt,kcci.lt,mystore.lt##.banner
 rinkoje.blogspot.com###Slideshow2_slideshow
 rkdragunas.lt###newsticker-demo
 rkdragunas.lt##.infiniteCarousel > *
@@ -433,6 +435,7 @@ savas.lt##A[href="http://www.lefkada-hotels.com/"]
 seimosvaistine.lt##.top
 senukai.lt##[src*="http://www.senukai.lt/out/1/html/0/images/wysiwigpro/Baneris*"]
 server2.beta.lt###for-product1
+shop.kristel.lt##A[href^="http://"] > IMG[src^="/upload_data/"]
 silentpc.lt##.providers-block *
 siloaidas.lt##A[target="_blank"][href*="http://"] > IMG
 siloaidas.lt,mususavaite.lt,spainetosdraudimas.lt##IMG[src*="baneris"]
@@ -499,6 +502,7 @@ vilniaus-turtas.lt##A[target="_blank"] > IMG[src^="images/"]
 visalietuva.lt###brandpageA
 visalietuva.lt###brandpageB
 visalietuva.lt###brandpageC
+vitosrankdarbiai.lt##A[href^="http://www."] > IMG
 voruta.lt##A[rel="nofollow"] + * + * + * > IMG
 vz.lt##.bannerbox
 webaras.lt###content-sidebar.content-sidebar.widget-area[role="complementary"]
@@ -513,9 +517,10 @@ zodynas.kriu.lt##.box1[style="background:none; text-align:center; padding:5px;"]
 zodynas.kriu.lt##.box1[style="padding:10px 0;"]
 zooplius.lt##A[alt="Prezi.lt"] + CENTER
 zooplius.lt##CENTER > A > *
-zoovet.lt,silentpc.lt,meistras1.lt,bitute.lt,vivasaninfo.lt##.banners
+zoovet.lt,silentpc.lt,meistras1.lt,bitute.lt,vivasaninfo.lt,piniginuke.lt,tuka.lt##.banners
 zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 |http://*.delfi.lt/c/ib/
+|http://mediasearch.lt/flashplayer/flowplayer.swf?0.38348993902331463
 ||120x60.lt/banners/
 ||195.82.146.52/top-rq/Kozhedub.swf?
 ||adbox.lt^$third-party
@@ -546,6 +551,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||automedia.lt/resources/_banners/
 ||autotaurage.lt/images/jau_at.png
 ||autotaurage.lt/images/salvage_lt.jpg
+||baidare.com/images/gera_dovana.png
 ||balsas.lt/Uploads/image/baneriams/
 ||balsas.lt/Uploads/image/logo/1/baneris1.jpg
 ||balsas.lt/iframe/orams
@@ -570,6 +576,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||bukmanodraugas.lt/attachments/Image/mars.jpg
 ||bullmastiffs.lt/lt/uploads/posts/2009-01/1232120461_baneris.jpg
 ||buypcgame.eu/banner
+||c.lefux.com/images/dd_new/beata_logo.gif
 ||cargo.lt/banners/
 ||ccg.lv/ads/
 ||ccic.lt/get.php?i.
@@ -692,6 +699,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||jurbarkosviesa.lt/content/download/229/2025/coral_solutions_banner.swf
 ||jurbarkosviesa.lt/var/ezwebin_site/storage/images/media/skydeliu-kategorijos/
 ||kaimai.lt/images/default/source/perku_vaikui.jpg
+||kaisiadoriuzinios.lt/wp-content/uploads/2014/03/EXTRAFM-AD-300x150.png
 ||karjerairsveikata.lt/wp-content/uploads/2013/09/profertil-720_200_1.png
 ||katinukai.lt/banners/
 ||kaunieciai.lt/images/stories/lietuve_zurnalas_logas%20naujas.jpg
@@ -704,6 +712,10 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||kernel.lt/img/nf.swf
 ||kinopavasaris.lt/bnr/2014/
 ||kkml.lt/public/var/banners/
+||knygininkas.lt/edit/editfiles/flash/baneriukas.swf
+||knygininkas.lt/edit/editfiles/logo%20edukologija(1).jpg
+||knygininkas.lt/images/partner/b-a-sone3.png
+||knygininkas.lt/images/partner/tuka.gif
 ||komentaras.lt/wp-content/themes/kk/img/P1_baneris.jpg
 ||komi.lt^$third-party
 ||komiksai.com/img_rek/
@@ -756,6 +768,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||meniu.lt/uploads/user_images/Ozonas_virselis_Maistas_250pix.jpg
 ||meniu.lt/uploads/user_images/RV41_cover.jpg
 ||menoerdve.lt/modules/mod_flexbanners/trans.gif
+||meteoprog.lt/lt/informerget/?type=4&city[]=Gargzdai&color=E45700&txtcolor=FFFF00&day=tommorow
 ||miskobirza.lt/images/news/Baneris1_120x60[1].JPG
 ||miskobirza.lt/images/texts/ad
 ||miskobirza.lt/images/texts/miskui_lt_90x55_1[1].jpg
@@ -817,6 +830,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||prestigeidea.lt/images/banners/
 ||priejuros.lt/imgs/issinuomosiu.gif
 ||priejuros.lt/palangosvila/palangosvila.swf
+||priekavos.lt/reklamos
 ||prizme.lt/images/banners/
 ||prokuraturos.lt/Portals/0/Skins/lrgp/images/Patarimai.gif
 ||prokuraturos.lt/Portals/0/Skins/lrgp/images/banner1.gif
@@ -921,6 +935,10 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||vilniausgidas.lt/wp-content/uploads/2013/05/vorutos-logo.jpg
 ||vilniausgidas.lt/wp-content/uploads/2013/06/G.clips_.png
 ||vinita.lt/uploads/banner1.swf
+||viskas-vestuvems.lt/banner/jujuke.jpg
+||viskas-vestuvems.lt/banner/kristel.gif
+||viskas-vestuvems.lt/banner/vitosrankdarbiai.gif
+||viskas-vestuvems.lt/grozio/stiliusvisiems.jpg
 ||viskasvestuvems.eu/images/Paslaugos/patalpos/alauso/alausoslenis.gif
 ||viskasvestuvems.eu/images/banners/
 ||visospagalves.lt/skin/frontend/default/grayscale/images/banners/
