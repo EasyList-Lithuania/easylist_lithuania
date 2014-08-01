@@ -10,6 +10,59 @@
 ! Expires: 7 days (update frequency)
 ###delfi-front-right-column
 ##.reklamos_nuorodos
+||knygininkas.lt/edit/editfiles/flash/baneriukas.swf
+||knygininkas.lt/images/partner/b-a-sone3.png
+15min.lt##IMG[alt="Klasikinės muzikos gerbėjams dovana – „Vivace Vilnius“ festivalio koncertai"]
+kaisiadoriuzinios.lt##IMG[src="/wp-content/uploads/2014/03/EXTRAFM-AD-300x150.png"]
+knygininkas.lt##IMG[src="http://www.knygininkas.lt/edit/editfiles/logo edukologija(1).jpg"]
+knygininkas.lt##IMG[src="http://www.knygininkas.lt/images/partner/tuka.gif"]
+tuka.lt##.banners
+baidare.com##IMG[src="http://www.meteoprog.lt/lt/informerget/?type=4&city[]=Gargzdai&color=E45700&txtcolor=FFFF00&day=tommorow"]
+baidare.com##IMG[src="/images/gera_dovana.png"]
+baidare.com##.spotlight > *
+viskas-vestuvems.lt##IMG[src="grozio/stiliusvisiems.jpg"]
+viskas-vestuvems.lt##IMG[src="http://c.lefux.com/images/dd_new/beata_logo.gif"]
+viskas-vestuvems.lt##IMG[src="banner/kristel.gif"]
+viskas-vestuvems.lt##IMG[src="banner/jujuke.jpg"]
+viskas-vestuvems.lt##IMG[src="banner/vitosrankdarbiai.gif"]
+piniginuke.lt##.banners
+vitosrankdarbiai.lt##A[href^="http://www."] > IMG
+pakalne.lt##DIV.widget.box.last A[href^="http://"] > IMG[src^="http://pakalne.lt/wp-content/uploads/"]
+shop.kristel.lt##A[href^="http://"] > IMG[src^="/upload_data/"]
+strazdaneles.lt##.banner *
+etaplius.lt###shout-stream *
+dazasvydis.lt##IMG[src="/images/lazertag_ban-ani.gif"]
+dazasvydis.lt##IMG[src="/images/laz_ban.gif"]
+dazasvydis.lt##IMG[src="/images/lazertag_ban-ani.gif.pagespeed.ce.QwRqJkDpox.gif"]
+dazasvydis.lt##IMG[src^="/images/laz_ban.gif"]
+legionas.lt##.banner-holder *
+triada.lt##IMG[src="http://triada.lt/image/data/Lazer-250x250-1.jpg"]
+triada.lt##IMG[src="http://triada.lt/image/data/image001.png"]
+dazasvydis.transer.net##IMG[src="http://dazasvydis.transer.net/files/image/vestuves%20logo.jpg"]
+dazasvydis.transer.net##IMG[src="http://dazasvydis.transer.net/files/image/transer%20technical%20translations_logo.jpg"]
+verslovirusas.lt##IMG[src="http://verslovirusas.lt/wp-content/uploads/2013/10/logovisi.png"]
+litlogas.com##.bannergroup *
+dienosakcijos.lt##IMG[src^="/static/banners/"]
+solisun.lt##IMG[alt^="baner_"]
+solisun.lt##IMG[src="http://www.solisun.lt/?_nm_shot=files.1.2-329&_nm_nosession=1"]
+vaga.lt###block_new_block3 A > IMG[src^="/get.php?i."]
+vaga.lt##IMG[src="/get.php?i.790830"]
+vaga.lt##IMG[src="/get.php?i.744360"][style="WIDTH: 170px; HEIGHT: 107px"]
+maistobankas.lt##IMG[src^="http://www.onlyoffice.com/images/banners/"]
+maistobankas.lt##IMG[src="http://www.maistobankas.lt/uploads/user/image/maisto-svaistymas-naujas.gif"]
+elektromarkt.lt##IMG[src^="http://www.elektromarkt.lt/out/pictures/promo/"]
+elektromarkt.lt###ms_overlay > *
+elektromarkt.lt###cboxOverlay
+elektromarkt.lt###ms_overlay
+elektromarkt.lt##.lizing + * + *
+elektromarkt.lt##.lizing
+topocentras.lt##.homepage-banners
+15min.lt##DIV[class^="pi_base_box pi_base_"]
+topocentras.lt##DIV[id^="leasing-proposal-"]
+delfi.lt##A[href="http://kaunas.kasvyksta.lt/"] > *
+balsas.lt###position_7376 + .c_block.cont_list_8.c_block_bordered > *
+visalietuva.lt##.content_banners
+visalietuva.lt##IMG[src^="/companies/banners/"]
 ##.reklamos_tarpas
 ##.top_reklama
 ##A[href="http://igrovieavtomationline.net"]
@@ -20,6 +73,15 @@
 ##IMG[alt="Reklaminis skydelis"]
 ##a[href="http://igrovoi-klub.org/fair-land"]
 -baneris-
+||ekoma.lt/banner/
+delfi.lt##DIV[id^="alio-"]
+delfi.lt##DIV[class$="-infoblock"]
+delfi.lt##DIV[class^="con-"]
+|http://mediasearch.lt/flashplayer/flowplayer.swf?0.38348993902331463
+||brigada.lt/images/banners/*
+|http://www.lukoil.lt/mimages/Banners/
+||katpedele.lt/images/charlie/charlie-kids-980x200-v4-clicktag.swf
+||tavovaikas.lt/newsfeed/?p=
 /PopBox.js
 /baneriai/*
 /baneris.
@@ -39,15 +101,10 @@
 15min.lt##.kainos_box
 15min.lt##.most_read_ads
 15min.lt##.outer-links
-15min.lt##.pi_base_box.pi_base_box_
-15min.lt##.pi_base_box.pi_base_box_auto
-15min.lt##.pi_base_box.pi_base_box_domo
-15min.lt##.pi_base_box.pi_base_box_plius
 15min.lt##A[href="http://www.vistienakitaip.lt/fiesta"] > IMG
 15min.lt##IMG[alt="Klasikinės muzikos gerbėjams dovana – „Vivace Vilnius“ festivalio koncertai"]
 15min.lt##[href^="http://adsplius.lt/trackers"] > *
 15min.lt##pi_one_ad
-5braskes.lt,klubas.lt##.delfi-article-banner
 7min.lt##A[href="http://1920x1080wallpapers.eu/"]
 7min.lt##A[href="http://www.tvlietuviskai.eu/"]
 @@|http://skelbimai.one.lt/uploads/modules/ads/
@@ -81,12 +138,11 @@ alfa.lt##.cosite_block
 alio.lt###adv_view_top
 alio.lt###advert_right
 alio.lt###banner-top
-alio.lt###main-content-right
+alio.lt,alio.proxy.dlf.lt###main-content-right
 alio.lt###rssReader_b
 alio.lt##.fl.marginb10.vipadvertise
 alio.proxy.dlf.lt###infoblock
 alio.proxy.dlf.lt###inner_b
-alio.proxy.dlf.lt###main-content-right EMBED[src^="http://delfilt.adocean.pl/files/"]
 alio.proxy.dlf.lt###zaveReader_b
 alio.proxy.dlf.lt##DIV[style="width: 210px; padding: 5px 19px 0px; height: 503px;"]
 alytus-tourism.lt###banner_cont
@@ -104,20 +160,12 @@ asliekna.lt###jhfbapp > *
 asvyras.lt##.ad1
 asvyras.lt##.ad2
 atvfanai.lt###banner-placeholder-1.banner-placeholder
-auto-loads.lt###banner_container_corner_right
-auto-loads.lt###banner_container_corner_top
+auto-loads.lt##DIV[class^="banner_container_corner_"]
 auto-loads.lt##.js-autotaurage-banner *
 auto.plius.lt##.auto_leasing *
 auto.plius.lt##.citadele-wrapper *
 automokyklos.lt##.reklamaadd
 baidare.com##.spotlight > *
-balsas.lt##A[href="http://aroma24.lt"]
-balsas.lt##A[href="http://www.eshops.lt/prekes-internetu/apranga-drabuziai-internetu"]
-balsas.lt##A[href="http://www.kim.lt/svetainiu-kurimas.html"]
-balsas.lt##A[href="http://www.nuolaidos.lt/nuolaida?cat%5B%5D=3&cat%5B%5D=38"]
-balsas.lt##A[href="http://www.taupiems.lt/"]
-balsas.lt##A[href="http://www.zaidimuklubas.lt/"]
-balsas.lt##A[href="https://brokeriai.eu"]
 baltoslankos.lt###parneriai
 baltracker.net##IMG[title="PicMik free image hosting"]
 baltupiudarzelis.lt###content > A[href^="http://www."] > IMG
@@ -149,8 +197,6 @@ chatas.lt##a[href="http://www.100skelbimu.lt/"]
 ciurlioniopaveldas.lt##.bx-viewport
 cosmopolitan.lt##.cosmo-article-banner
 cust.lt##.footer_banners
-cv.lt###smban_cv_border
-cv.lt###smban_cv_wrap
 daiktai.eu##TABLE[style="background: #4b4442; width: 160px; border: 0px solid white;padding-top:5px;padding-left:5px"]
 daiktai.eu##TABLE[style="font-family: verdana;font-weight:normal;color:indigo;font-size:11px;background:#4b4442; width:160px;border: 0px solid brown;padding-left:16;"]
 daiktai.eu##[bgcolor="#87B6D9"] > [bordercolor="beige"][style="font-family: verdana;font-weight:bold;color:indigo;font-size:11px;background:whitesmoke; width:300px;border: 0px solid brown;margin-left:6px"] > *
@@ -160,25 +206,17 @@ danguje.lt##A[href^="/component/banners/click/"] > IMG
 danielius.net##DIV[style="width: 80%; font-size: 12px; padding: 5px; border: 1px dashed #CCF5CC; background: #F0FCF0; margin: 0 auto;"]
 day.lt##[style="line-height: 25px; margin: 15px 8px 2px auto;"]
 degalines.orlenlietuva.lt##.addsBoxFirst
-delfi.lt###alio-block-dk
-delfi.lt###alio-block-nt
-delfi.lt###alio-delfitv
+delfi.lt##DIV[class^="alio-"]
 delfi.lt###banner-box
 delfi.lt###dwidget_6066.dwidget[style="width:250px;height:500px;display:block;overflow:hidden"]
 delfi.lt###glmr
 delfi.lt###recipes-section
 delfi.lt###wallpaper
-delfi.lt##.con-braskes
-delfi.lt##.con-cosmo
-delfi.lt##.con-manonamai
-delfi.lt##.con-moteris
 delfi.lt##.delfi-ads-block
 delfi.lt##.delfi-ads-front-container
 delfi.lt##.delfi-anonsai.category-header-line
-delfi.lt##.delfi-article-banner.marked-banner
 delfi.lt##.delfi-content-ads
 delfi.lt##.delfi-content-container.delfi-category-anonsai-external
-delfi.lt##.tavovaikas-infoblock
 depiliacija.eu###products_page_container > *
 depiliacija.eu##A[href="http://depiliacija.eu/fotoepiliatorius-silkn-flashgo-luxx/"]
 depiliacija.eu##A[href="http://depiliacija.eu/silkn-glide-naujas-kompaktiskas-fotoepiliatorius/"]
@@ -499,9 +537,6 @@ versliukai.lt###page-ads
 versliukai.lt###sidebar-madmen
 verslosavaite.lt##.moduletabledesinen
 vilniaus-turtas.lt##A[target="_blank"] > IMG[src^="images/"]
-visalietuva.lt###brandpageA
-visalietuva.lt###brandpageB
-visalietuva.lt###brandpageC
 vitosrankdarbiai.lt##A[href^="http://www."] > IMG
 voruta.lt##A[rel="nofollow"] + * + * + * > IMG
 vz.lt##.bannerbox
