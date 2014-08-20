@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: rnPXcNL3ivDR3QAI8stQng
+! Checksum: I0k54S55meVQRvUOhUI1WA
 ! Title: EasyList Lithuania
 ! Prisidėjo: Algimantas Margevičius, Mantas Malcius 
 ! Apie neužblokuotas reklamas ar kitas bėdas praneškite el. paštu algimantas@margevicius.lt arba forume http://forums.lanik.us/ 
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2014-08-08
+! Paskutinis atnaujinimas: 2014-08-20
 ! Expires: 7 days (update frequency)
 ###delfi-front-right-column
 ##.reklamos_nuorodos
@@ -132,6 +132,7 @@ cargonews.lt##.bottom-banner IMG[src^="http://www.cargonews.lt/wp-content/banner
 ccic.lt###block_banner_2 *
 chatas.lt###ad-30
 chatas.lt##.content[style="text-align: center;"]:first-child
+chatas.lt##.plug78 *
 chatas.lt##.row.bg1.global-announce + .content
 chatas.lt##.thumbtitle
 chatas.lt##[src^="http://draugaukime.lt/banner/db.js.php"] + * *
@@ -268,6 +269,7 @@ kkml.lt##.left-banner-wrap
 klauskkunigo.lt,voruta.lt##A[rel="nofollow"] > IMG
 klubas.lt###klubas-right-column
 klubas.lt##IMG[src*="http://delfilt.adocean.pl/files/*"]
+knygoholike.blogspot.com##A[href="http://www.veltinis.lt"] > IMG
 konsultuokis.lt##.useful_banner_manager_banner *
 kovosakademija.lt###links_container *
 kronika.lt###leftbar-w A > IMG
@@ -302,6 +304,7 @@ lbks.lt##.custom A[href^="http://"][target="_blank"]
 legalus.net##IMG[alt="www.linda-seeds.com"]
 legionas.lt##.banner-holder *
 lianosgalerija.webs.com##IMG[alt="veltinis.lt - rankdarbiai iš vilnos, vėlimas"]
+lietuvis.no###wdBannerImg
 liguabc.lt##IMG[alt="Ruba.lt - vyriški marškiniai, megztiniai internetu, išpardavimas"]
 litlogas.com,madairgrozis.lt##.bannergroup
 lova.lt##.floating-box-inner
@@ -524,6 +527,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||120x60.lt/banners/
 ||195.82.146.52/top-rq/Kozhedub.swf?
 ||4ride.lt/media/wysiwyg/Blog/unnamed.png
+||adart.hostin.lt/banners/535-1-1400679441.jpg
 ||adbox.lt^$third-party
 ||adclick.lt^$third-party
 ||adnet.lt^$third-party
@@ -542,6 +546,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||apieseksa.lt/wp-content/uploads/2014/02/FASHION-STOCKINGS-BANNER-300x300.jpg
 ||apieseksa.lt/wp-content/uploads/2014/03/SEKS-KOMPLEKTUKAI.jpg
 ||apievestuves.lt/m/ads
+||asirpsichologija.lt/manage/data/upimages/pirktuve.gif
 ||asusshop.lt/out/basic/2/img/peel/new_big.swf
 ||atsimink.lt/images/120_60.jpg
 ||atsimink.lt/images/serveriai.gif
@@ -773,6 +778,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||lh6.googleusercontent.com/-emSu6klAyOM/U00ckPNq4KI/AAAAAAAAAOk/Op4XYSWK7R4/w700-h112-no/go9000bannerisiforuma.jpg
 ||lianosgalerija.webs.com/tavokaroliukai%20(2).jpg%20
 ||lianosgalerija.webs.com/veriniai%20(1).jpg%20
+||lietuvis.no/images/stories/forumas2_128.gif
 ||lilijairsaulius.ucoz.de/Ikonos/Unbenannt.png
 ||lombas.lt/image/gmx/
 ||lova.lt/files/uploads/images/sitefriends/
@@ -835,6 +841,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||ori.lt/wp-content/uploads/2013/09/Moters_pagalba_180x150.gif
 ||pankontaktas.lt/images/banners/
 ||pasidarykpats.eu/wp-content/uploads/2012/09/pasidaryk120.png
+||pasidarykpats.eu/wp-content/uploads/2012/09/pasidaryk468.png
 ||passat-club.lt/auto_parts.jpg
 ||perkuvaikui.lt/media/upload/image/Beautyline%20ban%20180x180.jpg
 ||perkuvaikui.lt/media/upload/image/Zappy%20baneris%20180x120_frame_2.jpg
@@ -962,6 +969,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||trevors.lt/lt/catalog/details/455$popup
 ||triada.lt/image/data/Lazer-250x250-1.jpg
 ||triada.lt/image/data/image001.png
+||tv-internetu.eu/images/transfergo250x250.jpg
 ||tvenkiniu-projektai.lt/baseinai.swf
 ||twickerz.com/banner/125x125.gif
 ||ubl.lt/skaiciuokle/calculator.php
