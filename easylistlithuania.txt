@@ -45,6 +45,9 @@
 15min.lt##[href^="http://adsplius.lt/trackers"] > *
 15min.lt##pi_one_ad
 7min.lt##A[href="http://1920x1080wallpapers.eu/"]
+draugas.lt##.row.dr-ad-top
+fortuna.draugas.lt##.rkl
+||basketnews.lt/config/basketnews.lt/themes/ads_topsport_20140826/bg04.jpg
 7min.lt##A[href="http://www.tvlietuviskai.eu/"]
 @@|http://skelbimai.one.lt/uploads/modules/ads/
 @@||9menesiai.lt/image/cache/data/Baneriai/
