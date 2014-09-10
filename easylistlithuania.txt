@@ -11,6 +11,13 @@
 ###delfi-front-right-column
 ##.reklamos_nuorodos
 ##.reklamos_tarpas
+draugas.lt##.row.dr-ad-top
+fortuna.draugas.lt##.rkl
+technologijos.lt###portal_baner_750x100_td_v2
+gamtosnamai.lt###marquee > .tickercontainer IMG
+||basketnews.lt/config/basketnews.lt/themes/ads_topsport_20140826/bg04.jpg
+||technologijos.lt/n/iframe_baneris
+||technologijos.lt/n/url/straipsnio_viduje/iframe_baneris
 ##.top_reklama
 ##A[href="http://igrovieavtomationline.net"]
 ##A[href="http://www.moteris.lt/didieji-grozio-pokyciai/"]
