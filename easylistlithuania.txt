@@ -27,11 +27,11 @@
 /baneriukai/*
 /baneriukas/*
 /skydeliai/*
-kaunas.cvzona.lt##.b-group
-kaunas.cvzona.lt##[style="position: absolute; bottom:6px; left: 2px; font-size: 10px; background: url(/img/icon-reklama.gif) no-repeat; width: 7px; height: 41px"] + #fl-embd-736
-kaunas.cvzona.lt##.no-print[style="background: #eee; padding: 3px 3px 3px 12px; margin-top: 7px; line-height: 0; text-align: center; position: relative; width: 750px; margin-left: 40px"]
-kaunas.cvzona.lt###top-b
-kaunas.cvzona.lt##DIV[style="position: absolute; text-align: center; height: 100px; width: 750px; border:1px solid #F1F1F1; border-top:none; background: #F7F7F7"]
+cvzona.lt##.b-group
+cvzona.lt##[style="position: absolute; bottom:6px; left: 2px; font-size: 10px; background: url(/img/icon-reklama.gif) no-repeat; width: 7px; height: 41px"] + #fl-embd-736
+cvzona.lt##.no-print[style="background: #eee; padding: 3px 3px 3px 12px; margin-top: 7px; line-height: 0; text-align: center; position: relative; width: 750px; margin-left: 40px"]
+cvzona.lt###top-b
+cvzona.lt##DIV[style="position: absolute; text-align: center; height: 100px; width: 750px; border:1px solid #F1F1F1; border-top:none; background: #F7F7F7"]
 1000receptu.lt###gpt-block
 118.lt##.adnet-add
 1588.lt###headerBanner
