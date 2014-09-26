@@ -25,6 +25,8 @@
 /baneris.
 /baneris_
 /baneriukai/*
+inbox.lt##DIV[id="inxAds-imr"]
+||b.inbox.lt/b/*
 /baneriukas/*
 /skydeliai/*
 kaunas.cvzona.lt##.b-group
