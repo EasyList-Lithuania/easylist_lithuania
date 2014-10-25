@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: O5yQiEg4Bwo6njqXSPVMbw
+! Checksum: zGdpyVMF1oFk3mhxKpOfoQ
 ! Title: EasyList Lithuania
 ! Prisidėjo: Algimantas Margevičius, Mantas Malcius 
 ! Apie neužblokuotas reklamas ar kitas bėdas praneškite el. paštu algimantas@margevicius.lt arba forume http://forums.lanik.us/ 
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2014-09-24
+! Paskutinis atnaujinimas: 2014-10-25
 ! Expires: 7 days (update frequency)
 ###delfi-front-right-column
 ##.reklamos_nuorodos
@@ -64,9 +64,12 @@
 @@||pildyk.lt/uploads/files/BANERIS_pildyk.jpg
 @@||post.lt/bin/banners/
 @@||post.lt/files/resized/*x*/banners/
+@@||tavovaikams.lt//images/goods/*$domain=~tavovaikams.lt
 @@||teatras.lt/uploads/img/banners/
 @@||technologijos.lt/iframe_komentarai
 @@||v.fwmrm.net$domain=tv3play.lt
+@@||vaikutis.lt/image/cache/data/baneriai/*
+@@||vaikutis.lt/image/data/baneriai/*
 aciu.lt###adrotate_2
 aciu.lt##.parama
 aciu.lt,gydomasismasazas.lt###adrotate_1
@@ -283,6 +286,7 @@ kkml.lt##.left-banner-wrap
 klauskkunigo.lt,voruta.lt##A[rel="nofollow"] > IMG
 klubas.lt###klubas-right-column
 klubas.lt##IMG[src*="http://delfilt.adocean.pl/files/*"]
+kmobiles.lt##.sidebar-item.friends
 knygoholike.blogspot.com##A[href="http://www.veltinis.lt"] > IMG
 konsultuokis.lt##.useful_banner_manager_banner *
 kovosakademija.lt###links_container *
@@ -383,6 +387,7 @@ patiekalu-receptai.lt##.tekstas_cont A[href="http://www.ruba.lt/vyrams/vyriski-m
 pazintys.draugas.lt##DIV[style="border: solid 3px #fcb617; width: 166px; padding: 8px 0px 8px 5px;"]
 pegasusfoto.lt##A + * + A
 pegasusfoto.lt##[style="font-family: georgia,palatino; font-size: 10pt;"] > A[href^="http://"]
+perkuvaikui.lt##.baneriokas + * *
 perpasauli.lt##.pp-article-banner
 perpasauli.lt##a[href="http://www.perpasauli.lt/naujienos/10-ispudingiausiu-austrijos-kampeliu.d?id=64743063&utm_source=external&utm_medium=newsexport&utm_campaign=250x500"] > IMG
 pho.lt##.xoxo.blogroll A
@@ -477,6 +482,7 @@ sveikatossodas.lt##[class^="baneris"]
 sveksnosnaujienos.lt##.blog-sidebar *
 sveksnosnaujienos.lt##.wsite-image.wsite-image-border-none
 tattoo.lt###layerslider_widget-3
+tavovaikams.lt##DIV[class="margin: 10px 0px"]
 technews.lt##.left_side
 technologijos.lt###portal_baner_750x100_td_v2
 technologijos.lt##.lygiuoti_centras[style="padding: 1.5em 0em 1.25em 0em;"]
@@ -502,6 +508,8 @@ tv3play.lt#@#.ad-banner
 tv3play.lt#@#.section-ad
 tvenkiniu-projektai.lt,nemokamosknygos.lt##.banner1
 vaga.lt###block_new_block3 A > IMG[src^="/get.php?i."]
+vaikutis.lt###area1.home-banner
+vaikutis.lt###area2.home-banner
 vaistai.lt###bannerright [data^="http://www.vaistai.lt/images/banners/"]
 vaistai.lt###table-rightbanner1
 vaistai.lt###table-rightbanner3.rightbanner_info
@@ -869,6 +877,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||perkuvaikui.lt/media/upload/image/mamu%20unija-1.png
 ||perkuvaikui.lt/media/upload/image/mokinukas(1).gif
 ||perkuvaikui.lt/media/upload/image/perku%20vaikui1.jpg
+||perkuvaikui.lt/media/wysiwyg/ARTmanija%20DOVANOS-04.jpg
 ||petworld.lt/images/uploader/ba/banner_
 ||pho.lt/wp-content/uploads/2009/10/logo.jpg
 ||pho.lt/wp-content/uploads/2009/10/musu_paveldas_150x300.gif
@@ -966,6 +975,9 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||sveikata.info/files/zaidimai-protui.jpg
 ||sveikatosabc.lt/templates/main/images/skradio.jpg
 ||sveikatosabc.lt/vidpadziai200x229.swf
+||tavovaikams.lt//cshowimage/augantys_rasomieji_stalai_vaikams_akcija6264s.jpg/165/170
+||tavovaikams.lt//cshowimage/mamairvaik._180_5207s.jpg/165/170
+||tavovaikams.lt//images/goods/baneris_180_180_2753s.swf
 ||tavovaikas.lt/newsfeed/?p=
 ||technologijos.lt/archyvas/skydeliai_mainams/
 ||technologijos.lt/n/iframe_baneris
