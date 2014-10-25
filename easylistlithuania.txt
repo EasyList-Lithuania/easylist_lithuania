@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: zGdpyVMF1oFk3mhxKpOfoQ
+! Checksum: /6m9ltiu7fsnPHAlMZ0L2w
 ! Title: EasyList Lithuania
 ! Prisidėjo: Algimantas Margevičius, Mantas Malcius 
 ! Apie neužblokuotas reklamas ar kitas bėdas praneškite el. paštu algimantas@margevicius.lt arba forume http://forums.lanik.us/ 
@@ -25,30 +25,8 @@
 /baneris.
 /baneris_
 /baneriukai/*
-inbox.lt##DIV[id="inxAds-imr"]
-||b.inbox.lt/b/*
 /baneriukas/*
 /skydeliai/*
-inbox.lt##DIV[id="inxAds-imr"]
-||b.inbox.lt/b/*
-||basketnews.lt/config/basketnews.lt/files/8/1838.swf
-mail.inbox.lt##.b-kaspersky > *
-nyksciai.lt##[src="images/sveikatos_oaze_982x110new1"]
-nyksciai.lt##IMG[src="/images/edox_200x91.gif"]
-nyksciai.lt##IMG[src="/images/tvika_200x200_11.gif"]
-nyksciai.lt##IMG[src="/images/jaros_prekyba_140403_1.gif"]
-nyksciai.lt##IMG[src="/images/sportas_1.jpg"]
-nyksciai.lt##[src="images/kompeksa_200x150"]
-nyksciai.lt##IMG[src="/images/siluma_200x200.gif"]
-nyksciai.lt##IMG[src="/images/anyksciu_vynas_2014_1.gif"]
-nyksciai.lt##IMG[src="/images/baidariu_nuoma.gif"]
-nyksciai.lt##IMG[src="/images/1551.jpg"]
-nyksciai.lt##IMG[src="/images/anyksciu_vandenys_160.jpg"]
-nyksciai.lt##IMG[src="/images/res_banner.jpg"]
-nyksciai.lt##IMG[src="/images/futbolo_sporto_klubas.jpg"]
-nyksciai.lt##IMG[src="/images/a_k_banner1.jpg"]
-nyksciai.lt##IMG[src="/images/nominacijos.gif"]
-nyksciai.lt##IMG[src="/images/nyksciai_168x91.gif"]
 1000receptu.lt###gpt-block
 118.lt##.adnet-add
 1588.lt###headerBanner
@@ -279,6 +257,7 @@ hardas.lt###v1b13546c9f
 hdpaveiksliukai.lt##.partners_right *
 igloro.info,alio.lt##.margint10
 imunitetas.lt,mesmoterys.lt##.ad
+inbox.lt##DIV[id="inxAds-imr"]
 info.lt###Reklama
 infoma.lt##.baneriai
 infrost.lt##IMG[alt="inFROST - CS 1.6 Serveriai"]
@@ -359,6 +338,7 @@ lzinios.lt###treciaStop
 lzskelbimai.com###banners_170
 macpartija.lt##A[href^="http://www."][target="_blank"]
 magic-shop.lt###container-ads
+mail.inbox.lt##.b-kaspersky > *
 mamairtetis.lt##.djslider-loader
 mamairvaikas.lt##IMG[alt="SVEIKATOS RADIJO LOGObaneris180 x90"]
 mamyciuklubas.lt##.banners_mklt_side1.banner_cont
@@ -610,6 +590,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||automedia.lt/resources/_banners/
 ||autotaurage.lt/images/jau_at.png
 ||autotaurage.lt/images/salvage_lt.jpg
+||b.inbox.lt/b/*
 ||baidare.com/images/gera_dovana.png
 ||balsas.lt/Uploads/image/baneriams/
 ||balsas.lt/Uploads/image/logo/1/baneris1.jpg
@@ -620,6 +601,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||banners.igloro.info/
 ||basketnews.lt/config/basketnews.lt/files/3/1753.swf
 ||basketnews.lt/config/basketnews.lt/files/7/1807.swf
+||basketnews.lt/config/basketnews.lt/files/8/1838.swf
 ||basketnews.lt/config/basketnews.lt/files/9/1809.swf
 ||basketnews.lt/config/basketnews.lt/themes/ads_topsport_20140826/bg04.jpg
 ||basketnews.lt/config/basketnews.lt/themes/ads_unibet_20131105/bg01.jpg
@@ -885,6 +867,22 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||nuotykiu-lenktynes.pramoguslenis.lt/failai/iliustracijos/2014/SmaPro.JPG
 ||nuotykiu-lenktynes.pramoguslenis.lt/failai/iliustracijos/2014/s_sportas_LOGOTIPAS_horizontalus_small.jpg
 ||nuotykiu-lenktynes.pramoguslenis.lt/failai/iliustracijos/AiC%20logo%20copy_2.JPG
+||nyksciai.lt/images/1551.jpg
+||nyksciai.lt/images/a_k_banner1.jpg
+||nyksciai.lt/images/anyksciu_vandenys_160.jpg
+||nyksciai.lt/images/anyksciu_vynas_2014_1.gif
+||nyksciai.lt/images/baidariu_nuoma.gif
+||nyksciai.lt/images/edox_200x91.gif
+||nyksciai.lt/images/futbolo_sporto_klubas.jpg
+||nyksciai.lt/images/jaros_prekyba_140403_1.gif
+||nyksciai.lt/images/kompeksa_200x150
+||nyksciai.lt/images/nominacijos.gif
+||nyksciai.lt/images/nyksciai_168x91.gif
+||nyksciai.lt/images/res_banner.jpg
+||nyksciai.lt/images/siluma_200x200.gif
+||nyksciai.lt/images/sportas_1.jpg
+||nyksciai.lt/images/sveikatos_oaze_982x110new1
+||nyksciai.lt/images/tvika_200x200_11.gif
 ||on-line.lt^$third-party
 ||onlyoffice.com/images/banners/
 ||opti-myst.lt/wp-content/uploads/2014/05/linava_2.jpg
