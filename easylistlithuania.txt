@@ -26,6 +26,17 @@
 /baneris_
 /baneriukai/*
 /baneriukas/*
+@@||telikas.biz/wp-content/uploads/2014/10/logo1.png
+~telikaz.biz#@##ad-cube-top
+~telikaz.biz#@##ad-space-2
+~telikaz.biz#@##ad_body
+~telikaz.biz#@##ad_haha_4
+~telikaz.biz#@##ads_mads_r1
+~telikaz.biz#@##adv_network
+~telikaz.biz#@##advert1
+~telikaz.biz#@##ad
+~telikaz.biz#@##ads
+~telikaz.biz#@##adsense
 /skydeliai/*
 1000receptu.lt###gpt-block
 118.lt##.adnet-add
