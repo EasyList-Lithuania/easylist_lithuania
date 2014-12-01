@@ -27,6 +27,9 @@
 /baneriukai/*
 /baneriukas/*
 /skydeliai/*
+@@||15minlt.adocean.pl^$third-party
+||delfi.lt/newsfeed/?p=
+15min.lt##.fs-banner
 @@||telikas.biz/wp-content/uploads/2014/10/logo1.png
 ~telikaz.biz#@##ad-cube-top
 ~telikaz.biz#@##ad-space-2
