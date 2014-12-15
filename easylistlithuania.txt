@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: OV7aJa+UmeDvvVVwPqQ6tw
+! Checksum: 2NJeKKdvnVfWxlrziwRAWw
 ! Title: EasyList Lithuania
 ! Prisidėjo: Algimantas Margevičius, Mantas Malcius 
 ! Apie neužblokuotas reklamas ar kitas bėdas praneškite el. paštu algimantas@margevicius.lt arba forume http://forums.lanik.us/ 
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2014-12-03
+! Paskutinis atnaujinimas: 2014-12-15
 ! Expires: 7 days (update frequency)
 ###delfi-front-right-column
 ##.reklamos_nuorodos
@@ -40,6 +40,7 @@
 15min.lt##.kainos_box
 15min.lt##.most_read_ads
 15min.lt##.outer-links
+15min.lt##.top-banner
 15min.lt##A[href="http://www.vistienakitaip.lt/fiesta"] > IMG
 15min.lt##DIV[class^="pi_base_box pi_base_"]
 15min.lt##IMG[alt="Klasikinės muzikos gerbėjams dovana – „Vivace Vilnius“ festivalio koncertai"]
@@ -191,6 +192,7 @@ dimexpro.eu,press-report.lt,buypcgame.eu,apiereklama.lt,pokernews.com##.ads
 diskusijos.darnipora.lt##.post.bg3
 diskusijos.darnipora.lt##IMG[onclick="Set_Cookie( 'popunder31254', 'true', 3, '/', '', '' );document.getElementById('myBtn').style.display='none';"]
 donoryste.eu##[alt="Klipas Donorystė"]
+dovanos.lt##.middle[style="border:none;padding:5px 0px;"] *
 dratas.lt##IMG[title="Poko.lt = (lietuviški blogai + socialiniai tinklai) * vienas kitas algoritmas"]
 draugas.lt##.row.dr-ad-top
 drauge.org##.side-body > TABLE[bgcolor="#87B6D9"]
