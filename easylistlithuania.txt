@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: 2NJeKKdvnVfWxlrziwRAWw
+! Checksum: XxSDranwyiMA7TNSVfWSFA
 ! Title: EasyList Lithuania
 ! Prisidėjo: Algimantas Margevičius, Mantas Malcius 
 ! Apie neužblokuotas reklamas ar kitas bėdas praneškite el. paštu algimantas@margevicius.lt arba forume http://forums.lanik.us/ 
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2014-12-15
+! Paskutinis atnaujinimas: 2015-01-03
 ! Expires: 7 days (update frequency)
 ###delfi-front-right-column
 ##.reklamos_nuorodos
