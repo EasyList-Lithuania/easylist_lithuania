@@ -108,6 +108,8 @@ atvfanai.lt###banner-placeholder-1.banner-placeholder
 auto-loads.lt##.js-autotaurage-banner *
 auto-loads.lt##DIV[class^="banner_container_corner_"]
 auto.plius.lt###banner_middle3
+auto.plius.lt###banner_right
+auto.plius.lt###banner_right2
 auto.plius.lt##.ads-hor
 auto.plius.lt##.auto_leasing *
 auto.plius.lt##.citadele-wrapper *
