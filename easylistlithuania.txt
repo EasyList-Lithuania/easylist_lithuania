@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: k9OLi3ejWc+WeUvVgnlLdQ
+! Checksum: qxHnZO9bW8hPL+dCyjytjQ
 ! Title: EasyList Lithuania
 ! Prisidėjo: Algimantas Margevičius, Mantas Malcius 
 ! Apie neužblokuotas reklamas ar kitas bėdas praneškite el. paštu algimantas@margevicius.lt arba forume http://forums.lanik.us/ 
@@ -40,6 +40,9 @@
 15min.lt##.kainos_box
 15min.lt##.most_read_ads
 15min.lt##.outer-links
+15min.lt##.plius-base-box.plius-base-box-auto
+15min.lt##.plius-base-box.plius-base-box-domo
+15min.lt##.plius-base-box.plius-base-box-plius
 15min.lt##.top-banner
 15min.lt##.top-banner *
 15min.lt##A[href="http://www.vistienakitaip.lt/fiesta"] > IMG
