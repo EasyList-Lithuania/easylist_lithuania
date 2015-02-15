@@ -1,11 +1,12 @@
 [Adblock Plus 2.0]
+! Checksum: k9OLi3ejWc+WeUvVgnlLdQ
 ! Title: EasyList Lithuania
 ! Prisidėjo: Algimantas Margevičius, Mantas Malcius 
 ! Apie neužblokuotas reklamas ar kitas bėdas praneškite el. paštu algimantas@margevicius.lt arba forume http://forums.lanik.us/ 
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2015-01-03
+! Paskutinis atnaujinimas: 2015-02-15
 ! Expires: 7 days (update frequency)
 ###delfi-front-right-column
 ##.reklamos_nuorodos
@@ -40,6 +41,7 @@
 15min.lt##.most_read_ads
 15min.lt##.outer-links
 15min.lt##.top-banner
+15min.lt##.top-banner *
 15min.lt##A[href="http://www.vistienakitaip.lt/fiesta"] > IMG
 15min.lt##DIV[class^="pi_base_box pi_base_"]
 15min.lt##IMG[alt="Klasikinės muzikos gerbėjams dovana – „Vivace Vilnius“ festivalio koncertai"]
@@ -65,6 +67,7 @@
 @@||pildyk.lt/uploads/files/BANERIS_pildyk.jpg
 @@||post.lt/bin/banners/
 @@||post.lt/files/resized/*x*/banners/
+@@||simpsonaionline.net/js/advertisement.js
 @@||tavovaikams.lt//images/goods/$domain=~tavovaikams.lt
 @@||teatras.lt/uploads/img/banners/
 @@||technologijos.lt/iframe_komentarai
@@ -353,6 +356,8 @@ man.lt###text-86775731
 manoekonamai.lt##.tb-content-block.tb-content-block-banners-sidebar
 maps.lt##.title-right-banner
 maps.lt##DIV[style="background: url('client/img/sep-1.gif') repeat-x center;"]
+marijampolieciai.lt##A[href] > IMG[src^="/images/stories/Logotipai/"]
+marijampolieciai.lt##A[href^=""] > IMG[src^="/images/stories/Logotipai/"]
 marijosradijas.lt##A > IMG[src^="/images/banners/"]
 martens.lt##.squarebanner
 masazonamai.lt###imagecontainer.header-image-container
@@ -843,9 +848,11 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||man.lt/banner/300x230_Empire.jpg
 ||manonamai.lt/newsfeed/
 ||manosveikata.lt/resources/_banners/
+||marijampolieciai.lt/images/stories/suv.jpg
 ||masazonamai.lt/imunitetas.gif
 ||masazonamai.lt/kleopatra%2060x120.jpg
 ||maxtraffic.com
+||medguru.lt/uploads/img/banners/
 ||meileslegendos.lt/wp-content/uploads/2014/02/fotografas.png
 ||meileslegendos.lt/wp-content/uploads/2014/02/mergvakario-baneris_legendos.jpg
 ||meileslegendos.lt/wp-content/uploads/2014/03/vestuviu-fotografai.jpg
@@ -1100,4 +1107,3 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ~telikaz.biz#@##adsense
 ~telikaz.biz#@##adv_network
 ~telikaz.biz#@##advert1
-@@||simpsonaionline.net/js/advertisement.js
