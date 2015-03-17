@@ -34,6 +34,7 @@
 15min.lt##.ads-cnt
 15min.lt##.ap_mm_15min
 15min.lt##.ar-item.bg-border-greywhite.ar-row-29
+15min.lt##.ar-wrapper
 15min.lt##.df-auto-container
 15min.lt##.footer_note
 15min.lt##.fs-banner
