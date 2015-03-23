@@ -173,6 +173,7 @@ degalines.orlenlietuva.lt##.addsBoxFirst
 delfi.lt###banner-box
 delfi.lt###dwidget_6066.dwidget[style="width:250px;height:500px;display:block;overflow:hidden"]
 delfi.lt###glmr
+delfi.lt###leftSideOrder
 delfi.lt###new-partners
 delfi.lt###recipes-section
 delfi.lt###wallpaper
@@ -182,6 +183,7 @@ delfi.lt##.delfi-ads-front-container
 delfi.lt##.delfi-anonsai.category-header-line
 delfi.lt##.delfi-content-ads
 delfi.lt##.delfi-content-container.delfi-category-anonsai-external
+delfi.lt##.news-list-banner
 delfi.lt##A[href="http://kaunas.kasvyksta.lt/"] > *
 delfi.lt##A[rel="nofollow"][href^="http://www.delfi.lt/reklama/"] > *
 delfi.lt##DIV[class$="-infoblock"]
