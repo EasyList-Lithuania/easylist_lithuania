@@ -80,6 +80,7 @@
 @@||vaikutis.lt/image/cache/data/baneriai/
 @@||vaikutis.lt/image/data/baneriai/
 @@.png#^$domain=filmux.org
+@@||smailas.net/baneriai/*
 @@||filmux.org^$elemhide
 aciu.lt###adrotate_2
 aciu.lt##.parama
