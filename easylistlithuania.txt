@@ -490,6 +490,7 @@ skelbiu.lt##DIV.result
 skelbiu.lt##DIV[style="padding: 1px; border-bottom: 1px solid #E3E3E3; margin-top: -10px;"]
 skelbiu.lt##DIV[style="text-align: center; padding: 0px 0px; height: 200px; margin-bottom: 10px;"]
 skelbiu.lt##DIV[style="width: 980px; height: 200px;"]
+skelbiu.lt##LI[style="height: 240px;"]
 skrastas.lt##[src^="images/drawflash.php"] + * > *
 skrastas.lt||A[href^="go.php?lt="]
 skytech.lt###banner
