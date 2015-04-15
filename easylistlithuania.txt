@@ -82,6 +82,7 @@
 @@.png#^$domain=filmux.org
 @@||smailas.net/baneriai/*
 @@||filmux.org^$elemhide
+@@||googleapis.com/js/sdkloader/ima3.js$domain=lrytas.lt
 aciu.lt###adrotate_2
 aciu.lt##.parama
 aciu.lt,gydomasismasazas.lt###adrotate_1
