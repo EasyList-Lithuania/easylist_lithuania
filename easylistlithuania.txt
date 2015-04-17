@@ -386,6 +386,7 @@ menoerdve.lt##A[href^="/component/flexbanners/?task=click&id="]
 miske.lt##.box_outer.widget_awpcp-latest-ads + * + * *
 miskobirza.lt##.index_ads1
 miskobirza.lt##IMG[width="160"][src^="/images/texts/"]
+moteris.lt##A[href^="http://zurnalai.delfi.lt/index.php?page=pasiulymai"] > *
 moteris.lt##.moteris-article-banner
 motersgrozis.lt##.module-outer
 musupaveldas.lt###categories-3 + * A[target="_blank"]
@@ -1111,6 +1112,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||ziurimtv.eu/images/hostingas.png
 ||ziurimtv.eu/images/iv.png
 ||zvejokliai.lt/images/banners/
+||skelbiu-static.dgn.lt/static/5/smspinigai-v2.html
 ~telikaz.biz#@##ad
 ~telikaz.biz#@##ad-cube-top
 ~telikaz.biz#@##ad-space-2
