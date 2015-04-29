@@ -18,6 +18,16 @@
 ##IMG[alt="Hostingas Serveriai.lt"]
 ##IMG[alt="Reklaminis skydelis"]
 ##a[href="http://igrovoi-klub.org/fair-land"]
+||technologijos.lt/infoBlockEN
+##A[href*="index.php?page=pasiulymai"] > IMG
+kulturizmas.net##.rightbar *
+kulturizmas.net##.home.blog .homeslider.rotator
+cs-servers.lt##IMG[src^="http://www.demesioskelbimas.lt/images/banners/"]
+cs-servers.lt##.banner
+tvprograma.lt##IMG[src^="http://content.tvprograma.lt/banner/"]
+tv3.lt##IMG[src="/Uploads/image/000/indeliaiLT_baneris__300x200.jpg"]
+tv3.lt##IMG[src="http://www.balsas.lt/Uploads/UGallery/photos/5b/b5/cd/d1/5bb5cdd1b45c90d9f39bbc6c2fc8b3c7.jpg"]
+ekonomika.tv3.lt##A[href="http://www.lexpro.lt/lt?utm_source=ekonomika-lt&utm_medium=ekonomika-lt&utm_content=ekonomika&utm_campaign=300x350"] > *
 -baneris-
 /PopBox.js
 /baneriai/*
