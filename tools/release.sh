@@ -32,7 +32,7 @@ sed -i '/^\[/d' $file
 sed -i '/^\!/d' $file
 data=$(date +%Y-%m-%d)
 sed -i "1 i\
-\[Adblock Plus 2.0\]\n! Title: EasyList Lithuania\n! Prisidėjo: Algimantas Margevičius, Mantas Malcius \n! Apie neužblokuotas reklamas ar kitas bėdas praneškite el. paštu algimantas@margevicius.lt arba forume http://forums.lanik.us/ \n! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.\n! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt\n! Homepage: http://margevicius.lt/easylist_lithuania/\n! Paskutinis atnaujinimas: $data\n! Expires: 7 days (update frequency)" $file
+\[Adblock Plus 2.0\]\n! Title: EasyList Lithuania\n! Prisidėjo: Algimantas Margevičius, Mantas Malcius \n! Apie neužblokuotas reklamas ar kitas bėdas praneškite el. paštu algimantas@margevicius.lt arba forume http://forums.lanik.us/ \n! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.\n! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt\n! Homepage: http://margevicius.lt/easylist_lithuania/\n! Paskutinis atnaujinimas: $data\n! Expires: 30 days (update frequency)" $file
 
 #pridėt checksum
 cp $file ~easylistlithuania.txt
