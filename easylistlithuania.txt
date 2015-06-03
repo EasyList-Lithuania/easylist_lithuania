@@ -27,6 +27,9 @@
 /baneriukai/*
 /baneriukas/*
 /skydeliai/*
+@@||vjs.zencdn.net/4.12.5/video.js
+@@||imasdk.googleapis.com/js/core/
+tv.lrytas.lt###fabPost
 1000receptu.lt###gpt-block
 118.lt##.adnet-add
 1588.lt###headerBanner
