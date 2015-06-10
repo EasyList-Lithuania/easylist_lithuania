@@ -1,12 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: Xv8zYXp3ByrDss5sWpxeCQ
 ! Title: EasyList Lithuania
 ! Prisidėjo: Algimantas Margevičius, Mantas Malcius 
 ! Apie neužblokuotas reklamas ar kitas bėdas praneškite el. paštu algimantas@margevicius.lt arba forume http://forums.lanik.us/ 
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2015-06-07
+! Paskutinis atnaujinimas: 2015-06-10
 ! Expires: 30 days (update frequency)
 ###delfi-front-right-column
 ##.reklamos_nuorodos
@@ -28,6 +27,15 @@
 /baneriukai/*
 /baneriukas/*
 /skydeliai/*
+@@||telikas.biz/wp-content/uploads/2015/04/test4.png
+siustis.net##IMG[src="/templates/Coco/images/940x100.png"]
+@@||telikas.biz/wp-content/uploads/2015/04/test4.png#/ad_side./adbox_/add728./adping./adv/mobile/ad/blogad./commspace_ad./EmreAds./tmo/ads/ad.468x80-
+@@/adsbygoogle.$domain=telikaz.biz
+@@/googleads.$domain=telikaz.biz
+@@/pagead2.$domain=telikaz.biz
+@@/show_ads_$domain=telikaz.biz
+@@||pagead2.googlesyndication.com^$~object-subrequest,domain=telikaz.biz
+@@||googlesyndication.com/pagead/$third-party
 1000receptu.lt###gpt-block
 118.lt##.adnet-add
 1588.lt###headerBanner
