@@ -27,6 +27,7 @@
 /baneriukai/*
 /baneriukas/*
 /skydeliai/*
+vasara.tt.lt##A[target="_blank"] > IMG
 @@||telikas.biz/wp-content/uploads/2015/04/test4.png
 siustis.net##IMG[src="/templates/Coco/images/940x100.png"]
 @@||telikas.biz/wp-content/uploads/2015/04/test4.png#/ad_side./adbox_/add728./adping./adv/mobile/ad/blogad./commspace_ad./EmreAds./tmo/ads/ad.468x80-
