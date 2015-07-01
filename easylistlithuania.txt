@@ -27,6 +27,23 @@
 /baneriukai/*
 /baneriukas/*
 /skydeliai/*
+||udiena.lt/images/banners/
+||medicina.lt/r/
+banga.tv3.lt###footer
+||vz.lt/images/publicationimages/c8e2a76c-d6ea-461b-8fa8-215a54ed4c4a.jpg
+||groziodovanos.lt/groupon/affiliateFrame
+||1551.lt/images/banner
+||udiena.lt/images/banners
+||grokiskis.lt/uploads/banners/
+||kosmetikos.lt/images/zenklai/
+kosmetikos.lt##DIV#draugai > *
+||medicina.lt/r/
+medicina.lt##.description
+snaujienos.lt##.ad
+||basketnews.lt/config/basketnews.lt/files/3/2323.gif
+||basketnews.lt/config/basketnews.lt/themes/ads_
+basketnews.lt##IMG[alt="Olybet"]
+||kasvyksta.lt/wp-content/uploads/2015/06/bagazinesvilijampole.jpg
 vasara.tt.lt##A[target="_blank"] > IMG
 @@||telikas.biz/wp-content/uploads/2015/04/test4.png
 siustis.net##IMG[src="/templates/Coco/images/940x100.png"]
