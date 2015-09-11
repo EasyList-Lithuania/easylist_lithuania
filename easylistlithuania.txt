@@ -5,7 +5,7 @@
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2015-08-12
+! Paskutinis atnaujinimas: 2015-09-11
 ! Expires: 30 days (update frequency)
 ###delfi-front-right-column
 ##.reklamos_nuorodos
@@ -1153,6 +1153,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||ziurimtv.eu/images/hostingas.png
 ||ziurimtv.eu/images/iv.png
 ||zvejokliai.lt/images/banners/
+||server2.grupinis.lt/www.grupinis.lt
 ~telikaz.biz#@##ad
 ~telikaz.biz#@##ad-cube-top
 ~telikaz.biz#@##ad-space-2
