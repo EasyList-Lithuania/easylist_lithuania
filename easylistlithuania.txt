@@ -1153,7 +1153,8 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||ziurimtv.eu/images/hostingas.png
 ||ziurimtv.eu/images/iv.png
 ||zvejokliai.lt/images/banners/
-||server2.grupinis.lt/www.grupinis.lt
+||grupinis.lt/www.grupinis.lt
+||beta.lt/beta.lt/banners
 ~telikaz.biz#@##ad
 ~telikaz.biz#@##ad-cube-top
 ~telikaz.biz#@##ad-space-2
