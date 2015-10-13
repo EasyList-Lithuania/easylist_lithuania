@@ -1165,3 +1165,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ~telikaz.biz#@##adsense
 ~telikaz.biz#@##adv_network
 ~telikaz.biz#@##advert1
+||cvzona.lt/dienaLT_adv.php
+||l2servers.com/promo/neo2.jpg
+||l2servers.com/promo/l2mid1.gif
+||g2.dcdn.lt/media/bnr
