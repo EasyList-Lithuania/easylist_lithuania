@@ -95,6 +95,12 @@
 @@||vjs.zencdn.net/4.12.5/video.js
 aciu.lt###adrotate_2
 aciu.lt##.parama
+kasvyksta.lt#@#.social-bottom
+kasvyksta.lt###sidebar-widget-in
+kasvyksta.lt##.ad-block-content.renginiai
+kasvyksta.lt##.skelbimu-lenta.left
+kasvyksta.lt##.iskelta-galerija
+kasvyksta.lt##.susijusios-galerijos
 aciu.lt,gydomasismasazas.lt###adrotate_1
 aeropolis.lt###aeropolis *
 aeropolis.lt##IMG[title="SAABdalys.lt"]
@@ -1155,16 +1161,6 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||zvejokliai.lt/images/banners/
 ||grupinis.lt/www.grupinis.lt
 ||beta.lt/beta.lt/banners
-~telikaz.biz#@##ad
-~telikaz.biz#@##ad-cube-top
-~telikaz.biz#@##ad-space-2
-~telikaz.biz#@##ad_body
-~telikaz.biz#@##ad_haha_4
-~telikaz.biz#@##ads
-~telikaz.biz#@##ads_mads_r1
-~telikaz.biz#@##adsense
-~telikaz.biz#@##adv_network
-~telikaz.biz#@##advert1
 ||cvzona.lt/dienaLT_adv.php
 ||l2servers.com/promo/neo2.jpg
 ||l2servers.com/promo/l2mid1.gif
