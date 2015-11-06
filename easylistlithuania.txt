@@ -95,6 +95,7 @@ nklyga.lt##.bannerWrapper
 @@||v.fwmrm.net$domain=tv3play.lt
 @@||vaikutis.lt/image/cache/data/baneriai/
 @@||vaikutis.lt/image/data/baneriai/
+@@||adocean.pl^$thirdparty,$document,domain=15min.lt
 vela.lt##.otRounded.module-other-website-banner *
 vela.lt##.custom-other-website-banner2 IMG[src="http://www.vela.lt/images/additional/footmate3.jpg"]
 ||teo.lt/akcijoms/uzsakymoformos/kontaktai3.php?no_close
