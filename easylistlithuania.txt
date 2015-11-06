@@ -5,7 +5,7 @@
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2015-10-25
+! Paskutinis atnaujinimas: 2015-11-06
 ! Expires: 30 days (update frequency)
 ###delfi-front-right-column
 ##.reklamos_nuorodos
@@ -64,7 +64,6 @@ nklyga.lt##.bannerWrapper
 @@|http://skelbimai.one.lt/uploads/modules/ads/
 @@|http://telikas.biz/file/*/*/*.png#/ad_side./adbox_/add728./adping./adv/mobile/ad/blogad./commspace_ad./EmreAds./tmo/ads/ad.468x80-
 @@||9menesiai.lt/image/cache/data/Baneriai/
-@@||adocean.pl^$third-party,domain=15min.lt
 @@||apatinukai.lt/image/cache/data/baneriai/
 @@||banners.adnet.lt/i/euro_1_490x270_3.swf
 @@||banners.adnet.lt/i/euro_game_1.js
