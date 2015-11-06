@@ -95,6 +95,10 @@ nklyga.lt##.bannerWrapper
 @@||v.fwmrm.net$domain=tv3play.lt
 @@||vaikutis.lt/image/cache/data/baneriai/
 @@||vaikutis.lt/image/data/baneriai/
+vela.lt##.otRounded.module-other-website-banner *
+vela.lt##.custom-other-website-banner2 IMG[src="http://www.vela.lt/images/additional/footmate3.jpg"]
+||teo.lt/akcijoms/uzsakymoformos/kontaktai3.php?no_close
+||maldeikiene.lt/wp-content/uploads/2015/10/PensijosFondas.lt_.png
 @@||vjs.zencdn.net/4.12.5/video.js
 aciu.lt###adrotate_2
 aciu.lt##.parama
