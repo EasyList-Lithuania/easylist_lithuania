@@ -1175,4 +1175,4 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||cvzona.lt/dienaLT_adv.php
 ||l2servers.com/promo/neo2.jpg
 ||l2servers.com/promo/l2mid1.gif
-||g2.dcdn.lt/media/bnr
+||dcdn.lt/media/bnr
