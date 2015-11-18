@@ -50,6 +50,8 @@ nklyga.lt##.bannerWrapper
 15min.lt##.plius-base-box.plius-base-box-plius
 15min.lt##.top-banner
 15min.lt##A[href="http://www.vistienakitaip.lt/fiesta"] > IMG
+kauno.diena.lt###sticky-reklama
+kauno.diena.lt###reklama-pop-460x280
 15min.lt##DIV[class^="pi_base_box pi_base_"]
 15min.lt##IMG[alt="Klasikinės muzikos gerbėjams dovana – „Vivace Vilnius“ festivalio koncertai"]
 15min.lt##[href^="http://adsplius.lt/trackers"] > *
