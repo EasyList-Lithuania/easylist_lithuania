@@ -1179,3 +1179,4 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||l2servers.com/promo/l2mid1.gif
 ||dcdn.lt/media/bnr
 ||a1.lrytas.lt^
+||kasvyksta.lt/wp-content/themes/kasvyksta/images/ads
