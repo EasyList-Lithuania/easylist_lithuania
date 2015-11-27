@@ -1180,3 +1180,6 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||dcdn.lt/media/bnr
 ||a1.lrytas.lt^
 ||kasvyksta.lt/wp-content/themes/kasvyksta/images/ads
+lttv.us/images/300x100_5.gif
+lttv.us##A[href="http://www.filmux.us"]
+delfi.lt##DIV[style="delfi-ads-block"]
