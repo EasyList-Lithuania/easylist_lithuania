@@ -21,7 +21,7 @@
 ##a[href="http://igrovoi-klub.org/fair-land"]
 15min.lt##.block.block-orakulas
 ||dcdn.lt/media/bnr
-nklyga.lt##.bannerWrapper *
+@@imasdk.googleapis.com^$domain=lrytas.lt
 nklyga.lt##.bannerWrapper
 -baneris-
 /PopBox.js
