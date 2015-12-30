@@ -5,7 +5,7 @@
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2015-11-06
+! Paskutinis atnaujinimas: 2015-12-30
 ! Expires: 30 days (update frequency)
 ###delfi-front-right-column
 ##.reklamos_nuorodos
@@ -1183,3 +1183,11 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 lttv.us/images/300x100_5.gif
 lttv.us##A[href="http://www.filmux.us"]
 delfi.lt##DIV[style="delfi-ads-block"]
+||lkl.lt/wp-content/themes/lkl/js/fancybox/jquery.fancybox.pack.js
+linksmiau.net##A[href="http://sportouzdarbis.com/"] > *
+||kasvyksta.lt/wp-content/themes/kasvyksta/images/exit/
+kauno.diena.lt##IMG[src="http://img2.diena.lt/sites/default/files/Vilniausdiena/Vartotoju%20zona/diena_admin/urmas-kaledos-940x100-px-2.jpg"]
+lmg.lt##IMG[src="http://www.lmg.lt/kiti/img/vip_reklama2.png"]
+lkl.lt##.widget.widget-promobox-wide.width-1-1.no-bottom-margin
+lkl.lt##.section > .widget.widget-promobox-small.width-1-5.no-bottom-margin *
+lkl.lt##.widget.widget-promobox-small.width-1-5.no-bottom-margin
