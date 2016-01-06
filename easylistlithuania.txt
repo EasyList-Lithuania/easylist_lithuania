@@ -5,7 +5,7 @@
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2015-12-30
+! Paskutinis atnaujinimas: 2016-01-06
 ! Expires: 30 days (update frequency)
 ###delfi-front-right-column
 ##.reklamos_nuorodos
@@ -26,6 +26,11 @@ nklyga.lt##.bannerWrapper
 -baneris-
 /PopBox.js
 /baneriai/*
+||autogidas-static.dgn.lt/static/nqs
+torentai.lt##A[href="http://ldiena.lt"] + * *
+torentai.lt##IMG[src="pic/ldiena.png"]
+autogidas.lt##DIV#citadele-mini *
+autogidas.lt##.banner-big-bank
 /baneris.
 /baneris_
 /baneriukai/*
