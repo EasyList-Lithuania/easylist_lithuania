@@ -1196,6 +1196,8 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||ziurimtv.eu/images/iv.png
 ||zvejokliai.lt/images/banners/
 ||proxy.dlf.lt
+||ntvk1.ru/nvv.js
+||ictowaz.ru
 ||flirtas.alfa.lt/alfa
 @@||static.doubleclick.net/instream/ad_status.js
 @@||a1.lrytas.lt/files/js/ado.js
