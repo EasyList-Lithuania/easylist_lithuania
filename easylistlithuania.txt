@@ -5,7 +5,7 @@
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2016-02-19
+! Paskutinis atnaujinimas: 2016-02-24
 ! Expires: 30 days (update frequency)
 ###delfi-front-right-column
 ##.reklamos_nuorodos
@@ -22,6 +22,13 @@
 @@||filmux.org/ad_adsense.js
 lietuvos-naujienos.win##.paulund_block_page
 tevu-darzelis.lt##IMG[src="/img/hot-stuff/happeak-ispardavimas.jpg"]
+@@||filmux.org/ad_adsense.js
+lietuvos-naujienos.win##.paulund_block_page
+tevu-darzelis.lt##IMG[src="/img/hot-stuff/happeak-ispardavimas.jpg"]
+autobilis.lt###citadele-box *
+cvzona.lt##.no-print
+@@||powerhitradio.tv3.lt/stream/player/$generichide
+powerhitradio.tv3.lt###adblocker
 -baneris-
 /PopBox.js
 /baneriai/*
