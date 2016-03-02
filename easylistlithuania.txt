@@ -1,11 +1,12 @@
 [Adblock Plus 2.0]
+! Checksum: OX0lNK3sFyVQhGAu6ok3sA
 ! Title: EasyList Lithuania
 ! Prisidėjo: Algimantas Margevičius, Mantas Malcius 
 ! Apie neužblokuotas reklamas ar kitas bėdas praneškite el. paštu algimantas@margevicius.lt arba forume http://forums.lanik.us/ 
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2016-02-24
+! Paskutinis atnaujinimas: 2016-03-02
 ! Expires: 30 days (update frequency)
 ###delfi-front-right-column
 ##.reklamos_nuorodos
@@ -19,16 +20,6 @@
 ##IMG[alt="Hostingas Serveriai.lt"]
 ##IMG[alt="Reklaminis skydelis"]
 ##a[href="http://igrovoi-klub.org/fair-land"]
-@@||filmux.org/ad_adsense.js
-lietuvos-naujienos.win##.paulund_block_page
-tevu-darzelis.lt##IMG[src="/img/hot-stuff/happeak-ispardavimas.jpg"]
-@@||filmux.org/ad_adsense.js
-lietuvos-naujienos.win##.paulund_block_page
-tevu-darzelis.lt##IMG[src="/img/hot-stuff/happeak-ispardavimas.jpg"]
-autobilis.lt###citadele-box *
-cvzona.lt##.no-print
-@@||powerhitradio.tv3.lt/stream/player/$generichide
-powerhitradio.tv3.lt###adblocker
 -baneris-
 /PopBox.js
 /baneriai/*
@@ -70,13 +61,14 @@ powerhitradio.tv3.lt###adblocker
 @@/show_ads_$domain=telikaz.biz
 @@imasdk.googleapis.com^$domain=lrytas.lt
 @@|http://skelbimai.one.lt/uploads/modules/ads/
-@@|http://telikas.biz/file/*/*/*.png#/ad_side./adbox_/add728./adping./adv/mobile/ad/blogad./commspace_ad./EmreAds./tmo/ads/ad.468x80-
 @@||9menesiai.lt/image/cache/data/Baneriai/
+@@||a1.lrytas.lt/files/js/ado.js
 @@||adocean.pl^$thirdparty,$document,domain=15min.lt
 @@||apatinukai.lt/image/cache/data/baneriai/
 @@||banners.adnet.lt/i/euro_1_490x270_3.swf
 @@||banners.adnet.lt/i/euro_game_1.js
 @@||eurovaistine.lt/uploads/banners/
+@@||filmux.org/ad_adsense.js
 @@||google.com/ads/popudner/banner.jpg
 @@||googleapis.com/js/sdkloader/ima3.js$domain=lrytas.lt
 @@||googlesyndication.com/pagead/$third-party
@@ -93,14 +85,15 @@ powerhitradio.tv3.lt###adblocker
 @@||pildyk.lt/uploads/files/BANERIS_pildyk.jpg
 @@||post.lt/bin/banners/
 @@||post.lt/files/resized/*x*/banners/
+@@||powerhitradio.tv3.lt/stream/player/$generichide
 @@||simpsonaionline.net/js/advertisement.js
 @@||smailas.net/baneriai/
+@@||static.doubleclick.net/instream/ad_status.js
 @@||tavovaikams.lt//images/goods/$domain=~tavovaikams.lt
 @@||teatras.lt/uploads/img/banners/
 @@||technologijos.lt/iframe_komentarai
 @@||telikas.biz/wp-content/uploads/2014/10/logo1.png
 @@||telikas.biz/wp-content/uploads/2015/04/test4.png
-@@||telikas.biz/wp-content/uploads/2015/04/test4.png#/ad_side./adbox_/add728./adping./adv/mobile/ad/blogad./commspace_ad./EmreAds./tmo/ads/ad.468x80-
 @@||v.fwmrm.net$domain=tv3play.lt
 @@||vaikutis.lt/image/cache/data/baneriai/
 @@||vaikutis.lt/image/data/baneriai/
@@ -143,6 +136,7 @@ auto.plius.lt###banner_right2
 auto.plius.lt##.ads-hor
 auto.plius.lt##.auto_leasing *
 auto.plius.lt##.citadele-wrapper *
+autobilis.lt###citadele-box *
 autogidas.lt##.banner-big-bank
 autogidas.lt##DIV#citadele-mini *
 automokyklos.lt##.reklamaadd
@@ -186,7 +180,7 @@ cs-servers.lt##.banner
 cust.lt##.footer_banners
 cvzona.lt###top-b
 cvzona.lt##.b-group
-cvzona.lt##.no-print[style="background: #eee; padding: 3px 3px 3px 12px; margin-top: 7px; line-height: 0; text-align: center; position: relative; width: 750px; margin-left: 40px"]
+cvzona.lt##.no-print
 cvzona.lt##DIV[style="position: absolute; text-align: center; height: 100px; width: 750px; border:1px solid #F1F1F1; border-top:none; background: #F7F7F7"]
 cvzona.lt##[style="position: absolute; bottom:6px; left: 2px; font-size: 10px; background: url(/img/icon-reklama.gif) no-repeat; width: 7px; height: 41px"] + #fl-embd-736
 daiktai.eu##TABLE[style="background: #4b4442; width: 160px; border: 0px solid white;padding-top:5px;padding-left:5px"]
@@ -264,6 +258,7 @@ etaplius.lt##.marqclosep
 etaplius.lt##.marquee0
 etaplius.lt##A[href="http://etaplius.lt/reklama"]
 fightclub.lt##.advert
+filmai.org##BODY > SCRIPT[src="https://staticcf0.ntvk1.ru/nvv.js"]
 filosofija.info##A[href="http://www.filosofija.info/"]
 fortuna.draugas.lt##.rkl
 forum.mintys.lt##.post.bg2
@@ -380,10 +375,10 @@ legalus.net##IMG[alt="www.linda-seeds.com"]
 legionas.lt##.banner-holder *
 lianosgalerija.webs.com##IMG[alt="veltinis.lt - rankdarbiai iš vilnos, vėlimas"]
 lietuvis.no###wdBannerImg
+lietuvos-naujienos.win##.paulund_block_page
 liguabc.lt##IMG[alt="Ruba.lt - vyriški marškiniai, megztiniai internetu, išpardavimas"]
 linksmiau.net##A[href="http://sportouzdarbis.com/"] > *
 litlogas.com,madairgrozis.lt##.bannergroup
-lkl.lt##.section > .widget.widget-promobox-small.width-1-5.no-bottom-margin *
 lkl.lt##.widget.widget-promobox-small.width-1-5.no-bottom-margin
 lkl.lt##.widget.widget-promobox-wide.width-1-1.no-bottom-margin
 lova.lt##.floating-box-inner
@@ -479,6 +474,7 @@ pokeris.lt###bfad240549
 pokeris.lt##.headerhorizontalbanners
 pokeris.lt##.headerverticalbanners
 portas.lt,reksas.lt,vertimas.vlt.lt##A[target="_blank"] > *
+powerhitradio.tv3.lt###adblocker
 pradzia.org###block-block-7 P
 pradzia.org###sidebar-right
 priejuros.lt###banner-lastmin
@@ -650,7 +646,6 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||adsplius.lt^$third-party
 ||adverum.lt^$third-party
 ||aleja.lt^$third-party
-||alio.proxy.dlf.lt/infoblock.html
 ||alkas.lt/wp-content/uploads/2010/09/remeju-logo.png
 ||alytausgidas.lt/media/_banners/
 ||alytausnaujienos.lt/images/LRV.swf
@@ -721,6 +716,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||church.lt/t/files/u5/kiekvienamstudentui.gif
 ||church.lt/t/files/u5/rlc_banner1.gif
 ||content.tvprograma.lt/banner/
+||credit24.lt/paskolos.html?transid=
 ||cvzona.lt/dienaLT_adv.php
 ||daiktai.eu/images/banners/
 ||daraupats.lt/newsfeed_v2/?p=
@@ -796,6 +792,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||filmai.in/v2_ajax.php
 ||filosofija.info/wp-content/uploads/2013/11/praktine-filosofija.gif
 ||finmedia.lt/grape/$third-party
+||flirtas.alfa.lt/alfa
 ||fm99.lt/wp-content/banners/
 ||fm99.lt/wp-content/uploads/2014/03/slider_blues_konkurs_dlugi_logo_ang.jpg
 ||fotofaze.lt/img/dezavu.jpg
@@ -1050,6 +1047,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||prizme.lt/images/banners/
 ||prokuraturos.lt/Portals/0/Skins/lrgp/images/Patarimai.gif
 ||prokuraturos.lt/Portals/0/Skins/lrgp/images/banner1.gif
+||proxy.dlf.lt
 ||psichika.eu/wp-content/uploads/1/Terapija.jpg
 ||psichika.eu/wp-content/uploads/2014/07/VALGYMO-sutrikimai.jpg
 ||pulas.lt/htm/texas.gif
@@ -1126,6 +1124,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||technologijos.lt/upload/image/n/iliustracijos/skelbimu_logotipai/ban/
 ||tekstai.lt/images/stories/draugai/
 ||teo.lt/akcijoms/uzsakymoformos/kontaktai3.php?no_close
+||tevu-darzelis.lt/img/hot-stuff/happeak-ispardavimas.jpg
 ||themusic.lt/images/geramada12x120.gif
 ||themusic.lt/images/imknuolaida2.png
 ||themusic.lt/images/thesport.png
@@ -1205,9 +1204,3 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||ziurimtv.eu/images/hostingas.png
 ||ziurimtv.eu/images/iv.png
 ||zvejokliai.lt/images/banners/
-||proxy.dlf.lt
-||credit24.lt/paskolos.html?transid=
-filmai.org##BODY > SCRIPT[src="https://staticcf0.ntvk1.ru/nvv.js"]
-||flirtas.alfa.lt/alfa
-@@||static.doubleclick.net/instream/ad_status.js
-@@||a1.lrytas.lt/files/js/ado.js
