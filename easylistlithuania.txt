@@ -1204,3 +1204,10 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||ziurimtv.eu/images/hostingas.png
 ||ziurimtv.eu/images/iv.png
 ||zvejokliai.lt/images/banners/
+||torrent.tl/lt/davise/
+geoturgus.lt##.geoturgus-ad
+torrent.ai###left_banner
+torrent.ai##DIV > [href="http://www.lyso.lt/?utm_source=torrent-ai"] > IMG[src="http://cdn.torrent.tl/lt/davise/lyso728.gif"]
+torrent.ai##.tb_click[onclick="window.open('https://lt.tonybet.com/tonybetpoker?trc=678_1810_2434', '_blank');"]
+||lt.tonybet.com/tonybetpoker?trc=
+torrent.ai##A[href="store?ad=0"]
