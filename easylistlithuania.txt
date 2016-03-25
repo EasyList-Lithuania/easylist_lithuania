@@ -54,6 +54,7 @@
 7min.lt##A[href="http://1920x1080wallpapers.eu/"]
 7min.lt##A[href="http://www.tvlietuviskai.eu/"]
 @@.png#^$domain=filmux.org
+
 @@/adsbygoogle.$domain=telikaz.biz
 @@/googleads.$domain=telikaz.biz
 @@/pagead2.$domain=telikaz.biz
@@ -1210,3 +1211,7 @@ torrent.ai##DIV > [href="http://www.lyso.lt/?utm_source=torrent-ai"] > IMG[src="
 torrent.ai##.tb_click[onclick="window.open('https://lt.tonybet.com/tonybetpoker?trc=678_1810_2434', '_blank');"]
 ||lt.tonybet.com/tonybetpoker?trc=
 torrent.ai##A[href="store?ad=0"]
+@@||filmux.org/advertisement.js
+sveikinimai.link##.block_sms
+sveikinimai.link##.greeting_right
+@@||dujuirangoskaina.lt^$document
