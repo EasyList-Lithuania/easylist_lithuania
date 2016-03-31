@@ -34,6 +34,7 @@
 ||15cdn.lt/static/js/
 @@||siustis.net^$generichide
 @@.png#$domain=siustis.net
+siustis.net##.box
 15min.lt###plius_container_0
 15min.lt##.ads-cnt
 15min.lt##.ap_mm_15min
