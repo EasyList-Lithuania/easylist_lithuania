@@ -5,8 +5,9 @@
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2016-03-19
+! Paskutinis atnaujinimas: 2016-03-31
 ! Expires: 30 days (update frequency)
+
 ###delfi-front-right-column
 ##.reklamos_nuorodos
 ##.reklamos_tarpas
@@ -54,7 +55,6 @@
 7min.lt##A[href="http://1920x1080wallpapers.eu/"]
 7min.lt##A[href="http://www.tvlietuviskai.eu/"]
 @@.png#^$domain=filmux.org
-
 @@/adsbygoogle.$domain=telikaz.biz
 @@/googleads.$domain=telikaz.biz
 @@/pagead2.$domain=telikaz.biz
@@ -67,8 +67,10 @@
 @@||apatinukai.lt/image/cache/data/baneriai/
 @@||banners.adnet.lt/i/euro_1_490x270_3.swf
 @@||banners.adnet.lt/i/euro_game_1.js
+@@||dujuirangoskaina.lt^$document
 @@||eurovaistine.lt/uploads/banners/
 @@||filmux.org/ad_adsense.js
+@@||filmux.org/advertisement.js
 @@||google.com/ads/popudner/banner.jpg
 @@||googleapis.com/js/sdkloader/ima3.js$domain=lrytas.lt
 @@||googlesyndication.com/pagead/$third-party
@@ -273,6 +275,7 @@ galjuokauji.lt##.panele-infoblock
 gamtosnamai.lt###marquee > .tickercontainer IMG
 garaziukas.com###banners-2
 gedulas.lt###ct_testimonials-4
+geoturgus.lt##.geoturgus-ad
 gintarinesvajone.lt##.xoxo.blogroll IMG
 glamourgeles.lt##[color="#0000ee"] > A > IMG[align="bottom"]
 grokiskis.lt##.add-2
@@ -555,6 +558,8 @@ sveikas.lt##.side-block.side-banner *
 sveikatosabc.lt##A[href="http://www.bedantis.lt"] *
 sveikatosabc.lt##DIV[style="width:250px; float:left"] > DIV[style^="height:"]
 sveikatossodas.lt##[class^="baneris"]
+sveikinimai.link##.block_sms
+sveikinimai.link##.greeting_right
 sveksnosnaujienos.lt##.blog-sidebar *
 sveksnosnaujienos.lt##.wsite-image.wsite-image-border-none
 tattoo.lt###layerslider_widget-3
@@ -579,7 +584,11 @@ topwarez.lt###headerr > [href="http://topwarez.lt/buy_vip.php"] *
 topzone.lt###ls7[src="http://www.topzone.lt/pav/esports.gif"]
 topzone.lt##DIV[style="margin-top:3px; margin-bottom:3px; height:250px;"]
 torentai.lt##A[href="http://ldiena.lt"] + * *
+torrent.ai###left_banner
 torrent.ai###top_banner_torrent_details
+torrent.ai##.tb_click[onclick="window.open('https://lt.tonybet.com/tonybetpoker?trc=678_1810_2434', '_blank');"]
+torrent.ai##A[href="store?ad=0"]
+torrent.ai##DIV > [href="http://www.lyso.lt/?utm_source=torrent-ai"] > IMG[src="http://cdn.torrent.tl/lt/davise/lyso728.gif"]
 traders.lt##DIV[style="padding-top:4px;padding-bottom:4px;text-align:center;"]
 trakai.lt##TD[style="PADDING-BOTTOM: 15px; PADDING-LEFT: 12px; PADDING-RIGHT: 10px; BACKGROUND: url(/trakai/m/m_images/wfiles/igxbdh5338.jpg) repeat-y left top; PADDING-TOP: 15px"]
 trakai.lt##TD[style="PADDING-BOTTOM: 15px; PADDING-LEFT: 22px; BACKGROUND: url(/trakai/m/m_images/wfiles/ipxjgy5347.jpg) repeat-y left top; PADDING-TOP: 16px"]
@@ -927,6 +936,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||lova.lt/files/uploads/images/sitefriends/
 ||lrvalstybe.lt/images_new/gubele_960x100url2.swf
 ||lrvalstybe.lt/images_new/yukon_960x100url.swf
+||lt.tonybet.com/tonybetpoker?trc=
 ||ltvirtove.lt/baneriai
 ||lzinios.lt/lzinios/failai/video/
 ||macpartija.lt/images/banners/hosted.gif
@@ -1138,6 +1148,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||top100.lt^$third-party
 ||torentai.lt/pic/ldiena.png
 ||torrent.lt/*/advise/
+||torrent.tl/lt/davise/
 ||toxnet.nlm.nih.gov/help/widget/lactmed_widget_large.html
 ||transplantacija.lt/images/15min.png
 ||transplantacija.lt/images/novartis.png
@@ -1204,14 +1215,3 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||ziurimtv.eu/images/hostingas.png
 ||ziurimtv.eu/images/iv.png
 ||zvejokliai.lt/images/banners/
-||torrent.tl/lt/davise/
-geoturgus.lt##.geoturgus-ad
-torrent.ai###left_banner
-torrent.ai##DIV > [href="http://www.lyso.lt/?utm_source=torrent-ai"] > IMG[src="http://cdn.torrent.tl/lt/davise/lyso728.gif"]
-torrent.ai##.tb_click[onclick="window.open('https://lt.tonybet.com/tonybetpoker?trc=678_1810_2434', '_blank');"]
-||lt.tonybet.com/tonybetpoker?trc=
-torrent.ai##A[href="store?ad=0"]
-@@||filmux.org/advertisement.js
-sveikinimai.link##.block_sms
-sveikinimai.link##.greeting_right
-@@||dujuirangoskaina.lt^$document
