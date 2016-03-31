@@ -32,6 +32,8 @@
 118.lt##.adnet-add
 1588.lt###headerBanner
 ||15cdn.lt/static/js/
+@@||siustis.net^$generichide
+@@.png#$domain=siustis.net
 15min.lt###plius_container_0
 15min.lt##.ads-cnt
 15min.lt##.ap_mm_15min
