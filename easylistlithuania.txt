@@ -32,6 +32,7 @@
 118.lt##.adnet-add
 1588.lt###headerBanner
 ||15cdn.lt/static/js/
+||cvmarket.lt/infoblocks
 @@||siustis.net^$generichide
 @@.png#$domain=siustis.net
 siustis.net##.box
