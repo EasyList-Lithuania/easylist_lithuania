@@ -6,7 +6,7 @@
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
 ! Paskutinis atnaujinimas: 2016-03-31
-! Expires: 30 days (update frequency)
+! Expires: 7 days (update frequency)
 
 ###delfi-front-right-column
 ##.reklamos_nuorodos
@@ -29,9 +29,12 @@
 /baneriukas/*
 /skydeliai/*
 1000receptu.lt###gpt-block
+@@||spargalka.lt^$generichide
+@@||spargalka.lt/*/fuckadblock.js
+||spargalka.lt/images/filmai.gif
+spargalka.lt##.adsbygoogle
 118.lt##.adnet-add
 1588.lt###headerBanner
-||15cdn.lt/static/js/
 ||cvmarket.lt/infoblocks
 @@||siustis.net^$generichide
 @@.png#$domain=siustis.net
