@@ -5,7 +5,7 @@
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2016-03-31
+! Paskutinis atnaujinimas: 2016-04-13
 ! Expires: 7 days (update frequency)
 
 ###delfi-front-right-column
@@ -28,6 +28,15 @@
 /baneriukai/*
 /baneriukas/*
 /skydeliai/*
+ldiena.lt###parama
+ldiena.lt##IMG[src="http://torentai.lt/pic/logo_mazas.png"]
+ldiena.lt##[action="https://www.paypal.com/cgi-bin/webscr"] > *
+racas.lt##.banner
+versijos.lt##IMG[src="http://versijos.lt/wp-content/uploads/2015/07/Parama-tinklapiui.jpg"]
+criticismoflife.wordpress.com##[src="http://pokalbis.narod.ru/lietuva_laisva.gif"]
+criticismoflife.wordpress.com##[src="http://pokalbis.narod.ru/ismok.gif"]
+domo.plius.lt##.widget-overlay
+domo.plius.lt##.dialog.facebook-dialog > *
 1000receptu.lt###gpt-block
 @@||spargalka.lt^$generichide
 @@||spargalka.lt/*/fuckadblock.js
