@@ -1,4 +1,5 @@
 [Adblock Plus 2.0]
+! Checksum: VFYL49IW7m8/c+/ta27Xlw
 ! Title: EasyList Lithuania
 ! Prisidėjo: Algimantas Margevičius, Mantas Malcius 
 ! Apie neužblokuotas reklamas ar kitas bėdas praneškite el. paštu algimantas@margevicius.lt arba forume http://forums.lanik.us/ 
@@ -6,7 +7,7 @@
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
 ! Paskutinis atnaujinimas: 2016-04-13
-! Expires: 7 days (update frequency)
+! Expires: 30 days (update frequency)
 
 ###delfi-front-right-column
 ##.reklamos_nuorodos
@@ -28,26 +29,9 @@
 /baneriukai/*
 /baneriukas/*
 /skydeliai/*
-ldiena.lt###parama
-ldiena.lt##IMG[src="http://torentai.lt/pic/logo_mazas.png"]
-ldiena.lt##[action="https://www.paypal.com/cgi-bin/webscr"] > *
-racas.lt##.banner
-versijos.lt##IMG[src="http://versijos.lt/wp-content/uploads/2015/07/Parama-tinklapiui.jpg"]
-criticismoflife.wordpress.com##[src="http://pokalbis.narod.ru/lietuva_laisva.gif"]
-criticismoflife.wordpress.com##[src="http://pokalbis.narod.ru/ismok.gif"]
-domo.plius.lt##.widget-overlay
-domo.plius.lt##.dialog.facebook-dialog > *
 1000receptu.lt###gpt-block
-@@||spargalka.lt^$generichide
-@@||spargalka.lt/*/fuckadblock.js
-||spargalka.lt/images/filmai.gif
-spargalka.lt##.adsbygoogle
 118.lt##.adnet-add
 1588.lt###headerBanner
-||cvmarket.lt/infoblocks
-@@||siustis.net^$generichide
-@@.png#$domain=siustis.net
-siustis.net##.box
 15min.lt###plius_container_0
 15min.lt##.ads-cnt
 15min.lt##.ap_mm_15min
@@ -71,6 +55,7 @@ siustis.net##.box
 15min.lt##pi_one_ad
 7min.lt##A[href="http://1920x1080wallpapers.eu/"]
 7min.lt##A[href="http://www.tvlietuviskai.eu/"]
+@@.png#$domain=siustis.net
 @@.png#^$domain=filmux.org
 @@/adsbygoogle.$domain=telikaz.biz
 @@/googleads.$domain=telikaz.biz
@@ -106,7 +91,10 @@ siustis.net##.box
 @@||post.lt/files/resized/*x*/banners/
 @@||powerhitradio.tv3.lt/stream/player/$generichide
 @@||simpsonaionline.net/js/advertisement.js
+@@||siustis.net^$generichide
 @@||smailas.net/baneriai/
+@@||spargalka.lt/*/fuckadblock.js
+@@||spargalka.lt^$generichide
 @@||static.doubleclick.net/instream/ad_status.js
 @@||tavovaikams.lt//images/goods/$domain=~tavovaikams.lt
 @@||teatras.lt/uploads/img/banners/
@@ -246,6 +234,8 @@ diena.lt##.reklama-text
 dimexpro.eu,press-report.lt,buypcgame.eu,apiereklama.lt,pokernews.com##.ads
 diskusijos.darnipora.lt##.post.bg3
 diskusijos.darnipora.lt##IMG[onclick="Set_Cookie( 'popunder31254', 'true', 3, '/', '', '' );document.getElementById('myBtn').style.display='none';"]
+domo.plius.lt##.dialog.facebook-dialog > *
+domo.plius.lt##.widget-overlay
 donoryste.eu##[alt="Klipas Donorystė"]
 dovanos.lt##.middle[style="border:none;padding:5px 0px;"] *
 dratas.lt##IMG[title="Poko.lt = (lietuviški blogai + socialiniai tinklai) * vienas kitas algoritmas"]
@@ -391,6 +381,8 @@ laikas.lt,pzemaitis.lt,mūsųlaikas.lt##[class^="banner"]
 laikrastisplunge.lt###slaidukas
 laikrastisplunge.lt##.sam-container.sam-place > IMG[style="display: inline;"]
 lbks.lt##.custom A[href^="http://"][target="_blank"]
+ldiena.lt###parama
+ldiena.lt##[action="https://www.paypal.com/cgi-bin/webscr"] > *
 legalus.net##IMG[alt="www.linda-seeds.com"]
 legionas.lt##.banner-holder *
 lianosgalerija.webs.com##IMG[alt="veltinis.lt - rankdarbiai iš vilnos, vėlimas"]
@@ -511,6 +503,7 @@ prokuraturos.lt###dnn_LeftPane
 prokuraturos.lt###dnn_daugiauInfo
 psichologas.info##IMG[alt="laisvoji banga tiesiogine laida"]
 pulsas.lt###ja-col2
+racas.lt##.banner
 radiocool.lt##IMG[title="Free Delivery on all Books at the Book Depository"]
 rde.lt##.ukio10
 receptai.lt##DIV[style="background-color: rgb(0, 0, 0); z-index: 100000001; opacity: 0.85; position: fixed; top: 0px; left: 0px; right: 0px; bottom: 0px; display: block;"]
@@ -550,6 +543,7 @@ silentpc.lt##.providers-block *
 siloaidas.lt##A[target="_blank"][href*="http://"] > IMG
 siloaidas.lt,mususavaite.lt,spainetosdraudimas.lt##IMG[src*="baneris"]
 silokarcema.lt###ads
+siustis.net##.box
 skelbiu.lt###offer-container
 skelbiu.lt##DIV.advertisementTitle
 skelbiu.lt##DIV.content
@@ -569,6 +563,7 @@ snaujienos.lt##.ad
 solisun.lt,hardas.lt##IMG[alt^="baner_"]
 sorimpeksas.com##DIV:last-child > P[align="center"]
 spainetosdraudimas.lt###partners
+spargalka.lt##.adsbygoogle
 spauda.lt##IMG[alt="Poligrafijos įmonė 'Spauda': SPAUDA.COM"]
 supermama.lt##DIV[style="width: 752px; padding-top: 7px;"]
 sveikas.lt##.side-block.side-banner *
@@ -743,6 +738,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||church.lt/t/files/u5/rlc_banner1.gif
 ||content.tvprograma.lt/banner/
 ||credit24.lt/paskolos.html?transid=
+||cvmarket.lt/infoblocks
 ||cvzona.lt/dienaLT_adv.php
 ||daiktai.eu/images/banners/
 ||daraupats.lt/newsfeed_v2/?p=
@@ -1060,6 +1056,8 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||pixwordsatsakymai.lt/Mondego.png
 ||plius.lt^$third-party
 ||pluralsight-training.net/microsoft/sponsorships/pluralsight-logo-for-sponsorships-small.png
+||pokalbis.narod.ru/ismok.gif
+||pokalbis.narod.ru/lietuva_laisva.gif
 ||povilas.panavas.lt/blogas/wp-content/uploads/2012/05/Vieta-jūsų-reklamai.png
 ||povilas.panavas.lt/blogas/wp-content/uploads/2013/10/enternet-banner.jpg
 ||povilas.panavas.lt/blogas/wp-content/uploads/2014/02/www.draudimas.lt_.gif
@@ -1130,6 +1128,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||spainetosdraudimas.lt/uploads/images/Vart-ban-220x100(1)b.jpg
 ||spainetosdraudimas.lt/uploads/images/banner
 ||spainetosdraudimas.lt/uploads/images/sadomaksa_ct_cs.gif
+||spargalka.lt/images/filmai.gif
 ||spausdink-ilgiau.lt/image/cache/data/img/mokilizingas-182x182-182x182.png
 ||sport24.lt/uploads/NET4.png
 ||statybos.lt/images/banners/
@@ -1164,6 +1163,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||tja.lt/images/banners/
 ||top100.lt^$third-party
 ||torentai.lt/pic/ldiena.png
+||torentai.lt/pic/logo_mazas.png
 ||torrent.lt/*/advise/
 ||torrent.tl/lt/davise/
 ||toxnet.nlm.nih.gov/help/widget/lactmed_widget_large.html
@@ -1194,6 +1194,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||vendors.lt/pics/linkuva.gif
 ||verdiktas.lt/dzukuainiai.swf
 ||verdiktas.lt/images/banners/
+||versijos.lt/wp-content/uploads/2015/07/Parama-tinklapiui.jpg
 ||verslovirusas.lt/wp-content/uploads/2013/10/logovisi.png
 ||vestuves.eu/img/banners/42.swf
 ||vht.tradedoubler.com/file/248282/0814/bobutes-paskola-ruduo-750x100.swf
