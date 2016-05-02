@@ -39,6 +39,8 @@ kauno.diena.lt##.article_showcase_1
 ||lyderis.eu/wp-content/uploads/2010/11/logo-1.jpg
 ||lyderis.eu/wp-content/uploads/2010/11/LL_logo2_300_50.png
 ||alkas.lt/uploads/init-logo.jpg
+anglija.lt##.right_veliava
+anglija.lt###top_veliavos
 mano-gargzdai.lt##.bnrdid
 anglija.today##.ad.top-image-parent
 anglija.today##A[href^="/redirect/ad/"] > *
