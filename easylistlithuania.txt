@@ -340,6 +340,7 @@ kabutes.kasvyksta.lt##.miestasreng *
 kabutes.lt###reklama-desine
 kamane.lt##.left_banner
 kasvyksta.lt###sidebar-widget-in
+kasvyksta.lt##.ad-block-content
 kasvyksta.lt##.ad-block-content.renginiai
 kasvyksta.lt##.iskelta-galerija
 kasvyksta.lt##.skelbimu-lenta.left
