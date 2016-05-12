@@ -28,7 +28,12 @@
 /baneriukai/*
 /baneriukas/*
 /skydeliai/*
-klaipeda.diena.lt##[id^="reklama-pop-"]
+diena.lt##[id^="reklama-pop-"]
+diena.lt##[id^="reklama-pop-"]
+kasvyksta.lt##DIV.ad-block-content.exit-wrapper *
+kasvyksta.lt##DIV.exit-wrapper.main-isejimas-wrapper *
+delfi.lt###header-top-banner
+diena.lt##.article_showcase_1
 kauno.diena.lt##.article_showcase_1
 @@/advertisments/*$domain=manomeskeres.lt
 @@||adworks.lt
