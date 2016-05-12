@@ -219,6 +219,7 @@ degalines.orlenlietuva.lt##.addsBoxFirst
 delfi.lt###banner-box
 delfi.lt###dwidget_6066.dwidget[style="width:250px;height:500px;display:block;overflow:hidden"]
 delfi.lt###glmr
+delfi.lt###header-top-banner
 delfi.lt###leftSideOrder
 delfi.lt###new-partners
 delfi.lt###recipes-section
