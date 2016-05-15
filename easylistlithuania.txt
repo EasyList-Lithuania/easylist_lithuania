@@ -45,6 +45,10 @@ kauno.diena.lt##.article_showcase_1
 ||lyderis.eu/wp-content/uploads/2010/11/logo-1.jpg
 ||lyderis.eu/wp-content/uploads/2010/11/LL_logo2_300_50.png
 ||alkas.lt/uploads/init-logo.jpg
+vz.lt##.cvWrSidebar
+vz.lt##[onclick="window.open('http://www.cv.lt','_blank')"]
+vz.lt##.cvWr.row.hidden-xxs
+||vz.lt/img/logos/cv.png
 anglija.lt##.right_veliava
 anglija.lt###top_veliavos
 mano-gargzdai.lt##.bnrdid
