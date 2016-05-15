@@ -5,7 +5,7 @@
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2016-05-12
+! Paskutinis atnaujinimas: 2016-05-15
 ! Expires: 7 days (update frequency)
 
 ###delfi-front-right-column
@@ -39,6 +39,7 @@ kauno.diena.lt##.article_showcase_1
 @@||adworks.lt
 @@||manomeskeres.lt$generichide
 @@/advertisment.$domain=manomeskeres.lt
+||delfi.lt/b?region=
 ||basketnews.lt/includes/ads/newsstufflist/index.php?id=
 ||lyderis.eu/wp-content/uploads/2011/10/agito300x300.gif
 ||lyderis.eu/wp-content/uploads/2010/11/logo-1.jpg
