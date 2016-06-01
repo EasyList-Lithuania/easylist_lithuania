@@ -5,7 +5,7 @@
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2016-05-24
+! Paskutinis atnaujinimas: 2016-06-01
 ! Expires: 7 days (update frequency)
 
 ###delfi-front-right-column
@@ -51,6 +51,7 @@ pasveik.lt##.top-banner-ex
 ||alkas.lt/uploads/init-logo.jpg
 ||trackers.adtarget.me
 ||ao.delfi.lt/files
+@@||adocean.pl^$domain=15min.lt
 vz.lt##.cvWrSidebar
 vz.lt##[onclick="window.open('http://www.cv.lt','_blank')"]
 vz.lt##.cvWr.row.hidden-xxs
