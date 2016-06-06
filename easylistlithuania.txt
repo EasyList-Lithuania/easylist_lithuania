@@ -41,6 +41,7 @@ kauno.diena.lt##.article_showcase_1
 @@/advertisment.$domain=manomeskeres.lt
 15min.lt#@#.adsbox
 @@/ads/banner.$domain=15min.lt
+@@||lrytas.lt/*/advertisement.js
 ||delfi.lt/misc/export/aovp.php
 pasveik.lt##.promotion.cp-banner *
 ||bms.creativepartner.lt
