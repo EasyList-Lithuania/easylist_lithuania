@@ -542,6 +542,7 @@ siloaidas.lt##A[target="_blank"][href*="http://"] > IMG
 siloaidas.lt,mususavaite.lt,spainetosdraudimas.lt##IMG[src*="baneris"]
 silokarcema.lt###ads
 siustis.net##.box
+skelbiu.lt###banner-three-in-one-between-items
 skelbiu.lt###offer-container
 skelbiu.lt##DIV.advertisementTitle
 skelbiu.lt##DIV.content
