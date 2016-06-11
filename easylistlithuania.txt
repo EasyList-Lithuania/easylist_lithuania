@@ -750,6 +750,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||delfi.lt/misc/export/aovp.php
 ||delfi.lt/newsfeed/?p=
 ||delfi.lt/video/sporto-tv/widgets/250px/
+||delfi.lt/video/sporto-tv/widgets/728px/images/hermis.jpg
 ||demesioskelbimas.lt/images/banners/
 ||depiliacija.eu/wp-content/uploads/2011/12/fotoepiliacija-namuose.png
 ||depiliacija.eu/wp-content/uploads/2012/06/fotoepiliatorius-silkn-flashngo.png
