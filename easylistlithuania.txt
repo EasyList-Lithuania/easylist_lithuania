@@ -68,7 +68,6 @@
 @@|http://skelbimai.one.lt/uploads/modules/ads/
 @@||9menesiai.lt/image/cache/data/Baneriai/
 @@||a1.lrytas.lt/files/js/ado.js
-@@||adocean.pl^$domain=15min.lt
 @@||adocean.pl^$thirdparty,$document,domain=15min.lt
 @@||adworks.lt
 @@||apatinukai.lt/image/cache/data/baneriai/
