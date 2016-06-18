@@ -11,6 +11,7 @@
 ||15minlt.adocean.pl/files/x/*.mp4
 15min.lt##.article-banners.clearfix
 15min.lt##.widget.ads
+@@15minlt.adocean.pl/files/js/ado.js
 ###delfi-front-right-column
 ##.reklamos_nuorodos
 ##.reklamos_tarpas
