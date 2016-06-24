@@ -59,6 +59,7 @@
 7min.lt##A[href="http://1920x1080wallpapers.eu/"]
 7min.lt##A[href="http://www.tvlietuviskai.eu/"]
 @@||play.tv3.lt^$generichide
+@@||play.tv3.lt/ad/banner/_adsense_/_adserver/
 @@.png#$domain=siustis.net
 @@.png#^$domain=filmux.org
 @@/ads/banner.$domain=15min.lt
