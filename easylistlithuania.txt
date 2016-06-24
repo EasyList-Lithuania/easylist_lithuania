@@ -5,7 +5,7 @@
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2016-06-23
+! Paskutinis atnaujinimas: 2016-06-24
 ! Expires: 7 days (update frequency)
 
 ||15minlt.adocean.pl/files/x/*.mp4
@@ -58,17 +58,7 @@
 15min.lt#@#.adsbox
 7min.lt##A[href="http://1920x1080wallpapers.eu/"]
 7min.lt##A[href="http://www.tvlietuviskai.eu/"]
-play.tv3.lt#@#pub_300x250
-play.tv3.lt#@#pub_300x250m
-play.tv3.lt#@#pub_728x90
-play.tv3.lt#@#text-ad
-play.tv3.lt#@#textAd
-play.tv3.lt#@#text_ad
-play.tv3.lt#@#text_ads
-play.tv3.lt#@#text-ads
-play.tv3.lt#@#text-ad-links
-play.tv3.lt#@#.text_ads
-@@play.tv3.lt/ad/banner/_adsense_/_adserver/
+@@||play.tv3.lt^$generichide
 @@.png#$domain=siustis.net
 @@.png#^$domain=filmux.org
 @@/ads/banner.$domain=15min.lt
