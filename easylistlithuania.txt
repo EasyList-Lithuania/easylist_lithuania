@@ -5,10 +5,13 @@
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2016-06-24
+! Paskutinis atnaujinimas: 2016-07-23
 ! Expires: 7 days (update frequency)
 
 ||15minlt.adocean.pl/files/x/*.mp4
+||dgn.lt/static/5/paskolos-v2.html
+||15min.lt/img/banners/
+||sportinis.info/bnrs
 15min.lt##.article-banners.clearfix
 15min.lt##.widget.ads
 @@15minlt.adocean.pl/files/js/ado.js
