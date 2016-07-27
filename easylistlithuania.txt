@@ -5,9 +5,22 @@
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2016-07-23
+! Paskutinis atnaujinimas: 2016-07-27
 ! Expires: 7 days (update frequency)
 
+
+@@/ad/img/ad$domain=moviex.org
+@@/adzoneright.$domain=moviex.org
+@@/awe2.js$domain=moviex.org
+@@/bottom-ads.$domain=moviex.org
+@@/popunder2.$domain=moviex.org
+@@/web-ads.$domain=moviex.org
+@@_doubleclick.$domain=moviex.org
+@@_vodaaffi_$domain=moviex.org
+@@-120_600_$domain=moviex.org
+@@ad=760x120&$domain=moviex.org
+@@||moviex.org$generichide
+@@||am15.net$domain=filmux.org
 ||15minlt.adocean.pl/files/x/*.mp4
 ||dgn.lt/static/5/paskolos-v2.html
 ||15min.lt/img/banners/
