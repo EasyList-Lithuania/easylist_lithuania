@@ -5,9 +5,10 @@
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2016-07-29
+! Paskutinis atnaujinimas: 2016-08-10
 ! Expires: 7 days (update frequency)
 
+||eurofootball.lt/banners
 ||delfi.lt/apps/banners
 @@/ad/img/ad$domain=moviex.org
 @@/adzoneright.$domain=moviex.org
