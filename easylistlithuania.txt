@@ -5,7 +5,7 @@
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2016-08-11
+! Paskutinis atnaujinimas: 2016-08-17
 ! Expires: 30 days (update frequency)
 
 ###delfi-front-right-column
@@ -1231,3 +1231,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||zindymas.lt/sites/zindymas.lt/files/la_leche_banner_0.jpg
 ||zindymas.lt/sites/zindymas.lt/files/ptc-logo2.png
 ||zvejokliai.lt/images/banners/
+||kaisiadorieciams.lt/banner
+||ekspertai.lt/media/reklamjuostes
+||breto.lt/wp-content/uploads/2015/11/parduotuve-300x250.png
+flirtas.alfa.lt##.ad-top-wrp
