@@ -5,11 +5,15 @@
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2016-09-15
+! Paskutinis atnaujinimas: 2016-09-21
 ! Expires: 30 days (update frequency)
 
 @@||tv.lrytas.lt^$elemhide
 statymai.com##.bookmaker
+||kauno.diena.lt/cview.php
+@@||tv.lrytas.lt^$elemhide
+||vivus.lt$popup
+||smspinigai.lt$popup
 ||statymai.com/uploads/cbet20160818.jpg
 ||basketnews.lt/config/basketnews.lt/files/8/2078.png
 ||e-aop.delfi.lt/*.mp4
