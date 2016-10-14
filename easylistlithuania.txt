@@ -494,7 +494,7 @@ pasikeisk.lt##DIV[style="border: 1px solid black; text-align: center; margin-bot
 pasveik.lt##.promotion.cp-banner *
 pasveik.lt##.top-banner-ex
 patiekalu-receptai.lt##.tekstas_cont A[href="http://www.ruba.lt/vyrams/vyriski-marskiniai/"] > *
-pav/$domain=orai.biz,image
+||orai.biz/pav
 pazintys.draugas.lt##DIV[style="border: solid 3px #fcb617; width: 166px; padding: 8px 0px 8px 5px;"]
 pegasusfoto.lt##A + * + A
 pegasusfoto.lt##[style="font-family: georgia,palatino; font-size: 10pt;"] > A[href^="http://"]
