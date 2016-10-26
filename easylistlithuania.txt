@@ -7,6 +7,9 @@
 ! Homepage: http://margevicius.lt/easylist_lithuania/
 ! Paskutinis atnaujinimas: 2016-10-17
 ! Expires: 30 days (update frequency)
+!
+!!!!!!!!!!!!!!!Dienynai!!!!!!!!!!!!!!!!!!!!!!!!
+!tamo/samo/mano dienynas, etc. visi jie bus sudėti į whitelist. Neturiu vaikų, tuo pačiu ir galimybės pamatyt to ką matot jūs, todėl negaliu pataisyt.
 
 @@manodienynas.lt
 @@tamo.15min.lt
