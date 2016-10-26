@@ -8,6 +8,8 @@
 ! Paskutinis atnaujinimas: 2016-10-17
 ! Expires: 30 days (update frequency)
 
+@@manodienynas.lt
+@@tamo.15min.lt
 ||eaop.delfi.lt
 nemokamamuzika.eu#@##banner_ad
 ||tv3.lt/banners/Skelbikas_TAB.swf
