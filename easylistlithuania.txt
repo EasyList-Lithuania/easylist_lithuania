@@ -16,7 +16,7 @@ panele.lt,manonamai.lt,tavovaikas.lt,moteris.lt,cosmopolitan.lt,delfi.lt###wallp
 panele.lt,manonamai.lt,tavovaikas.lt,moteris.lt,cosmopolitan.lt,delfi.lt###wallpaper-sitehat
 panele.lt,manonamai.lt,tavovaikas.lt,moteris.lt,cosmopolitan.lt,delfi.lt##.delfi-article-banner
 alytusplius.lt##.region.region-sidebar-second
-alytusplius.lt##IMG[src="http://alytusplius.lt/sites/default/files/2_333.jpg"]
+||alytusplius.lt/sites/default/files/2_333.jpg
 ||delfi.lt/apps/swedbank/api/infobloc
 alytusplius.lt###views_slideshow_cycle_teaser_section_fadings-block_2
 ||alytusplius.lt/sites/default/files/images2016/avyte._baneris_naujas.png
