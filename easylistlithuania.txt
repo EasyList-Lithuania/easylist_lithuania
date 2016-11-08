@@ -13,6 +13,7 @@
 
 topcom.lt##IMG[alt="parduotuvė"]
 panele.lt,manonamai.lt,tavovaikas.lt,moteris.lt,cosmopolitan.lt,delfi.lt###wallpaper
+panele.lt,manonamai.lt,tavovaikas.lt,moteris.lt,cosmopolitan.lt,delfi.lt###wallpaper-sitehat
 panele.lt,manonamai.lt,tavovaikas.lt,moteris.lt,cosmopolitan.lt,delfi.lt##.delfi-article-banner
 alytusplius.lt##.region.region-sidebar-second
 alytusplius.lt##IMG[src="http://alytusplius.lt/sites/default/files/2_333.jpg"]
