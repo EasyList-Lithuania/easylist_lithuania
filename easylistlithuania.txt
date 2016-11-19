@@ -5,12 +5,16 @@
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2016-11-15
+! Paskutinis atnaujinimas: 2016-11-19
 ! Expires: 30 days (update frequency)
 !
 !!!!!!!!!!!!!!!Dienynai!!!!!!!!!!!!!!!!!!!!!!!!
 !tamo/samo/mano dienynas, etc. visi jie bus sudėti į whitelist. Neturiu vaikų, tuo pačiu ir galimybės pamatyt to ką matot jūs, todėl negaliu pataisyt.
 
+kvitrina.lt##.widget.widget_wysiwyg_widgets_widget
+kvitrina.lt##.widget.fa_slideshow
+||delfilt.adocean.pl/files/*.mp4
+15min.lt##.article-banner
 @@||15minlt.adocean.pl/files/js/ado.js
 tavovaikas.lt##[href="http://www.nukas.lt/kudikiu-maistas/hipp/"] > *
 @@||15minlt.adocean.pl/_*/ad.js
