@@ -11,6 +11,10 @@
 !!!!!!!!!!!!!!!Dienynai!!!!!!!!!!!!!!!!!!!!!!!!
 !tamo/samo/mano dienynas, etc. visi jie bus sudėti į whitelist. Neturiu vaikų, tuo pačiu ir galimybės pamatyt to ką matot jūs, todėl negaliu pataisyt.
 
+||ls.hit.gemius.pl/lsget.html
+||rkl.draugas.lt/rkl/pazintys_250x120.cfm
+15min.lt##.article-banner
+15min.lt##.kaledinis_dovanu_gidas_vertical
 ||delfi.lt/misc/export/aop.php
 kvitrina.lt##.widget.widget_wysiwyg_widgets_widget
 kvitrina.lt##.widget.fa_slideshow
