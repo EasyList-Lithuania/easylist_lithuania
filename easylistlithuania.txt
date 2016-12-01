@@ -11,7 +11,7 @@
 !!!!!!!!!!!!!!!Dienynai!!!!!!!!!!!!!!!!!!!!!!!!
 !tamo/samo/mano dienynas, etc. visi jie bus sudėti į whitelist. Neturiu vaikų, tuo pačiu ir galimybės pamatyt to ką matot jūs, todėl negaliu pataisyt.
 
-||diena.lt/sites/default/files/Vilniausdiena/Vartotoju%20zona/Domasphp/imgpsh_fullsize.jpg
+||diena.lt/sites/default/files/*diena/Vartotoju%20zona/Domasphp/imgpsh_fullsize.jpg
 ||ls.hit.gemius.pl/lsget.html
 ||rkl.draugas.lt/rkl/pazintys_250x120.cfm
 15min.lt##.article-banner
