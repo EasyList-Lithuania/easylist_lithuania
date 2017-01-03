@@ -21,7 +21,6 @@
 kauno.diena.lt##.kaledu-block-wrapper
 ||dcdn.lt/pr/i/infoblocks/lidlban_
 ||diena.lt/sites/default/files/*diena/Vartotoju%20zona/Domasphp/imgpsh_fullsize.jpg
-||ls.hit.gemius.pl/lsget.html
 ||rkl.draugas.lt/rkl/pazintys_250x120.cfm
 15min.lt##.article-banner
 15min.lt##.kaledinis_dovanu_gidas_vertical
