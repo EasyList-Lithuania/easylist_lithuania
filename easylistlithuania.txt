@@ -5,13 +5,21 @@
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2016-12-24
+! Paskutinis atnaujinimas: 2017-01-04
 ! Expires: 30 days (update frequency)
 !
 !!!!!!!!!!!!!!!Dienynai!!!!!!!!!!!!!!!!!!!!!!!!
 !tamo/samo/mano dienynas, etc. visi jie bus sudėti į whitelist. Neturiu vaikų, tuo pačiu ir galimybės pamatyt to ką matot jūs, todėl negaliu pataisyt.
 
-
+pazintys.draugas.lt##DIV[style="width: 300px; min-height: 250px; text-align: center;"]
+pazintys.draugas.lt##DIV[style="min-height: 200px; margin: auto 0;"]
+vz.lt##DIV[id^="adoceanlt*"]
+vz.lt##IMG[src^="http://lt.adocean.pl/files/"]
+||lt.adocean.pl/files/x/
+vz.lt##A[href^="http://adocean-lt.hit.gemius.pl/hitredir/"]
+||vz.lt/img/periodinis.jpg
+||lt.adocean.pl/files/js/billboard_gao_lib.js
+@@lt.adocean.pl/files/js/ado.js$domain=vz.lt
 ||atletiskas.lt/wp-content/themes/sportas/js/deferiname.js
 ||breto.lt/wp-content/uploads/2016/12/dovanu-kuponai-300x250.jpg
 ||breto.lt/wp-content/themes/jupiter/images/breto/
