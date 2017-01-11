@@ -11,7 +11,8 @@
 !!!!!!!!!!!!!!!Dienynai!!!!!!!!!!!!!!!!!!!!!!!!
 !tamo/samo/mano dienynas, etc. visi jie bus sudėti į whitelist. Neturiu vaikų, tuo pačiu ir galimybės pamatyt to ką matot jūs, todėl negaliu pataisyt.
 
-||cloudfront.net$domain=moviex.in
+||cloudfront.net^$domain=moviex.in,moviex.org
+||cloudflare.com^$domain=moviex.in,moviex.org
 @@||vz.lt^$generichide
 @@||lt.adocean.pl/files/js/ado.js$domain=vz.lt
 pazintys.draugas.lt##DIV[style="width: 300px; min-height: 250px; text-align: center;"]
