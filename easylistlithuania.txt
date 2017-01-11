@@ -5,12 +5,13 @@
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2016-12-24
+! Paskutinis atnaujinimas: 2017-01-11
 ! Expires: 30 days (update frequency)
 !
 !!!!!!!!!!!!!!!Dienynai!!!!!!!!!!!!!!!!!!!!!!!!
 !tamo/samo/mano dienynas, etc. visi jie bus sudėti į whitelist. Neturiu vaikų, tuo pačiu ir galimybės pamatyt to ką matot jūs, todėl negaliu pataisyt.
 
+||cloudfront.net$domain=moviex.in
 @@||vz.lt^$generichide
 @@||lt.adocean.pl/files/js/ado.js$domain=vz.lt
 pazintys.draugas.lt##DIV[style="width: 300px; min-height: 250px; text-align: center;"]
