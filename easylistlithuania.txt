@@ -5,7 +5,7 @@
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2017-02-01
+! Paskutinis atnaujinimas: 2017-02-12
 ! Expires: 30 days (update frequency)
 !
 !!!!!!!!!!!!!!!Dienynai!!!!!!!!!!!!!!!!!!!!!!!!
@@ -60,7 +60,7 @@ alytusplius.lt##.region.region-sidebar-first
 alytusplius.lt##IMG[src="/sites/default/files/images2016/a_-_kristalu_namai.jpg"]
 motersgidas.lt##.article-ad-section *
 flirtas.alfa.lt##.ad-top-wrp
-@@manodienynas.lt
+||manodienynas.lt/new/layout/js/blockadblock.js
 @@tamo.15min.lt
 @@tamo.lt
 ||eaop.delfi.lt
