@@ -12,6 +12,7 @@
 !tamo/samo/mano dienynas, etc. visi jie bus sudėti į whitelist. Neturiu vaikų, tuo pačiu ir galimybės pamatyt to ką matot jūs, todėl negaliu pataisyt.
 
 
+delfi.lt##.container-col-right
 redeneobux.com##.modal-container
 redeneobux.com###modal
 torrent.ai##[onclick*="window.open('https://tonybet.lt/*"]
