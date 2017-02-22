@@ -12,6 +12,8 @@
 !tamo/samo/mano dienynas, etc. visi jie bus sudėti į whitelist. Neturiu vaikų, tuo pačiu ir galimybės pamatyt to ką matot jūs, todėl negaliu pataisyt.
 
 
+alio.lt###citadeleClean_window
+alio.lt###citadele_view_b
 satpasaulis.lt##CENTER
 siustis.net##.banner_block
 ||azrimet.info
