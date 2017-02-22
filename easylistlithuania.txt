@@ -5,13 +5,23 @@
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2017-02-12
+! Paskutinis atnaujinimas: 2017-02-22
 ! Expires: 30 days (update frequency)
 !
 !!!!!!!!!!!!!!!Dienynai!!!!!!!!!!!!!!!!!!!!!!!!
 !tamo/samo/mano dienynas, etc. visi jie bus sudėti į whitelist. Neturiu vaikų, tuo pačiu ir galimybės pamatyt to ką matot jūs, todėl negaliu pataisyt.
 
 
+satpasaulis.lt##CENTER
+siustis.net##.banner_block
+||azrimet.info
+autoplius.lt##.bigbank.bigbank-wrapper
+autoplius.lt##.blender-300x400
+autoplius.lt##.right-offers
+autoplius.lt##[href="#auto_leasing"] > *
+autoplius.lt##.auto_leasing *
+autoplius.lt##.citadele-wrapper
+autoplius.lt##DIV[style="min-height: 200px;position:relative;"]
 delfi.lt##.container-col-right
 redeneobux.com##.modal-container
 redeneobux.com###modal
