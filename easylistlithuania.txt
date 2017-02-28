@@ -12,6 +12,10 @@
 !tamo/samo/mano dienynas, etc. visi jie bus sudėti į whitelist. Neturiu vaikų, tuo pačiu ir galimybės pamatyt to ką matot jūs, todėl negaliu pataisyt.
 
 
+
+@@||15min.lt/js/ads/banner.js
+15min.lt##.top-banner.row-24.clearfix
+15min.lt##[id^="google_ads_iframe_/"]
 @@||tv3.lt^$generichide
 @@||tv3.lt/*ads$xmlhttprequest
 @@||fwmrm.net^$script,domain=play.tv3.lt
