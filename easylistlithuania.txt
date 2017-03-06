@@ -11,8 +11,13 @@
 !!!!!!!!!!!!!!!Dienynai!!!!!!!!!!!!!!!!!!!!!!!!
 !tamo/samo/mano dienynas, etc. visi jie bus sudėti į whitelist. Neturiu vaikų, tuo pačiu ir galimybės pamatyt to ką matot jūs, todėl negaliu pataisyt.
 
-||15min.lt/js/common-desktop-bundle.js
-@@||15min.lt/js/ads/banner.js
+@@||15min.lt/assets/images/bg/s.gif
+@@||15min.lt^$generichide
+@@||15min.lt/*ads
+@@||securepubads.g.doubleclick.net^$domain=15min.lt
+kauno.diena.lt###komentaru-top-left
+15min.lt##.plius-base-box.plius-base-box-skelbiu
+15min.lt##.plius-base-box.plius-base-box-aruodas
 15min.lt##.top-banner.row-24.clearfix
 15min.lt##[id^="google_ads_iframe_/"]
 @@||tv3.lt^$generichide
@@ -63,7 +68,6 @@ kvitrina.lt##.widget.fa_slideshow
 15min.lt##.article-banner
 @@||15minlt.adocean.pl/files/js/ado.js
 tavovaikas.lt##[href="http://www.nukas.lt/kudikiu-maistas/hipp/"] > *
-@@||15minlt.adocean.pl/_*/ad.js
 panele.lt,manonamai.lt,tavovaikas.lt,moteris.lt,cosmopolitan.lt,delfi.lt###wallpaper-link-left
 panele.lt,manonamai.lt,tavovaikas.lt,moteris.lt,cosmopolitan.lt,delfi.lt###wallpaper-link-right
 topcom.lt##IMG[alt="parduotuvė"]
@@ -124,12 +128,6 @@ statymai.com##.bookmaker
 /skydeliai/*
 118.lt##.adnet-add
 1588.lt###headerBanner
-15min.lt###plius_container_0
-15min.lt##.ap_mm_15min
-15min.lt##.ar-item.bg-border-greywhite.ar-row-29
-15min.lt##.ar-wrapper
-15min.lt##.article-banners.clearfix
-15min.lt##.block.block-orakulas
 15min.lt##.df-auto-container
 15min.lt##.footer_note
 15min.lt##.fs-banner
@@ -146,7 +144,6 @@ statymai.com##.bookmaker
 15min.lt##IMG[alt="Klasikinės muzikos gerbėjams dovana – „Vivace Vilnius“ festivalio koncertai"]
 15min.lt##[href^="http://adsplius.lt/trackers"] > *
 15min.lt##pi_one_ad
-15min.lt#@#.adsbox
 7min.lt##A[href="http://1920x1080wallpapers.eu/"]
 7min.lt##A[href="http://www.tvlietuviskai.eu/"]
 @@-120_600_$domain=moviex.org
@@ -165,7 +162,6 @@ statymai.com##.bookmaker
 @@/popunder2.$domain=moviex.org
 @@/show_ads_$domain=telikaz.biz
 @@/web-ads.$domain=moviex.org
-@@15minlt.adocean.pl/files/js/ado.js
 @@_doubleclick.$domain=moviex.org
 @@_vodaaffi_$domain=moviex.org
 @@ad=760x120&$domain=moviex.org
