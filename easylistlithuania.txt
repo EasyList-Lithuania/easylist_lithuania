@@ -59,13 +59,11 @@ kauno.diena.lt##.kaledu-block-wrapper
 ||dcdn.lt/pr/i/infoblocks/lidlban_
 ||diena.lt/sites/default/files/*diena/Vartotoju%20zona/Domasphp/imgpsh_fullsize.jpg
 ||rkl.draugas.lt/rkl/pazintys_250x120.cfm
-15min.lt##.article-banner
 15min.lt##.kaledinis_dovanu_gidas_vertical
 ||delfi.lt/misc/export/aop.php
 kvitrina.lt##.widget.widget_wysiwyg_widgets_widget
 kvitrina.lt##.widget.fa_slideshow
 ||delfilt.adocean.pl/files/*.mp4
-15min.lt##.article-banner
 @@||15minlt.adocean.pl/files/js/ado.js
 tavovaikas.lt##[href="http://www.nukas.lt/kudikiu-maistas/hipp/"] > *
 panele.lt,manonamai.lt,tavovaikas.lt,moteris.lt,cosmopolitan.lt,delfi.lt###wallpaper-link-left
