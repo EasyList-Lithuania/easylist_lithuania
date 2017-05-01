@@ -8,6 +8,11 @@
 ! Paskutinis atnaujinimas: 2017-04-17
 ! Expires: 30 days (update frequency)
 
+||dcdn.lt/d/a/tsw10.jpg
+bigbenas.com##IMG[src^="https://ad.admitad.com/b/"]
+cosmopolitan.lt###wallpaper-sitehat
+cosmopolitan.lt###wallpaper-link-left + #wallpaper-link-right
+cosmopolitan.lt###wallpaper-link-left
 ###delfi-front-right-column
 ##.reklamos_nuorodos
 ##.reklamos_tarpas
