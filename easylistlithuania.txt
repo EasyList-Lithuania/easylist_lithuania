@@ -8,6 +8,7 @@
 ! Paskutinis atnaujinimas: 2017-04-17
 ! Expires: 30 days (update frequency)
 
+suvalkai.lt#@##adsense
 ||dcdn.lt/d/a/tsw10.jpg
 bigbenas.com##IMG[src^="https://ad.admitad.com/b/"]
 cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt###wallpaper-sitehat
