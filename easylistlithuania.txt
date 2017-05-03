@@ -10,9 +10,9 @@
 
 ||dcdn.lt/d/a/tsw10.jpg
 bigbenas.com##IMG[src^="https://ad.admitad.com/b/"]
-cosmopolitan.lt###wallpaper-sitehat
-cosmopolitan.lt###wallpaper-link-left + #wallpaper-link-right
-cosmopolitan.lt###wallpaper-link-left
+cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt###wallpaper-sitehat
+cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt###wallpaper-link-left
+cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt###wallpaper-link-right
 ###delfi-front-right-column
 ##.reklamos_nuorodos
 ##.reklamos_tarpas
