@@ -1,19 +1,14 @@
 [Adblock Plus 2.0]
+! Checksum: z29dFwItc8eY1ta99uOVoA
 ! Title: EasyList Lithuania
 ! Prisidėjo: Algimantas Margevičius, Mantas Malcius 
 ! Apie neužblokuotas reklamas ar kitas bėdas praneškite el. paštu algimantas@margevicius.lt arba forume http://forums.lanik.us/ 
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2017-04-17
+! Paskutinis atnaujinimas: 2017-05-10
 ! Expires: 30 days (update frequency)
 
-suvalkai.lt#@##adsense
-||dcdn.lt/d/a/tsw10.jpg
-bigbenas.com##IMG[src^="https://ad.admitad.com/b/"]
-cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt###wallpaper-sitehat
-cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt###wallpaper-link-left
-cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt###wallpaper-link-right
 ###delfi-front-right-column
 ##.reklamos_nuorodos
 ##.reklamos_tarpas
@@ -213,6 +208,9 @@ chatas.lt##[src^="http://draugaukime.lt/banner/db.js.php"] + * *
 chatas.lt##a[href="http://www.100skelbimu.lt/"]
 ciurlioniopaveldas.lt##.bx-viewport
 cosmopolitan.lt##.cosmo-article-banner
+cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt###wallpaper-link-left
+cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt###wallpaper-link-right
+cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt###wallpaper-sitehat
 cs-servers.lt,delfi.lt,racas.lt,rinkaplius.lt,strazdaneles.lt,pasikeisk.lt,priekavos.lt,1588.lt,devetibaldai.lt,panbalsas.lt,sodobaldai.lt,ekopasaulis.com,ekopirk.lt,zaislaivaikams.lt,kcci.lt,mystore.lt##.banner
 cust.lt##.footer_banners
 cvzona.lt###top-b
@@ -249,6 +247,8 @@ delfi.lt##DIV[class^="alio-"]
 delfi.lt##DIV[class^="con-"]
 delfi.lt##DIV[id^="alio-"]
 delfi.lt##DIV[style="delfi-ads-block"]
+democ.eu###uzdanga
+democ.eu##.fanai
 depiliacija.eu###products_page_container > *
 depiliacija.eu##A[href="http://depiliacija.eu/fotoepiliatorius-silkn-flashgo-luxx/"]
 depiliacija.eu##A[href="http://depiliacija.eu/silkn-glide-naujas-kompaktiskas-fotoepiliatorius/"]
@@ -263,6 +263,7 @@ diena.lt##.big
 diena.lt##.competitionBlock
 diena.lt##.reklama-text
 diena.lt##[id^="reklama-pop-"]
+diena.lt/sites/default/files/Vilniausdiena/Vartotoju%20zona/diena_admin/300x600-kd-hanza-2.jpg
 dimexpro.eu,buypcgame.eu,apiereklama.lt,pokernews.com##.ads
 diskusijos.darnipora.lt##.post.bg3
 diskusijos.darnipora.lt##IMG[onclick="Set_Cookie( 'popunder31254', 'true', 3, '/', '', '' );document.getElementById('myBtn').style.display='none';"]
@@ -357,6 +358,7 @@ kasvyksta.lt##DIV.exit-wrapper.main-isejimas-wrapper *
 kasvyksta.lt#@#.social-bottom
 katiluturgus.lt##a[href^="/banners/"]
 kaunas.lt##TD[style="PADDING-BOTTOM: 13px; PADDING-LEFT: 0px; BACKGROUND: url(/kaunas/m/m_images/wfiles/il4sk332.jpg) #faf6f5 no-repeat left top; PADDING-TOP: 13px"]
+kauno.diena.lt##.header-reklama-pagrindine-top-new
 kaunoturgus.lt###cpopup *
 kaunoturgus.lt###reklama28
 kaunoturgus.lt##IMG[alt="http://www.pirkautolizingu.lt/"]
@@ -563,7 +565,13 @@ silentpc.lt,meistras1.lt,bitute.lt,vivasaninfo.lt,piniginuke.lt,tuka.lt##.banner
 siloaidas.lt##A[target="_blank"][href*="http://"] > IMG
 siloaidas.lt,mususavaite.lt,spainetosdraudimas.lt##IMG[src*="baneris"]
 silokarcema.lt###ads
+siustis.net##.banner_block
 siustis.net##.box
+siustis.net##DIV[style="background-color: rgb(255, 255, 255); max-height: 100%; max-width: 100%; padding: 40px; position: relative; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5); box-sizing: initial;"]
+siustis.net##DIV[style="display: flex; justify-content: center; align-items: center; opacity: 1; position: relative; width: 100%; height: 100%;"]
+siustis.net##DIV[style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; border-radius: 30px; opacity: 0.5; background-color: rgb(175, 175, 175); cursor: pointer;"]
+siustis.net##DIV[style="position: fixed; top: 0px; bottom: 0px; left: 0px; right: 0px; display: flex; justify-content: center; align-items: center; z-index: 2147483638;"]
+siustis.net##[style="position: absolute; top: 0px; right: 0px; background-color: transparent; text-align: center; width: 100%; height: 90px; z-index: 2147483647;"]
 skelbiu.lt###banner-three-in-one-between-items
 skelbiu.lt###offer-container
 skelbiu.lt##DIV.advertisementTitle
@@ -585,6 +593,7 @@ spainetosdraudimas.lt###partners
 spargalka.lt##.adsbygoogle
 spauda.lt##IMG[alt="Poligrafijos įmonė 'Spauda': SPAUDA.COM"]
 supermama.lt##DIV[style="width: 752px; padding-top: 7px;"]
+suvalkai.lt#@##adsense
 sveikas.lt##.side-block.side-banner *
 sveikatosabc.lt##A[href="http://www.bedantis.lt"] *
 sveikatosabc.lt##DIV[style="width:250px; float:left"] > DIV[style^="height:"]
@@ -617,7 +626,10 @@ topzone.lt##DIV[style="margin-top:3px; margin-bottom:3px; height:250px;"]
 torentai.lt##A[href="http://ldiena.lt"] + * *
 torrent.ai###left_banner
 torrent.ai###top_banner_torrent_details
+torrent.ai##.tb_click
 torrent.ai##.tb_click[onclick="window.open('https://lt.tonybet.com/tonybetpoker?trc=678_1810_2434', '_blank');"]
+torrent.ai##.tb_click_left
+torrent.ai##.tb_click_right
 torrent.ai##A[href="store?ad=0"]
 torrent.ai##DIV > [href="http://www.lyso.lt/?utm_source=torrent-ai"] > IMG[src="http://cdn.torrent.tl/lt/davise/lyso728.gif"]
 traders.lt##DIV[style="padding-top:4px;padding-bottom:4px;text-align:center;"]
@@ -741,6 +753,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||beligu.lt/images/longavit.jpg
 ||beta.lt/beta.lt/banners
 ||bigbenas.com/https://ad.admitad.com/
+||bigbenas.com/https://ad.admitad.com/b/
 ||biworldkompiuteriai.lt^$third-party
 ||blogr.lt/promo.jpg
 ||bms.creativepartner.lt
@@ -767,6 +780,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||dazasvydis.transer.net/files/image/transer%20technical%20translations_logo.jpg
 ||dazasvydis.transer.net/files/image/vestuves%20logo.jpg
 ||dcdn.lt/adbam/
+||dcdn.lt/d/a/tsw10.jpg
 ||dcdn.lt/media/bnr
 ||dcdn.lt/pr/i/gruzija-top.jpg
 ||dcdn.lt/wd/x/4948/r/079d346cdd9c7d833a017b2bc1143d85.q88.trim.250x250.jpeg
@@ -1176,6 +1190,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||top100.lt^$third-party
 ||torentai.lt/pic/ldiena.png
 ||torentai.lt/pic/logo_mazas.png
+||torrent.ai/lt/davise/017_
 ||torrent.lt/*/advise/
 ||torrent.tl/lt/davise/
 ||toxnet.nlm.nih.gov/help/widget/lactmed_widget_large.html
