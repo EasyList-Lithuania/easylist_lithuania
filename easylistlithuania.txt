@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: 2Oap8ejPeBIQYoQrg07nOA
+! Checksum: yWn1SEBMryxc49+RYciQlw
 ! Title: EasyList Lithuania
 ! Prisidėjo: Algimantas Margevičius, Mantas Malcius 
 ! Apie neužblokuotas reklamas ar kitas bėdas praneškite el. paštu algimantas@margevicius.lt arba forume http://forums.lanik.us/ 
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2017-05-16
+! Paskutinis atnaujinimas: 2017-05-21
 ! Expires: 30 days (update frequency)
 
 ###delfi-front-right-column
@@ -780,6 +780,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||dazasvydis.transer.net/files/image/transer%20technical%20translations_logo.jpg
 ||dazasvydis.transer.net/files/image/vestuves%20logo.jpg
 ||dcdn.lt/adbam/
+||dcdn.lt/d/a/
 ||dcdn.lt/d/a/tsw10.jpg
 ||dcdn.lt/d/a/tsw11.jpg
 ||dcdn.lt/media/bnr
