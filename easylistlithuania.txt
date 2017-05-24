@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: yWn1SEBMryxc49+RYciQlw
+! Checksum: FszaX4iUCK6ceTgnt+0KGw
 ! Title: EasyList Lithuania
 ! Prisidėjo: Algimantas Margevičius, Mantas Malcius 
 ! Apie neužblokuotas reklamas ar kitas bėdas praneškite el. paštu algimantas@margevicius.lt arba forume http://forums.lanik.us/ 
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2017-05-21
+! Paskutinis atnaujinimas: 2017-05-24
 ! Expires: 30 days (update frequency)
 
 ###delfi-front-right-column
@@ -173,6 +173,15 @@ autobilis.lt###citadele-box *
 autogidas.lt##.banner-big-bank
 autogidas.lt##DIV#citadele-mini *
 automokyklos.lt##.reklamaadd
+autoplius.lt###auto_leasing
+autoplius.lt##.ad-corner-top-250
+autoplius.lt##.auto-leasing-link
+autoplius.lt##.bigbank.bigbank-wrapper
+autoplius.lt##.citadele-black
+autoplius.lt##.head-small
+autoplius.lt##.leader-board-wrapper
+autoplius.lt##.news-15min-sidebar
+autoplius.lt##.right-offers
 avitela.lt,elektromarkt.lt##.lizing
 baidare.com##.spotlight > *
 balsas.lt###position_7376 + .c_block.cont_list_8.c_block_bordered > *
