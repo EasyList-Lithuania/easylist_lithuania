@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: fKnd/cLB8+lgy4ehaMjvXw
+! Checksum: bCHiNZr6WOvyDBIqsN5Eqg
 ! Title: EasyList Lithuania
 ! Prisidėjo: Algimantas Margevičius, Mantas Malcius 
 ! Apie neužblokuotas reklamas ar kitas bėdas praneškite el. paštu algimantas@margevicius.lt arba forume http://forums.lanik.us/ 
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2017-05-27
+! Paskutinis atnaujinimas: 2017-05-31
 ! Expires: 30 days (update frequency)
 
 ###delfi-front-right-column
@@ -714,6 +714,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||alytausnaujienos.lt/images/alytausnaujienos.ltbaneris.jpg
 ||am.lt/VI/images/Numeris2.jpg
 ||am.lt/VI/images/betos.jpg
+||am15.net/
 ||aop.delfi.lt/*.mp4
 ||apieseksa.lt/swf/suzadink.swf
 ||apieseksa.lt/wp-content/uploads/2014/02/FASHION-STOCKINGS-BANNER-300x300.jpg
@@ -736,6 +737,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||aukse.ucoz.com/sokiu_bunkeris.png
 ||auto-loads.lt/media/uploads/banners/
 ||autogidas-static.dgn.lt/static/nqs
+||autogidas.lt/static/images/banners/
 ||automedia.lt/resources/_banners/
 ||autotaurage.lt/images/jau_at.png
 ||autotaurage.lt/images/salvage_lt.jpg
