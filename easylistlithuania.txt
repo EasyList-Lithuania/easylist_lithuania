@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: bCHiNZr6WOvyDBIqsN5Eqg
+! Checksum: JUZec9o0/huCBurGfrjU4A
 ! Title: EasyList Lithuania
 ! Prisidėjo: Algimantas Margevičius, Mantas Malcius 
 ! Apie neužblokuotas reklamas ar kitas bėdas praneškite el. paštu algimantas@margevicius.lt arba forume http://forums.lanik.us/ 
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2017-05-31
+! Paskutinis atnaujinimas: 2017-06-07
 ! Expires: 30 days (update frequency)
 
 ###delfi-front-right-column
@@ -583,7 +583,9 @@ siustis.net##DIV[style="position: absolute; top: 0px; left: 0px; bottom: 0px; ri
 siustis.net##DIV[style="position: fixed; top: 0px; bottom: 0px; left: 0px; right: 0px; display: flex; justify-content: center; align-items: center; z-index: 2147483638;"]
 siustis.net##[style="position: absolute; top: 0px; right: 0px; background-color: transparent; text-align: center; width: 100%; height: 90px; z-index: 2147483647;"]
 skelbiu.lt###banner-three-in-one-between-items
+skelbiu.lt###list-middle-zone
 skelbiu.lt###offer-container
+skelbiu.lt###top-item-zone
 skelbiu.lt##DIV.advertisementTitle
 skelbiu.lt##DIV.content
 skelbiu.lt##DIV.result
@@ -809,6 +811,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||depiliacija.eu/wp-content/uploads/2012/06/fotoepiliatorius-silkn-flashngo.png
 ||depiliacija.eu/wp-content/uploads/2013/09/HF-depiliacija-baneris180x500.jpg
 ||dgn.lt/static/5/paskolos-v2.html
+||dgn.lt/static/nqs/5/banner
 ||diablo3.lt/images/banners/
 ||dideleszuvys.lt/images/banners/
 ||dideleszuvys.lt/templates/rhuk_milkyway/images/blue/logo.png
