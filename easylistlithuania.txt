@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: ehZWc6WdJq5E46MqQLKfTQ
+! Checksum: w3ljcXxT/6u/bGaCScS6OQ
 ! Title: EasyList Lithuania
 ! Prisidėjo: Algimantas Margevičius, Mantas Malcius 
 ! Apie neužblokuotas reklamas ar kitas bėdas praneškite el. paštu algimantas@margevicius.lt arba forume http://forums.lanik.us/ 
@@ -983,6 +983,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||laisvaslaikrastis.lt/laikrascio%20baneris.swf
 ||lapes.lt/banners/
 ||lavinantys.lt/shop/out/oxbaseshop/html/2/images
+||legacy.flirtas.lt/alfa/users_block/
 ||lese.lt/data/baneriai
 ||lh3.googleusercontent.com/-HlLkax1GggM/UGSYFJmOVpI/AAAAAAAAmCc/TZT-DJmpt4g/s125/aukok.png
 ||lh6.googleusercontent.com/-emSu6klAyOM/U00ckPNq4KI/AAAAAAAAAOk/Op4XYSWK7R4/w700-h112-no/go9000bannerisiforuma.jpg
