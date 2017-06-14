@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: qS97ni3x7JHRHazX72uBdw
+! Checksum: ehZWc6WdJq5E46MqQLKfTQ
 ! Title: EasyList Lithuania
 ! Prisidėjo: Algimantas Margevičius, Mantas Malcius 
 ! Apie neužblokuotas reklamas ar kitas bėdas praneškite el. paštu algimantas@margevicius.lt arba forume http://forums.lanik.us/ 
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2017-06-07
+! Paskutinis atnaujinimas: 2017-06-14
 ! Expires: 30 days (update frequency)
 
 ###delfi-front-right-column
@@ -95,6 +95,7 @@
 @@||googleapis.com/js/sdkloader/ima3.js$domain=lrytas.lt
 @@||googlesyndication.com/pagead/$third-party
 @@||grozionamai.lt/images/sobipro/adv/
+@@||hit.gemius.pl^$third-party,domain=alfa.lt
 @@||imasdk.googleapis.com/js/core/
 @@||jaunatvesnamai.lt/wp-content/uploads/2013/01/baneriukas-20-proc-kuno-pirminiems.jpg
 @@||kvt.lt/ebilet.cup.static/img/header/
@@ -708,6 +709,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||adsplius.lt^$third-party
 ||adverum.lt^$third-party
 ||aleja.lt^$third-party
+||alio.lt/infoNewNT
 ||alkas.lt/uploads/init-logo.jpg
 ||alkas.lt/wp-content/uploads/2010/09/remeju-logo.png
 ||alytausgidas.lt/media/_banners/
