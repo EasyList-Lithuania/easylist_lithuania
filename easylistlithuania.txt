@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: w3ljcXxT/6u/bGaCScS6OQ
+! Checksum: jlSIQX8c5AHCgfe0z6Izeg
 ! Title: EasyList Lithuania
 ! Prisidėjo: Algimantas Margevičius, Mantas Malcius 
 ! Apie neužblokuotas reklamas ar kitas bėdas praneškite el. paštu algimantas@margevicius.lt arba forume http://forums.lanik.us/ 
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2017-06-14
+! Paskutinis atnaujinimas: 2017-06-21
 ! Expires: 30 days (update frequency)
 
 ###delfi-front-right-column
@@ -114,6 +114,7 @@
 @@||post.lt/bin/banners/
 @@||post.lt/files/resized/*x*/banners/
 @@||powerhitradio.tv3.lt/stream/player/$generichide
+@@||sascdn.com^$third-party,domain=vz.lt
 @@||simpsonaionline.net/js/advertisement.js
 @@||siustis.net^$generichide
 @@||smailas.net/baneriai/
@@ -650,6 +651,9 @@ trakai.lt##TD[style="PADDING-BOTTOM: 15px; PADDING-LEFT: 12px; PADDING-RIGHT: 10
 trakai.lt##TD[style="PADDING-BOTTOM: 15px; PADDING-LEFT: 22px; BACKGROUND: url(/trakai/m/m_images/wfiles/ipxjgy5347.jpg) repeat-y left top; PADDING-TOP: 16px"]
 treneris.net,smc.kedainiai.lm.lt,tzz.lt,l24.lt,suduvosgidas.lt,anyksta.lt##.banneritem
 tv.lrytas.lt###fabPost
+tv3.lt###tv300x600_1d_tv3\.lt *
+tv3.lt###tv980x200_tv3_lt *
+tv3.lt##[onclick="ga('send', 'event', 'Anonsai', 'Click', 'Svarbiausia blokelio paspaudimas');"] *
 tvenkiniu-projektai.lt,nemokamosknygos.lt##.banner1
 uploads/images/$domain=gyvenimoguru.lt,image
 vaikutis.lt###area1.home-banner
@@ -710,6 +714,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||adverum.lt^$third-party
 ||aleja.lt^$third-party
 ||alio.lt/infoNewNT
+||alio.lt/infoblock.html
 ||alkas.lt/uploads/init-logo.jpg
 ||alkas.lt/wp-content/uploads/2010/09/remeju-logo.png
 ||alytausgidas.lt/media/_banners/
