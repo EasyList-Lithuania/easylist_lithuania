@@ -187,7 +187,6 @@ avitela.lt,elektromarkt.lt##.lizing
 baidare.com##.spotlight > *
 balsas.lt###position_7376 + .c_block.cont_list_8.c_block_bordered > *
 baltoslankos.lt###parneriai
-baltracker.net##IMG[title="PicMik free image hosting"]
 baltupiudarzelis.lt###content > A[href^="http://www."] > IMG
 basketnews.lt##IMG[alt="Olybet"]
 basketnews.lt##[style="margin-bottom: 10px; height: 100px; padding-left: 10px; padding-right: 10px; text-align: center;"]
@@ -200,7 +199,6 @@ beta.lt##.hook.roof-placeholder
 bigbenas.com##.banner
 bigbenas.com##.col-sm-4.sidebar-column
 bigbenas.com##A[href*="empazon.ru"]
-bigbenas.com##A[href*="empazon.ru"] > *
 bioetika.sam.lt##DIV[style="margin: 10px 0px"]
 bitute.lt##.kontaktai *
 blogas.lt###reklamos-juostele
