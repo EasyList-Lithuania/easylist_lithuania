@@ -797,7 +797,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||dazasvydis.lt/images/lazertag_ban-ani.gif
 ||dazasvydis.transer.net/files/image/transer%20technical%20translations_logo.jpg
 ||dazasvydis.transer.net/files/image/vestuves%20logo.jpg
-||dcdn.lt/em1.jpg
+||dcdn.lt/em*.jpg
 ||dcdn.lt/adbam/
 ||dcdn.lt/d/
 ||dcdn.lt/media/bnr
