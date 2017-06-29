@@ -8,6 +8,7 @@
 ! Paskutinis atnaujinimas: 2017-06-21
 ! Expires: 30 days (update frequency)
 
+delfi.lt##.cookie-widget-v2 + A
 ###delfi-front-right-column
 ##.reklamos_nuorodos
 ##.reklamos_tarpas
