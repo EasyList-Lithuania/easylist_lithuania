@@ -8,6 +8,7 @@
 ! Paskutinis atnaujinimas: 2017-06-30
 ! Expires: 30 days (update frequency)
 
+@@||delfi.lt^$generichide
 delfi.lt##.cookie-widget-v2 + A
 ###delfi-front-right-column
 ##.reklamos_nuorodos
@@ -210,20 +211,19 @@ cagsolution.blogspot.com##MARQUEE IMG
 ccic.lt###block_banner_2 *
 chatas.lt###ad-30
 chatas.lt##.content[style="text-align: center;"]:first-child
-chatas.lt##.plug78 *
+chatas.lt##.plug78
 chatas.lt##.row.bg1.global-announce + .content
 chatas.lt##.thumbtitle
 chatas.lt##[src^="http://draugaukime.lt/banner/db.js.php"] + * *
 chatas.lt##a[href="http://www.100skelbimu.lt/"]
 ciurlioniopaveldas.lt##.bx-viewport
 cosmopolitan.lt##.cosmo-article-banner
-cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt###wallpaper-link-left
-cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt###wallpaper-link-right
-cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt###wallpaper-sitehat
-delfi.lt###wallpaper-sitehat
 delfi.lt###wallpaper-link-right
 delfi.lt###wallpaper-link-left
 delfi.lt###wallpaper
+cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt###wallpaper-link-left
+cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt###wallpaper-link-right
+cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt###wallpaper-sitehat
 cs-servers.lt,delfi.lt,racas.lt,rinkaplius.lt,strazdaneles.lt,pasikeisk.lt,priekavos.lt,1588.lt,devetibaldai.lt,panbalsas.lt,sodobaldai.lt,ekopasaulis.com,ekopirk.lt,zaislaivaikams.lt,kcci.lt,mystore.lt##.banner
 cust.lt##.footer_banners
 cvzona.lt###top-b
@@ -243,7 +243,6 @@ degalines.orlenlietuva.lt##.addsBoxFirst
 delfi.lt###banner-box
 delfi.lt###dwidget_6066.dwidget[style="width:250px;height:500px;display:block;overflow:hidden"]
 delfi.lt###glmr
-delfi.lt###header-top-banner
 delfi.lt###leftSideOrder
 delfi.lt###new-partners
 delfi.lt###recipes-section
