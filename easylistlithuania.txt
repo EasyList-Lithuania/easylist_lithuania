@@ -1,4 +1,5 @@
 [Adblock Plus 2.0]
+! Checksum: BQwn6jywvdD0B5PiJ2M1kw
 ! Title: EasyList Lithuania
 ! Prisidėjo: Algimantas Margevičius, Mantas Malcius 
 ! Apie neužblokuotas reklamas ar kitas bėdas praneškite el. paštu algimantas@margevicius.lt arba forume http://forums.lanik.us/ 
@@ -8,8 +9,6 @@
 ! Paskutinis atnaujinimas: 2017-06-30
 ! Expires: 30 days (update frequency)
 
-@@||delfi.lt^$generichide
-delfi.lt##.cookie-widget-v2 + A
 ###delfi-front-right-column
 ##.reklamos_nuorodos
 ##.reklamos_tarpas
@@ -88,6 +87,7 @@ delfi.lt##.cookie-widget-v2 + A
 @@||apatinukai.lt/image/cache/data/baneriai/
 @@||banners.adnet.lt/i/euro_1_490x270_3.swf
 @@||banners.adnet.lt/i/euro_game_1.js
+@@||delfi.lt^$generichide
 @@||dujuirangoskaina.lt^$document
 @@||eurovaistine.lt/uploads/banners/
 @@||filmux.org/ad_adsense.js
@@ -218,9 +218,6 @@ chatas.lt##[src^="http://draugaukime.lt/banner/db.js.php"] + * *
 chatas.lt##a[href="http://www.100skelbimu.lt/"]
 ciurlioniopaveldas.lt##.bx-viewport
 cosmopolitan.lt##.cosmo-article-banner
-delfi.lt###wallpaper-link-right
-delfi.lt###wallpaper-link-left
-delfi.lt###wallpaper
 cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt###wallpaper-link-left
 cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt###wallpaper-link-right
 cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt###wallpaper-sitehat
@@ -246,6 +243,10 @@ delfi.lt###glmr
 delfi.lt###leftSideOrder
 delfi.lt###new-partners
 delfi.lt###recipes-section
+delfi.lt###wallpaper
+delfi.lt###wallpaper-link-left
+delfi.lt###wallpaper-link-right
+delfi.lt##.cookie-widget-v2 + A
 delfi.lt##.delfi-ads-front-container
 delfi.lt##.delfi-anonsai.category-header-line
 delfi.lt##.delfi-content-ads
@@ -697,8 +698,6 @@ zodynas.kriu.lt##.box1[style="padding:10px 0;"]
 zooplius.lt##A[alt="Prezi.lt"] + CENTER
 zooplius.lt##CENTER > A > *
 zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
-||delfi.lt/c/ib/
-||http://mediasearch.lt/flashplayer/flowplayer.swf?0.38348993902331463
 |http://www.lukoil.lt/mimages/Banners/
 ||120x60.lt/banners/
 ||1551.lt/images/banner
@@ -800,14 +799,15 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||dazasvydis.lt/images/lazertag_ban-ani.gif
 ||dazasvydis.transer.net/files/image/transer%20technical%20translations_logo.jpg
 ||dazasvydis.transer.net/files/image/vestuves%20logo.jpg
-||dcdn.lt/em*.jpg
 ||dcdn.lt/adbam/
 ||dcdn.lt/d/
+||dcdn.lt/em*.jpg
 ||dcdn.lt/media/bnr
 ||dcdn.lt/pr/i/gruzija-top.jpg
 ||dcdn.lt/wd/x/4948/r/079d346cdd9c7d833a017b2bc1143d85.q88.trim.250x250.jpeg
 ||delfi.lt/apps/banners
 ||delfi.lt/b?region=
+||delfi.lt/c/ib/
 ||delfi.lt/files/*.mp4
 ||delfi.lt/misc/ebooks.php
 ||delfi.lt/misc/export/aovp.php
@@ -915,6 +915,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||hardas.lt/http://www.hardas.lt/wp-content/uploads/icons//2014/04/brother-mazasis.png
 ||herba.lt/media/dynamic/banners/
 ||hostex.lt/images/header/logo.gif
+||http://mediasearch.lt/flashplayer/flowplayer.swf?0.38348993902331463
 ||i41.tinypic.com/2yos7f7.png
 ||i422.photobucket.com/albums/pp305/savaites/banerisold_160x192.jpg
 ||i461.photobucket.com/albums/qq339/martynukas/AntBangos.gif
