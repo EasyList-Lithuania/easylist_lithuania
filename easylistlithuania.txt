@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: BQwn6jywvdD0B5PiJ2M1kw
+! Checksum: dDRvwPV/r1lkax/DLNNBig
 ! Title: EasyList Lithuania
 ! Prisidėjo: Algimantas Margevičius, Mantas Malcius 
 ! Apie neužblokuotas reklamas ar kitas bėdas praneškite el. paštu algimantas@margevicius.lt arba forume http://forums.lanik.us/ 
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2017-06-30
+! Paskutinis atnaujinimas: 2017-07-05
 ! Expires: 30 days (update frequency)
 
 ###delfi-front-right-column
@@ -218,9 +218,11 @@ chatas.lt##[src^="http://draugaukime.lt/banner/db.js.php"] + * *
 chatas.lt##a[href="http://www.100skelbimu.lt/"]
 ciurlioniopaveldas.lt##.bx-viewport
 cosmopolitan.lt##.cosmo-article-banner
-cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt###wallpaper-link-left
-cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt###wallpaper-link-right
-cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt###wallpaper-sitehat
+cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt,delfi.lt###wallpaper
+cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt,delfi.lt###wallpaper-link-left
+cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt,delfi.lt###wallpaper-link-right
+cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt,delfi.lt###wallpaper-sitehat
+cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt,delfi.lt##.cookie-widget-v2 + A
 cs-servers.lt,delfi.lt,racas.lt,rinkaplius.lt,strazdaneles.lt,pasikeisk.lt,priekavos.lt,1588.lt,devetibaldai.lt,panbalsas.lt,sodobaldai.lt,ekopasaulis.com,ekopirk.lt,zaislaivaikams.lt,kcci.lt,mystore.lt##.banner
 cust.lt##.footer_banners
 cvzona.lt###top-b
@@ -243,10 +245,6 @@ delfi.lt###glmr
 delfi.lt###leftSideOrder
 delfi.lt###new-partners
 delfi.lt###recipes-section
-delfi.lt###wallpaper
-delfi.lt###wallpaper-link-left
-delfi.lt###wallpaper-link-right
-delfi.lt##.cookie-widget-v2 + A
 delfi.lt##.delfi-ads-front-container
 delfi.lt##.delfi-anonsai.category-header-line
 delfi.lt##.delfi-content-ads
@@ -712,6 +710,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||adsplius.lt^$third-party
 ||adverum.lt^$third-party
 ||aleja.lt^$third-party
+||alio.lt/infoNewAuto.html
 ||alio.lt/infoNewNT
 ||alio.lt/infoblock.html
 ||alkas.lt/uploads/init-logo.jpg
