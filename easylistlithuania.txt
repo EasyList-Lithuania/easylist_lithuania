@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: dDRvwPV/r1lkax/DLNNBig
+! Checksum: fDAA45VFKH6QCdqhPKru9Q
 ! Title: EasyList Lithuania
 ! Prisidėjo: Algimantas Margevičius, Mantas Malcius 
 ! Apie neužblokuotas reklamas ar kitas bėdas praneškite el. paštu algimantas@margevicius.lt arba forume http://forums.lanik.us/ 
@@ -665,6 +665,7 @@ vaistai.lt##a[href^="http://www.vaistai.lt/index.php?option=com_artbanners&task=
 vaistai.lt/images/banners/$domain=vaistai.lt
 vandensparkas.lt##.banner-1
 vardai.org##.adsb
+varle.lt##.popup_overlay
 vasara.tt.lt##A[target="_blank"] > IMG
 veidas.lt##.ad120_box
 veidas.lt##.ad468_frame_bot
