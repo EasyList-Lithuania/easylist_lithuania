@@ -1,5 +1,4 @@
 [Adblock Plus 2.0]
-! Checksum: fDAA45VFKH6QCdqhPKru9Q
 ! Title: EasyList Lithuania
 ! Prisidėjo: Algimantas Margevičius, Mantas Malcius 
 ! Apie neužblokuotas reklamas ar kitas bėdas praneškite el. paštu algimantas@margevicius.lt arba forume http://forums.lanik.us/ 
@@ -9,6 +8,7 @@
 ! Paskutinis atnaujinimas: 2017-07-05
 ! Expires: 30 days (update frequency)
 
+||torrent.ai/lt/davise/
 ###delfi-front-right-column
 ##.reklamos_nuorodos
 ##.reklamos_tarpas
