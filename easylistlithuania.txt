@@ -8,6 +8,12 @@
 ! Paskutinis atnaujinimas: 2017-07-05
 ! Expires: 30 days (update frequency)
 
+||sportas.lt/Uploads/image/03_klasika_2200x1024.jpg
+||prod.one.lt
+krepsinis.ne##[id^=k300x600_]
+sportas.lt##[id^=s300x600_]
+||perku.lt/uploads/taupiems_tapetas.gif
+krepsinis.net###k980x200_krepsinis_net > *
 ||torrent.ai/lt/davise/
 ###delfi-front-right-column
 ##.reklamos_nuorodos
