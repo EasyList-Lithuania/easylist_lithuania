@@ -8,6 +8,7 @@
 ! Paskutinis atnaujinimas: 2017-07-05
 ! Expires: 30 days (update frequency)
 
+||facebook.com/groups/fotosopink
 sportas.lt##A[href^="http://www.taupiems.lt"]
 ||sportas.lt/Uploads/image/03_klasika_2200x1024.jpg
 ||prod.one.lt
