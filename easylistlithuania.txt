@@ -5,9 +5,10 @@
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2017-07-05
+! Paskutinis atnaujinimas: 2017-07-15
 ! Expires: 30 days (update frequency)
 
+||facebook.com/groups/1508002239413397
 ||facebook.com/groups/fotosopink
 sportas.lt##A[href^="http://www.taupiems.lt"]
 ||sportas.lt/Uploads/image/03_klasika_2200x1024.jpg
