@@ -220,10 +220,7 @@ cosmopolitan.lt##.cosmo-article-banner
 cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt,delfi.lt###wallpaper
 cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt,delfi.lt###wallpaper-link-left
 cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt,delfi.lt###wallpaper-link-right
-cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt,delfi.lt###wallpaper-sitehat
-delfi.lt###wallpaper-link-left
-delfi.lt###wallpaper-link-right
-delfi.lt###wallpaper-sitehat
+cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt###wallpaper-sitehat
 cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt,delfi.lt##.cookie-widget-v2 + A
 cs-servers.lt,delfi.lt,racas.lt,rinkaplius.lt,strazdaneles.lt,pasikeisk.lt,priekavos.lt,1588.lt,devetibaldai.lt,panbalsas.lt,sodobaldai.lt,ekopasaulis.com,ekopirk.lt,zaislaivaikams.lt,kcci.lt,mystore.lt##.banner
 cust.lt##.footer_banners
