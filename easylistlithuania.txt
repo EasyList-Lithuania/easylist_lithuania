@@ -216,14 +216,10 @@ chatas.lt##[src^="http://draugaukime.lt/banner/db.js.php"] + * *
 chatas.lt##a[href="http://www.100skelbimu.lt/"]
 ciurlioniopaveldas.lt##.bx-viewport
 cosmopolitan.lt##.cosmo-article-banner
-cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,delfi.lt###wallpaper
-cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,delfi.lt###wallpaper-link-left
-cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,delfi.lt###wallpaper-link-right
-cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,###wallpaper-sitehat
-tavovaikas.lt###wallpaper
-cosmopolitan.lt###wallpaper-link-left
-cosmopolitan.lt###wallpaper-link-right
-cosmopolitan.lt###wallpaper-sitehat
+cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt,delfi.lt###wallpaper
+cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt,delfi.lt###wallpaper-link-left
+cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt,delfi.lt###wallpaper-link-right
+cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt,delfi.lt###wallpaper-sitehat
 cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt,delfi.lt##.cookie-widget-v2 + A
 cs-servers.lt,delfi.lt,racas.lt,rinkaplius.lt,strazdaneles.lt,pasikeisk.lt,priekavos.lt,1588.lt,devetibaldai.lt,panbalsas.lt,sodobaldai.lt,ekopasaulis.com,ekopirk.lt,zaislaivaikams.lt,kcci.lt,mystore.lt##.banner
 cust.lt##.footer_banners
