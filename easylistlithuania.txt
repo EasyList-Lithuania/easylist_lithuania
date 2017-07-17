@@ -6,7 +6,7 @@
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
 ! Paskutinis atnaujinimas: 2017-07-17
-! Expires: 30 days (update frequency)
+! Expires: 14 days (update frequency)
 
 ###delfi-front-right-column
 ##.reklamos_nuorodos
