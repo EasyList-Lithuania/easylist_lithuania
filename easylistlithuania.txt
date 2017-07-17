@@ -1,23 +1,14 @@
 [Adblock Plus 2.0]
+! Checksum: h9FLcTKa2YXy5bkIeVTdWA
 ! Title: EasyList Lithuania
 ! Prisidėjo: Algimantas Margevičius, Mantas Malcius 
 ! Apie neužblokuotas reklamas ar kitas bėdas praneškite el. paštu algimantas@margevicius.lt arba forume http://forums.lanik.us/ 
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2017-07-15
+! Paskutinis atnaujinimas: 2017-07-17
 ! Expires: 30 days (update frequency)
 
-||facebook.com/groups/1508002239413397
-||facebook.com/groups/fotosopink
-sportas.lt##A[href^="http://www.taupiems.lt"]
-||sportas.lt/Uploads/image/03_klasika_2200x1024.jpg
-||prod.one.lt
-krepsinis.ne##[id^=k300x600_]
-sportas.lt##[id^=s300x600_]
-||perku.lt/uploads/taupiems_tapetas.gif
-krepsinis.net###k980x200_krepsinis_net > *
-||torrent.ai/lt/davise/
 ###delfi-front-right-column
 ##.reklamos_nuorodos
 ##.reklamos_tarpas
@@ -390,6 +381,8 @@ knygoholike.blogspot.com##A[href="http://www.veltinis.lt"] > IMG
 konsultuokis.lt##.useful_banner_manager_banner *
 kosmetikos.lt##DIV#draugai > *
 kovosakademija.lt###links_container *
+krepsinis.ne##[id^=k300x600_]
+krepsinis.net###k980x200_krepsinis_net > *
 kronika.lt###leftbar-w A > IMG
 krs.lt###right_banner
 ksi.lt##IMG.aligncenter
@@ -614,6 +607,8 @@ sorimpeksas.com##DIV:last-child > P[align="center"]
 spainetosdraudimas.lt###partners
 spargalka.lt##.adsbygoogle
 spauda.lt##IMG[alt="Poligrafijos įmonė 'Spauda': SPAUDA.COM"]
+sportas.lt##A[href^="http://www.taupiems.lt"]
+sportas.lt##[id^=s300x600_]
 supermama.lt##DIV[style="width: 752px; padding-top: 7px;"]
 suvalkai.lt#@##adsense
 sveikas.lt##.side-block.side-banner *
@@ -884,6 +879,8 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||europoszemelapis.lt/serveriai-nuolaida150.jpg
 ||ezshop.lt/250.gif
 ||faberlic-deguonies-kosmetika.lt/images/stories/dykai-lt.jpg
+||facebook.com/groups/1508002239413397
+||facebook.com/groups/fotosopink
 ||fanpagelistbuilder.net/pagetab/app_coupon/scriptindex.php?pageid=
 ||farm4.static.flickr.com/3512/3178137982_2d1f1d4ff1_o.gif
 ||filmai.in/v2_ajax.php
@@ -1096,6 +1093,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||pasidarykpats.eu/wp-content/uploads/2012/09/pasidaryk120.png
 ||pasidarykpats.eu/wp-content/uploads/2012/09/pasidaryk468.png
 ||passat-club.lt/auto_parts.jpg
+||perku.lt/uploads/taupiems_tapetas.gif
 ||perkuvaikui.lt/media/upload/image/Beautyline%20ban%20180x180.jpg
 ||perkuvaikui.lt/media/upload/image/Zappy%20baneris%20180x120_frame_2.jpg
 ||perkuvaikui.lt/media/upload/image/kaimai_lt(2).jpg
@@ -1134,6 +1132,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||priejuros.lt/palangosvila/palangosvila.swf
 ||priekavos.lt/reklamos
 ||prizme.lt/images/banners/
+||prod.one.lt
 ||prokuraturos.lt/Portals/0/Skins/lrgp/images/Patarimai.gif
 ||prokuraturos.lt/Portals/0/Skins/lrgp/images/banner1.gif
 ||proxy.dlf.lt
@@ -1191,6 +1190,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||spargalka.lt/images/filmai.gif
 ||spausdink-ilgiau.lt/image/cache/data/img/mokilizingas-182x182-182x182.png
 ||sport24.lt/uploads/NET4.png
+||sportas.lt/Uploads/image/03_klasika_2200x1024.jpg
 ||sportinis.info/bnrs
 ||statybos.lt/images/banners/
 ||suaugusiems.lt/Uploads/Affiliates/
@@ -1225,6 +1225,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||top100.lt^$third-party
 ||torentai.lt/pic/ldiena.png
 ||torentai.lt/pic/logo_mazas.png
+||torrent.ai/lt/davise/
 ||torrent.ai/lt/davise/017_
 ||torrent.lt/*/advise/
 ||torrent.tl/lt/davise/
