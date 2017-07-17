@@ -29,6 +29,7 @@
 /baneriukas/*
 /images/texts/*$domain=miskobirza.lt,image
 /skydeliai/*
+/skydeliai/*
 118.lt##.adnet-add
 1588.lt###headerBanner
 15min.lt###plius_container_0
