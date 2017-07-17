@@ -29,7 +29,6 @@
 /baneriukas/*
 /images/texts/*$domain=miskobirza.lt,image
 /skydeliai/*
-/skydeliai/*
 118.lt##.adnet-add
 1588.lt###headerBanner
 15min.lt###plius_container_0
@@ -643,7 +642,6 @@ torentai.lt##A[href="http://ldiena.lt"] + * *
 torrent.ai###left_banner
 torrent.ai###top_banner_torrent_details
 torrent.ai##.tb_click
-torrent.ai##.tb_click[onclick="window.open('https://lt.tonybet.com/tonybetpoker?trc=678_1810_2434', '_blank');"]
 torrent.ai##.tb_click_left
 torrent.ai##.tb_click_right
 torrent.ai##A[href="store?ad=0"]
@@ -776,7 +774,6 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||beligu.lt/images/longavit.jpg
 ||beta.lt/beta.lt/banners
 ||bigbenas.com/https://ad.admitad.com/
-||bigbenas.com/https://ad.admitad.com/b/
 ||biworldkompiuteriai.lt^$third-party
 ||blogr.lt/promo.jpg
 ||bms.creativepartner.lt
@@ -1225,7 +1222,6 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||torentai.lt/pic/ldiena.png
 ||torentai.lt/pic/logo_mazas.png
 ||torrent.ai/lt/davise/
-||torrent.ai/lt/davise/017_
 ||torrent.lt/*/advise/
 ||torrent.tl/lt/davise/
 ||toxnet.nlm.nih.gov/help/widget/lactmed_widget_large.html
