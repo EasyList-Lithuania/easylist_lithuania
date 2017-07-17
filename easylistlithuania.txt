@@ -8,6 +8,7 @@
 ! Paskutinis atnaujinimas: 2017-07-17
 ! Expires: 14 days (update frequency)
 
+||dcdn.lt/aw.jpg
 ###delfi-front-right-column
 ##.reklamos_nuorodos
 ##.reklamos_tarpas
