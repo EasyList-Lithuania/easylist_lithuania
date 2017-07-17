@@ -86,7 +86,6 @@
 @@||apatinukai.lt/image/cache/data/baneriai/
 @@||banners.adnet.lt/i/euro_1_490x270_3.swf
 @@||banners.adnet.lt/i/euro_game_1.js
-@@||delfi.lt^$generichide
 @@||dujuirangoskaina.lt^$document
 @@||eurovaistine.lt/uploads/banners/
 @@||filmux.org/ad_adsense.js
