@@ -8,6 +8,9 @@
 ! Paskutinis atnaujinimas: 2017-07-17
 ! Expires: 14 days (update frequency)
 
+lrytas.lt##.aside.filled
+lrytas.lt###a0.stpd_criteo
+lrytas.lt###a1.stpd_criteo
 ||dcdn.lt/aw.jpg
 ###delfi-front-right-column
 ##.reklamos_nuorodos
