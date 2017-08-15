@@ -725,6 +725,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||adverum.lt^$third-party
 ||aleja.lt^$third-party
 ||alio.lt/infoNewAuto.html
+||alio.lt/infoNewFooter.html
 ||alio.lt/infoNewNT
 ||alio.lt/infoblock.html
 ||alkas.lt/uploads/init-logo.jpg
