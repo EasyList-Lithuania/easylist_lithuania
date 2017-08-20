@@ -1,25 +1,14 @@
 [Adblock Plus 2.0]
+! Checksum: ac09S0QzPkKm+jhu5gehnw
 ! Title: EasyList Lithuania
 ! Prisidėjo: Algimantas Margevičius, Mantas Malcius 
 ! Apie neužblokuotas reklamas ar kitas bėdas praneškite el. paštu algimantas@margevicius.lt arba forume http://forums.lanik.us/ 
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2017-07-17
-! Expires: 14 days (update frequency)
+! Paskutinis atnaujinimas: 2017-08-20
+! Expires: 30 days (update frequency)
 
-info.lt###canvas
-info.lt##.col-sm-3 > .ad
-info.lt##.row.ad-no-space
-jumsinfo.lt##.pixel6
-miestugatves.lt##IMG[src^="http://www.miestugatves.lt/nuolaida-"]
-imones.lrytas.lt##.ad-banner-right
-lituanicon.lt##.textwidget
-delfi.lt##.karta25
-lrytas.lt##.aside.filled
-lrytas.lt###a0.stpd_criteo
-lrytas.lt###a1.stpd_criteo
-||dcdn.lt/aw.jpg
 ###delfi-front-right-column
 ##.reklamos_nuorodos
 ##.reklamos_tarpas
@@ -259,6 +248,7 @@ delfi.lt##.delfi-ads-front-container
 delfi.lt##.delfi-anonsai.category-header-line
 delfi.lt##.delfi-content-ads
 delfi.lt##.delfi-content-container.delfi-category-anonsai-external
+delfi.lt##.karta25
 delfi.lt##.news-list-banner
 delfi.lt##A[href="http://kaunas.kasvyksta.lt/"] > *
 delfi.lt##A[rel="nofollow"][href^="http://www.delfi.lt/reklama/"] > *
@@ -357,15 +347,20 @@ hardas.lt###v1b13546c9f
 hdpaveiksliukai.lt##.partners_right *
 images/banners/$domain=marijosradijas.lt,image
 images/stories/Logotipai/$domain=marijampolieciai.lt,image
+imones.lrytas.lt##.ad-banner-right
 imunitetas.lt,mesmoterys.lt,anglija.today,snaujienos.lt##.ad
 inbox.lt###inxAds-imr
 info.lt###Reklama
+info.lt###canvas
+info.lt##.col-sm-3 > .ad 
+info.lt##.row.ad-no-space
 infoma.lt##.baneriai
 infrost.lt##IMG[alt="inFROST - CS 1.6 Serveriai"]
 infrost.lt##[title="ksi_120x60"]
 interjeras.lt##.projects-container-home
 internetine-tv.narod.ru##A[target="titul"] > IMG
 invega.lt##[src^="site/banners/"] + * TD
+jumsinfo.lt##.pixel6
 juokauju.lt##.moduletable_ads
 kabutes.kasvyksta.lt##.miestasreng *
 kamane.lt##.left_banner
@@ -435,6 +430,7 @@ liguabc.lt##DIV[style="text-align:center"]
 liguabc.lt##IMG[alt="Ruba.lt - vyriški marškiniai, megztiniai internetu, išpardavimas"]
 linksmiau.net##A[href="http://sportouzdarbis.com/"] > *
 litlogas.com,madairgrozis.lt##.bannergroup
+lituanicon.lt##.textwidget
 lkl.lt##.widget.widget-promobox-small.width-1-5.no-bottom-margin
 lkl.lt##.widget.widget-promobox-wide.width-1-1.no-bottom-margin
 lova.lt##.floating-box-inner
@@ -445,6 +441,9 @@ lrt.lt##.Scrolling_banner
 lrt.lt##TD[height="118"]
 lrvalstybe.lt##.left_banners
 lrvalstybe.lt##.right_banners
+lrytas.lt###a0.stpd_criteo
+lrytas.lt###a1.stpd_criteo
+lrytas.lt##.aside.filled
 lrytas.lt#@#.afs_ads
 lttv.us##A[href="http://www.filmux.us"]
 lttv.us/images/300x100_5.gif
@@ -813,6 +812,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||dazasvydis.transer.net/files/image/transer%20technical%20translations_logo.jpg
 ||dazasvydis.transer.net/files/image/vestuves%20logo.jpg
 ||dcdn.lt/adbam/
+||dcdn.lt/aw.jpg
 ||dcdn.lt/d/
 ||dcdn.lt/em*.jpg
 ||dcdn.lt/media/bnr
@@ -821,6 +821,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||delfi.lt/apps/banners
 ||delfi.lt/b?region=
 ||delfi.lt/c/ib/
+||delfi.lt/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoV2luZG93cykiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6QTY5Q0Q5MjM4NDBCMTFFN0IwNDlCOEQzMTFDQkM5MzIiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6QTY5Q0Q5MjQ4NDBCMTFFN0IwNDlCOEQzMTFDQkM5MzIiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDpBNjlDRDkyMTg0MEIxMUU3QjA0OUI4RDMxMUNCQzkzMiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDpBNjlDRDkyMjg0MEIxMUU3QjA0OUI4RDMxMUNCQzkzMiIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PnDafGsAAAFNSURBVHjaYmHADZyBOASIdYFYC4iZgfgGEF8B4s1AvIGBSGAHxOeA+D8BfBuIgwkZVkGEQei4H5dhZWQYBsOT0A0zo8AwGA5BNvABDkU/sYh9x6H2ExCzwCIBXfIXEBcBsTQQ30MS/woVC4Oy0fXlgAycjcM2GBAF4m9QcXUCvjoAkjiNwwtXgVgSqlkTiC2hbDaoRmx6QJYwfMAT0J+B2BjJVTJAfB+P+k9M0ByAC/AAMRcSnxWIZfGoZwQR5/HEmi5UIT80MkBAAo8rH4MULMUi8QHJZSBfPATiL0AsjOSau1j0HQNJ+OJIa4FAzAFVBBMHJSF2aLi+waKvEmbbGxxeeIpF7BEOtb+hYQ4G3lTIetnoMTSRAsPW4op2cgxdSahMjIfGKiGD3kHzO2ZCxAJA2SsNiD2BWBWIxaDJ5zU0ueyFlgHv0DUCBBgAjXH/K88KB/kAAAAASUVORK5CYII=
 ||delfi.lt/files/*.mp4
 ||delfi.lt/misc/ebooks.php
 ||delfi.lt/misc/export/aovp.php
@@ -931,6 +932,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||herba.lt/media/dynamic/banners/
 ||hostex.lt/images/header/logo.gif
 ||http://mediasearch.lt/flashplayer/flowplayer.swf?0.38348993902331463
+||http://www.miestugatves.lt/reklamos/
 ||i41.tinypic.com/2yos7f7.png
 ||i422.photobucket.com/albums/pp305/savaites/banerisold_160x192.jpg
 ||i461.photobucket.com/albums/qq339/martynukas/AntBangos.gif
@@ -1055,6 +1057,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||meniu.lt/uploads/user_images/RV41_cover.jpg
 ||menoerdve.lt/modules/mod_flexbanners/trans.gif
 ||meteoprog.lt/lt/informerget/?type=4&city[]=Gargzdai&color=E45700&txtcolor=FFFF00&day=tommorow
+||miestugatves.lt/nuolaida-
 ||miskobirza.lt/images/news/Baneris1_120x60[1].JPG
 ||miskobirza.lt/images/texts/ad
 ||miskobirza.lt/images/texts/miskui_lt_90x55_1[1].jpg
