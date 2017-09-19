@@ -735,7 +735,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||alio.lt/infoNewAuto.html
 ||alio.lt/infoNewFooter.html
 ||alio.lt/infoNewNT
-||alio.lt/infoblock.html
+||alio.lt/infoblock
 ||alkas.lt/uploads/init-logo.jpg
 ||alkas.lt/wp-content/uploads/2010/09/remeju-logo.png
 ||alytausgidas.lt/media/_banners/
