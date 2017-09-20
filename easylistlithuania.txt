@@ -8,6 +8,11 @@
 ! Paskutinis atnaujinimas: 2017-09-14
 ! Expires: 30 days (update frequency)
 
+inbox.lt##.col-xs-12.col-sm-5.col-md-6.col-lg-3.col-widget-4.games_widget *
+inbox.lt###social
+15min.lt##[data-block="container-teleloto"] *
+15min.lt###block-header-container-teleloto
+||autoplius.lt/infoblocks
 ||dcdn.lt/wts17_
 delfi.lt##[style="position:fixed;top:50%;left:50%;margin:-250px 0 0 -450px;z-index:9999999991;"] *
 ||alio.lt/infoCVComments300x500.html
