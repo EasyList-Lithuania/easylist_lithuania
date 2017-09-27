@@ -13,7 +13,7 @@ inbox.lt###social
 15min.lt##[data-block="container-teleloto"] *
 15min.lt###block-header-container-teleloto
 ||autoplius.lt/infoblocks
-||dcdn.lt/wts17_
+||dcdn.lt/wts*_
 delfi.lt##[style="position:fixed;top:50%;left:50%;margin:-250px 0 0 -450px;z-index:9999999991;"] *
 ||alio.lt/infoCVComments300x500.html
 ||alio.lt/infoNewAuto1200.html
