@@ -8,6 +8,8 @@
 ! Paskutinis atnaujinimas: 2017-10-02
 ! Expires: 30 days (update frequency)
 
+delfi.lt##[title="Uždaryti"]
+||dcdn.lt/swt
 @@||hit.gemius.pl^$third-party,domain=lnkgo.lt
 inbox.lt##.col-xs-12.col-sm-5.col-md-6.col-lg-3.col-widget-4.games_widget *
 inbox.lt###social
