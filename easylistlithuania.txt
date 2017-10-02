@@ -8,6 +8,7 @@
 ! Paskutinis atnaujinimas: 2017-09-14
 ! Expires: 30 days (update frequency)
 
+@@||hit.gemius.pl^$third-party,domain=lnkgo.lt
 inbox.lt##.col-xs-12.col-sm-5.col-md-6.col-lg-3.col-widget-4.games_widget *
 inbox.lt###social
 15min.lt##[data-block="container-teleloto"] *
