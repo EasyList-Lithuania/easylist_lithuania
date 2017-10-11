@@ -8,6 +8,7 @@
 ! Paskutinis atnaujinimas: 2017-10-02
 ! Expires: 30 days (update frequency)
 
+||dcdn.lt/tsw18_
 delfi.lt##.frame-marker
 g1.dcdn.lt##.infoblock
 skelbiu.lt##.bigbank.bigbank-wrapper
