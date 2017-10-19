@@ -8,6 +8,16 @@
 ! Paskutinis atnaujinimas: 2017-10-02
 ! Expires: 30 days (update frequency)
 
+||diena.lt/sites/default/files/Vilniausdiena/Vartotoju%20zona/diena_admin/giberta_darbo_0.jpg
+15min.lt###block-outer-
+15min.lt##[id^="block-"]
+||jonavosnaujienos.lzinios.lt/wp-content/uploads/2017/02/kasyba-geras.jpg
+anglija.lt##.outer.bg-rhomb-grey-light.flag-block-wrapper.m-hide *
+anglija.lt##.main-right.m-hide
+||veliavos.anglija.lt/www/images/79f4559c9a7108c5ce9fe5a625ef964d.gif
+krepsinis.net##A[href^="https://goo.gl/"]
+||tv3.lt/Uploads/2454399.jpg
+||sportas.lt/Uploads/image/Naujasis%20tapetas%20be%20vir%C5%A1aus.jpg
 ||dcdn.lt/tsw18_
 delfi.lt##.frame-marker
 g1.dcdn.lt##.infoblock
