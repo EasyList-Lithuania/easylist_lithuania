@@ -8,6 +8,9 @@
 ! Paskutinis atnaujinimas: 2017-10-02
 ! Expires: 30 days (update frequency)
 
+||bigbenas.lt/wp-content/uploads/2017/10/study-in-london-1024x189-px.gif
+bigbenas.lt###sidebar-primary-sidebar
+||bigbenas.lt/wp-content/uploads/2017/03/banner-1.jpg
 ||diena.lt/sites/default/files/Vilniausdiena/Vartotoju%20zona/diena_admin/giberta_darbo_0.jpg
 15min.lt###block-outer-
 15min.lt##[id^="block-"]
