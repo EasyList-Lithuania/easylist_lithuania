@@ -8,6 +8,8 @@
 ! Paskutinis atnaujinimas: 2017-10-02
 ! Expires: 30 days (update frequency)
 
+||dcdn.lt/stw18
+delfi.lt##A[style="display: block; width: 20px; height: 20px; position: absolute; top: -35px; right: 5px; color: #FFF; background: #888; border-radius: 50%; padding: 7px 5px 7px 10px;"]
 ||bigbenas.lt/wp-content/uploads/2017/10/study-in-london-1024x189-px.gif
 bigbenas.lt###sidebar-primary-sidebar
 ||bigbenas.lt/wp-content/uploads/2017/03/banner-1.jpg
