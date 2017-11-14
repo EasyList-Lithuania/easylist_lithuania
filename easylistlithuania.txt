@@ -9,7 +9,8 @@
 ! Expires: 30 days (update frequency)
 ! dienynai neprižiūrimi, nes neturiu galimybės prisijungti. savanoris kuris norėjo prižiūrėti dingo.
 
-||delfi.lt/media/ads/anm/ab-
+||delfi.lt/media/ads/anm
+delfi.lt##.ab-frame
 ||img.diena.lt/sites/default/files/Vilniausdiena/Vartotoju%20zona/diena_admin/giberta_darbo_1.jpg
 15min.lt##.OSKGuuR
 15min.lt##.yasKHEH
