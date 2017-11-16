@@ -23,7 +23,6 @@ bigbenas.lt###sidebar-primary-sidebar
 ||bigbenas.lt/wp-content/uploads/2017/03/banner-1.jpg
 ||diena.lt/sites/default/files/Vilniausdiena/Vartotoju%20zona/diena_admin/giberta_darbo_0.jpg
 15min.lt###block-outer-
-15min.lt##[id^="block-"]
 ||jonavosnaujienos.lzinios.lt/wp-content/uploads/2017/02/kasyba-geras.jpg
 anglija.lt##.outer.bg-rhomb-grey-light.flag-block-wrapper.m-hide *
 anglija.lt##.main-right.m-hide
