@@ -9,7 +9,8 @@
 ! Expires: 30 days (update frequency)
 ! dienynai neprižiūrimi, nes neturiu galimybės prisijungti. savanoris kuris norėjo prižiūrėti dingo.
 
-<img src="https://g1.dcdn.lt/*18_*.jpg
+15min.lt##IFRAME[id^="wrp151"]
+||dcdn.lt/*18_*.jpg
 ||delfi.lt/media/ads/anm
 delfi.lt##.ab-frame
 ||img.diena.lt/sites/default/files/Vilniausdiena/Vartotoju%20zona/diena_admin/giberta_darbo_1.jpg
@@ -22,7 +23,6 @@ delfi.lt##a[style="display: block; width: *px; height: *px; position: absolute; 
 bigbenas.lt###sidebar-primary-sidebar
 ||bigbenas.lt/wp-content/uploads/2017/03/banner-1.jpg
 ||diena.lt/sites/default/files/Vilniausdiena/Vartotoju%20zona/diena_admin/giberta_darbo_0.jpg
-15min.lt###block-outer-
 ||jonavosnaujienos.lzinios.lt/wp-content/uploads/2017/02/kasyba-geras.jpg
 anglija.lt##.outer.bg-rhomb-grey-light.flag-block-wrapper.m-hide *
 anglija.lt##.main-right.m-hide
