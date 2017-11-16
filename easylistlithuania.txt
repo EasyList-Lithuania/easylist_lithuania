@@ -9,6 +9,7 @@
 ! Expires: 30 days (update frequency)
 ! dienynai neprižiūrimi, nes neturiu galimybės prisijungti. savanoris kuris norėjo prižiūrėti dingo.
 
+||15min.lt/assets/media/blocks/telia/teliablock_header.png
 15min.lt##IFRAME[id^="wrp151"]
 ||dcdn.lt/*18_*.jpg
 ||delfi.lt/media/ads/anm
