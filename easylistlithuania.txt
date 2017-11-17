@@ -10,7 +10,7 @@
 ! dienynai neprižiūrimi, nes neturiu galimybės prisijungti. savanoris kuris norėjo prižiūrėti dingo.
 
 delfi.lt##IFRAME[name^="CPbanner"]
-delfi.lt##IFRAME[src*="alio.lt/info"]
+cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt,delfi.lt##IFRAME[src*="alio.lt/info"]
 delfi.lt##IFRAME[src="https://www.delfi.lt/apps/banners/infoblock/prenumerata/newdesign/"]
 ||15min.lt/assets/media/blocks/telia/teliablock_header.png
 15min.lt##IFRAME[id="iframe_vmedija_1215_pos_40"]
