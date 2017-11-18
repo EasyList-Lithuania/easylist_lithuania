@@ -9,6 +9,7 @@
 ! Expires: 30 days (update frequency)
 ! dienynai neprižiūrimi, nes neturiu galimybės prisijungti. savanoris kuris norėjo prižiūrėti dingo.
 
+delfi.lt##[title="[X] Uždaryti"]
 diena.lt###komentaru-top-left
 diena.lt##IFRAME[src*="cvzona.lt"]
 delfi.lt##IFRAME[name^="CPbanner"]
@@ -25,7 +26,6 @@ delfi.lt##.ab-frame
 15min.lt##.yasKHEH
 @@manodienynas.lt
 @@tamo.lt
-delfi.lt##a[style="display: block; width: *px; height: *px; position: absolute; top: -35px; right: 5px; color: #FFF; background: #888; border-radius: 50%; padding: 7px 5px 7px 10px;"]
 ||bigbenas.lt/wp-content/uploads/2017/10/study-in-london-1024x189-px.gif
 bigbenas.lt###sidebar-primary-sidebar
 ||bigbenas.lt/wp-content/uploads/2017/03/banner-1.jpg
@@ -285,7 +285,6 @@ danielius.net##DIV[style="width: 80%; font-size: 12px; padding: 5px; border: 1px
 day.lt##[style="line-height: 25px; margin: 15px 8px 2px auto;"]
 degalines.orlenlietuva.lt##.addsBoxFirst
 delfi.lt###banner-box
-delfi.lt###dwidget_6066.dwidget[style="width:250px;height:500px;display:block;overflow:hidden"]
 delfi.lt###glmr
 delfi.lt###leftSideOrder
 delfi.lt###new-partners
@@ -863,7 +862,6 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||delfi.lt/apps/banners
 ||delfi.lt/b?region=
 ||delfi.lt/c/ib/
-||delfi.lt/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoV2luZG93cykiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6QTY5Q0Q5MjM4NDBCMTFFN0IwNDlCOEQzMTFDQkM5MzIiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6QTY5Q0Q5MjQ4NDBCMTFFN0IwNDlCOEQzMTFDQkM5MzIiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDpBNjlDRDkyMTg0MEIxMUU3QjA0OUI4RDMxMUNCQzkzMiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDpBNjlDRDkyMjg0MEIxMUU3QjA0OUI4RDMxMUNCQzkzMiIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PnDafGsAAAFNSURBVHjaYmHADZyBOASIdYFYC4iZgfgGEF8B4s1AvIGBSGAHxOeA+D8BfBuIgwkZVkGEQei4H5dhZWQYBsOT0A0zo8AwGA5BNvABDkU/sYh9x6H2ExCzwCIBXfIXEBcBsTQQ30MS/woVC4Oy0fXlgAycjcM2GBAF4m9QcXUCvjoAkjiNwwtXgVgSqlkTiC2hbDaoRmx6QJYwfMAT0J+B2BjJVTJAfB+P+k9M0ByAC/AAMRcSnxWIZfGoZwQR5/HEmi5UIT80MkBAAo8rH4MULMUi8QHJZSBfPATiL0AsjOSau1j0HQNJ+OJIa4FAzAFVBBMHJSF2aLi+waKvEmbbGxxeeIpF7BEOtb+hYQ4G3lTIetnoMTSRAsPW4op2cgxdSahMjIfGKiGD3kHzO2ZCxAJA2SsNiD2BWBWIxaDJ5zU0ueyFlgHv0DUCBBgAjXH/K88KB/kAAAAASUVORK5CYII=
 ||delfi.lt/files/*.mp4
 ||delfi.lt/misc/ebooks.php
 ||delfi.lt/misc/export/aovp.php
