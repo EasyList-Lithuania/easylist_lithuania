@@ -9,7 +9,7 @@
 ! Expires: 30 days (update frequency)
 ! dienynai neprižiūrimi, nes neturiu galimybės prisijungti. savanoris kuris norėjo prižiūrėti dingo.
 
-delfi.lt##[title="[X] Uždaryti"]
+cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt,delfi.lt##[title*="[X] Uždaryti"]
 diena.lt###komentaru-top-left
 diena.lt##IFRAME[src*="cvzona.lt"]
 delfi.lt##IFRAME[name^="CPbanner"]
