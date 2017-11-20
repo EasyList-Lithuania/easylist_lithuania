@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: WNk2X6O+tnevERBCLF873w
+! Checksum: S+XIcsJJUfJQsFdNhjkhIQ
 ! Title: EasyList Lithuania
 ! Prisidėjo: Algimantas Margevičius, Mantas Malcius 
 ! Apie neužblokuotas reklamas ar kitas bėdas praneškite el. paštu algimantas@margevicius.lt arba forume http://forums.lanik.us/ 
@@ -140,6 +140,7 @@ aeropolis.lt##IMG[title="SAABdalys.lt"]
 akmensmagija.lt###top
 alfa.lt##.block_text_links
 alfa.lt##.cosite_block
+alfa.lt##div[class="col-xs-12 col-sm-12 col-md-4 col-lg-3 sidebar-block "]
 alio.lt###adv_view_top
 alio.lt###advert_right
 alio.lt###banner-top
@@ -359,6 +360,7 @@ gyviau.lt###linkcat-1293
 gyviau.lt###text-12.widget.widget_text.clearfix
 gyviau.lt###text-14.widget.widget_text.clearfix
 hardas.lt###v1b13546c9f
+iframe[src="prod.one.lt/savaitgalis/savaitgalis_3x6_ziema/"]
 images/banners/$domain=marijosradijas.lt,image
 images/stories/Logotipai/$domain=marijampolieciai.lt,image
 imones.lrytas.lt##.ad-banner-right
@@ -550,6 +552,10 @@ priejuros.lt##.tipsy
 priejuros.lt##A[href="http://www.priejuros.lt/lt/apgyvendinimas/sventojoje-1-kambario-butas-renovuota-3396/"]
 priejuros.lt##A[href="http://www.priejuros.lt/lt/pramogos/velykos-pajuryje/"]
 priejuros.lt##A[rel="nofollow"][href="http://www.karkle.lt/page10.php"]
+priejuros.lt##div[id="face_ban"]
+priejuros.lt##div[id="left"]
+priejuros.lt##div[id="right"]
+priejuros.lt##div[id="top_baneriai"]
 priejuros.lt/rolijona/rolijona.gif
 priekavos.lt###post + #content-banners
 priekavos.lt##.header-banner
