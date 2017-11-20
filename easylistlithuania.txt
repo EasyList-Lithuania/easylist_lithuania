@@ -140,6 +140,8 @@ akmensmagija.lt###top
 alfa.lt##.block_text_links
 alfa.lt##.cosite_block
 alfa.lt##div[class="col-xs-12 col-sm-12 col-md-4 col-lg-3 sidebar-block "]
+alfa.lt##iframe[src*="apps.alfa.lt/2017/prenumeratoriai"]
+alfa.lt##iframe[src*="apps.alfa.lt/2017/manoSveikata"]
 alio.lt###adv_view_top
 alio.lt###advert_right
 alio.lt###banner-top
