@@ -8,6 +8,11 @@
 ! Paskutinis atnaujinimas: 2017-11-20
 ! Expires: 30 days (update frequency)
 
+||kasvyksta.lt/wp-content/uploads/2017/*300x250.jpg
+||kasvyksta.lt/isejimas-mob.php
+kasvyksta.lt##div[id*="mobile-post-main"]
+kasvyksta.lt##DIV[id*="existing-inside"]
+kasvyksta.lt##DIV[class*="exit-wrapper"]
 lrytas.lt##div[class="stpd_criteo"]
 filmux.org##iframe[src*="rekovers.ru/filmux.org.html"]
 ###delfi-front-right-column
