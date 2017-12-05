@@ -8,6 +8,8 @@
 ! Paskutinis atnaujinimas: 2017-11-20
 ! Expires: 30 days (update frequency)
 
+15min.lt/static/cache/*1200x300
+15min.lt/static/cache/*300x300
 ||kasvyksta.lt/wp-content/uploads/2017/*300x250.jpg
 ||kasvyksta.lt/isejimas-mob.php
 kasvyksta.lt##div[id*="mobile-post-main"]
