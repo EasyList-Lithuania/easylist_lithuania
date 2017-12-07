@@ -8,8 +8,14 @@
 ! Paskutinis atnaujinimas: 2017-11-20
 ! Expires: 30 days (update frequency)
 
-15min.lt/static/cache/*1200x300
-15min.lt/static/cache/*300x300
+@@||15min.lt^$generichide
+@@||15min.lt/*ads
+@@||securepubads.g.doubleclick.net^$domain=15min.lt
+15min.lt#?#:abp-contains(google_ads_iframe)
+15min.lt##div[id="ad-holder"]
+15min.lt##iframe[id*="google_ads_iframe_"]
+15min.lt##div[id*="google_ads_iframe_"]
+15min.lt##iframe[src*="sport1.lt/15mindev"]
 ||kasvyksta.lt/wp-content/uploads/2017/*300x250.jpg
 ||kasvyksta.lt/isejimas-mob.php
 kasvyksta.lt##div[id*="mobile-post-main"]
