@@ -245,7 +245,7 @@ cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt,delfi.lt###wallp
 cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt,delfi.lt###wallpaper-sitehat
 cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt,delfi.lt##.cookie-widget-v2 + A
 cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt,delfi.lt##IFRAME[src*="alio.lt/info"]
-cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt,delfi.lt##[title*="[X] Uždaryti"]
+cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt,delfi.lt#?#div:-abp-has(uždaryti)
 cust.lt##.footer_banners
 cvzona.lt###top-b
 cvzona.lt##.b-group
