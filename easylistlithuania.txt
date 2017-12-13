@@ -841,7 +841,7 @@ zurnalai.lt##IMG[alt="Informacija ir pagalba telefonu 1588"]
 ||dcdn.lt/em*.jpg
 ||dcdn.lt/media/bnr
 ||dcdn.lt/pr/i/gruzija-top.jpg
-||dcdn.lt/pub2.jpg
+||dcdn.lt/pab2.jpg
 ||dcdn.lt/swt
 ||dcdn.lt/sswt
 ||dcdn.lt/wd/x/4948/r/079d346cdd9c7d833a017b2bc1143d85.q88.trim.250x250.jpeg
