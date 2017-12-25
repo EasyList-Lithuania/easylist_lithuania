@@ -8,6 +8,7 @@
 ! Paskutinis atnaujinimas: 2017-11-20
 ! Expires: 30 days (update frequency)
 
+||ziurim24.com/engine/classes/js/jquery.js
 @@||15min.lt^$generichide
 @@||15min.lt/*ads
 @@||securepubads.g.doubleclick.net^$domain=15min.lt
