@@ -245,9 +245,9 @@ cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt,delfi.lt###wallp
 cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt,delfi.lt###wallpaper-sitehat
 cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt,delfi.lt##.cookie-widget-v2 + A
 cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt,delfi.lt##IFRAME[src*="alio.lt/info"]
-cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt,delfi.lt#?#a:-abp-has(img[alt="Topsport"])
+cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt,delfi.lt#?#div[id="ads-bottom-bar-container"]>a:-abp-has(a[title="[x] Uždaryti"])
+cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt,delfi.lt#?#a[href^="http://bit.ly/"]:-abp-has(img[alt="Topsport"])
 ||delfi.lt/apps/banners/infoblock/prenumerata/rightbig
-cosmopolitan.lt,moteris.lt,panele.lt,manonamai.lt,tavovaikas.lt,delfi.lt#?#div:-abp-has(a[title="[x] Uždaryti"])
 cust.lt##.footer_banners
 cvzona.lt###top-b
 cvzona.lt##.b-group
