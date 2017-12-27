@@ -8,6 +8,11 @@
 ! Paskutinis atnaujinimas: 2017-11-20
 ! Expires: 30 days (update frequency)
 
+@@||pump.lt$generichide
+@@||pump.lt/wp-content/themes/mad1/js/ads.js
+@@||adservice.google.com/adsid/integrator.js?domain=pump.lt
+pump.lt#@#.bottomad
+pump.lt#@#.adsbygoogle
 ||ziurim24.com/engine/classes/js/jquery.js
 @@||15min.lt^$generichide
 @@||15min.lt/*ads
