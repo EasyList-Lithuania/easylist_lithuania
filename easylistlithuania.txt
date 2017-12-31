@@ -8,6 +8,8 @@
 ! Paskutinis atnaujinimas: 2017-11-20
 ! Expires: 30 days (update frequency)
 
+||tv3.lt/Uploads/kalediniai_DM_tapetas.jpg
+tv3.lt##a[href*="goo.gl/"]
 @@||pump.lt$generichide
 @@||pump.lt/wp-content/themes/mad1/js/ads.js
 @@||adservice.google.com/adsid/integrator.js?domain=pump.lt
