@@ -8,6 +8,10 @@
 ! Paskutinis atnaujinimas: 2017-11-20
 ! Expires: 30 days (update frequency)
 
+15min.lt##.article-banner.ads-cnt
+15min.lt##.content-ad.ads-cnt
+delfi.lt###ads-bottom-bar-close
+delfi.lt##.fa.fa-times
 ||tv3.lt/Uploads/kalediniai_DM_tapetas.jpg
 tv3.lt##a[href*="goo.gl/"]
 @@||pump.lt$generichide
