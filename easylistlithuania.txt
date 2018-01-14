@@ -8,6 +8,7 @@
 ! Paskutinis atnaujinimas: 2017-11-20
 ! Expires: 30 days (update frequency)
 
+delfi.lt##.fa-window-close.fa
 15min.lt##.article-banner.ads-cnt
 15min.lt##.content-ad.ads-cnt
 delfi.lt###ads-bottom-bar-close
