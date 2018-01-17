@@ -8,7 +8,6 @@
 ! Paskutinis atnaujinimas: 2017-11-20
 ! Expires: 30 days (update frequency)
 
-
 ||dcdn.lt/*19_*.jpg
 ||dcdn.lt/*18_*.jpg
 ||dcdn.lt/adbam/
@@ -21,6 +20,7 @@
 ||dcdn.lt/sswt
 ||dcdn.lt/wd/x/4948/r/079d346cdd9c7d833a017b2bc1143d85.q88.trim.250x250.jpeg
 ||dcdn.lt/wts*_
+||dcdn.lt/wsst*_
 delfi.lt##.fa-window-close.fa
 15min.lt##.article-banner.ads-cnt
 15min.lt##.content-ad.ads-cnt
