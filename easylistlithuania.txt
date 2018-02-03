@@ -8,6 +8,12 @@
 ! Paskutinis atnaujinimas: 2017-11-20
 ! Expires: 30 days (update frequency)
 
+@@||play.tv3.lt/ad/banner/_ad$xmlhttprequest
+@@||v.fwmrm.net/ad/g/1?prof=$script,domain=play.tv3.lt
+@@||mssl.fwmrm.net/p/MTG_Brightcove_HTML5/AdManager.js$domain=play.tv3.lt
+@@||fwmrm.net/ad/g/1$domain=tv3.lt
+@@||fwmrm.net/ad/l/1$domain=tv3.lt
+play.tv3.lt##iframe[style="border: 0px none transparent; width: 1440px; height: 750px; overflow: hidden;"]
 @@||delfi.lt^$generichide
 @@||cosmopolitan.lt^$generichide
 @@||moteris.lt^$generichide
