@@ -8,6 +8,7 @@
 ! Paskutinis atnaujinimas: 2017-11-20
 ! Expires: 30 days (update frequency)
 
+delfi.lt##.fa-times-circle.fa
 @@||play.tv3.lt/ad/banner/_ad$xmlhttprequest
 @@||v.fwmrm.net/ad/g/1?prof=$script,domain=play.tv3.lt
 @@||mssl.fwmrm.net/p/MTG_Brightcove_HTML5/AdManager.js$domain=play.tv3.lt
