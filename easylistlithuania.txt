@@ -8,6 +8,10 @@
 ! Paskutinis atnaujinimas: 2017-11-20
 ! Expires: 30 days (update frequency)
 
+basketzone.lt###right_bottom
+||basketzone.lt/images/stories/wfotkes/statymai_blue_500x60.gif
+||basketzone.lt/images/stories/wfotkes/musu_statymai.jpg
+basketzone.lt###breadcrumb
 delfi.lt##.fa-times-square.fak
 delfi.lt##.fa-times-circle.fa
 @@||play.tv3.lt/ad/banner/_ad$xmlhttprequest
