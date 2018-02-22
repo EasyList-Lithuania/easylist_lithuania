@@ -8,6 +8,7 @@
 ! Paskutinis atnaujinimas: 2017-11-20
 ! Expires: 30 days (update frequency)
 
+diena.lt##iframe[src*="diena.lt/cview.php"]
 basketnews.lt##.showWhenBlocked
 ||basketnews.lt/config/basketnews.lt/themes/banners/olybet_300-600.png
 ||basketnews.lt/config/basketnews.lt/themes/banners/olybet_1000x200.png
