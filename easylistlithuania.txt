@@ -8,6 +8,14 @@
 ! Paskutinis atnaujinimas: 2017-11-20
 ! Expires: 30 days (update frequency)
 
+minfo.lt##.mainBannerContainer
+||minfo.lt/img/horizontal_main.jpg
+||minfo.lt/img/vertical_
+||minfo.lt/img/laiminga.png
+||minfo.lt/img/dovana-dukrai.jpg
+||minfo.lt/img/muscle.gif
+||minfo.lt/img/zaidimas.jpg
+minfo.lt##a[href^="/sportas/straipsnis/kai-truksta-vitaminu-gelbsti-papildai-"]
 diena.lt##iframe[src*="diena.lt/cview.php"]
 basketnews.lt##.showWhenBlocked
 ||basketnews.lt/config/basketnews.lt/themes/banners/olybet_300-600.png
