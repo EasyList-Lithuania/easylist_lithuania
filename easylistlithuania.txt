@@ -8,6 +8,7 @@
 ! Paskutinis atnaujinimas: 2017-11-20
 ! Expires: 30 days (update frequency)
 
+15min.lt##a[href*="optibet.lt"]
 minfo.lt##.mainBannerContainer
 ||minfo.lt/img/horizontal_main.jpg
 ||minfo.lt/img/vertical_
