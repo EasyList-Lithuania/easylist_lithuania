@@ -5,9 +5,10 @@
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2017-11-20
+! Paskutinis atnaujinimas: 2018-03-09
 ! Expires: 30 days (update frequency)
 
+||offers.webitas.lt/o-images
 ||15min.lt/static/cache/*/optibet_1200x250*
 15min.lt##a[href*="optibet.lt"]
 minfo.lt##.mainBannerContainer
