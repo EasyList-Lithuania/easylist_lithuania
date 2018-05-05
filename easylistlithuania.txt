@@ -5,9 +5,11 @@
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2018-04-10
+! Paskutinis atnaujinimas: 2018-05-05
 ! Expires: 30 days (update frequency)
 
+delfi.lt###ads-bottom-bar-ad
+||dcdn.lt/projektai/tautos-gydytojas/880x67.jpg
 ||15min.lt/static/cache/*300x400*.jpg
 15min.lt##a[href^="https://bit.ly"]
 delfi.lt##iframe[src*="delfi.lt/apps/banners/"]
