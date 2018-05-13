@@ -40,6 +40,7 @@
 15min.lt##.article-banner.ads-cnt
 15min.lt##.article-banners.clearfix
 15min.lt##.block.block-orakulas
+15min.lt##.col-18.no-padding.vl-auto-row
 15min.lt##.content-ad.ads-cnt
 15min.lt##.df-auto-container
 15min.lt##.footer_note
