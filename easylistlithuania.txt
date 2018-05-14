@@ -281,6 +281,7 @@ delfi.lt###recipes-section
 delfi.lt##.ab-frame
 delfi.lt##.delfi-ads-front-container
 delfi.lt##.delfi-anonsai.category-header-line
+delfi.lt##.delfi-article-banner
 delfi.lt##.delfi-content-ads
 delfi.lt##.delfi-content-container.delfi-category-anonsai-external
 delfi.lt##.fa-times-circle.fa
