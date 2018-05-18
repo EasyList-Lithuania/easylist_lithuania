@@ -5,9 +5,13 @@
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2018-05-12
+! Paskutinis atnaujinimas: 2018-05-18
 ! Expires: 30 days (update frequency)
 
+15min.lt##a[href*="perku.perlas.lt"]
+||tv3.lt/Uploads/image/pwr.jpg
+||tv3.lt/Uploads/banner_300x250(1).png
+||15min.lt/static/cache/*1200x250-
 ###delfi-front-right-column
 ##.reklamos_nuorodos
 ##.reklamos_tarpas
