@@ -8,6 +8,11 @@
 ! Paskutinis atnaujinimas: 2018-05-18
 ! Expires: 30 days (update frequency)
 
+||lzinios.lt/lzinios/newsLetter/reklama/reklama.php
+lzinios.lt###trecia
+lzinios.lt###Setup\.Lzinios\.lt\.lzinios\.lt_468x120_article
+lzinios.lt###\31 088574
+lzinios.lt###Setup\.Lzinios\.lt\.lzinios\.lt_970x250
 15min.lt##a[href*="perku.perlas.lt"]
 ||tv3.lt/Uploads/image/pwr.jpg
 ||tv3.lt/Uploads/banner_300x250(1).png
