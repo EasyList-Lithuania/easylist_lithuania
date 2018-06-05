@@ -5,9 +5,11 @@
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2018-05-18
+! Paskutinis atnaujinimas: 2018-06-05
 ! Expires: 30 days (update frequency)
 
+||rkl.lt/15min/index.php
+delfi.lt##a[style="width:995px; height:180px; display:block;"]
 ||lzinios.lt/lzinios/newsLetter/reklama/reklama.php
 lzinios.lt###trecia
 lzinios.lt###Setup\.Lzinios\.lt\.lzinios\.lt_468x120_article
@@ -67,6 +69,7 @@ lzinios.lt###Setup\.Lzinios\.lt\.lzinios\.lt_970x250
 15min.lt##A[href="http://www.vistienakitaip.lt/fiesta"] > IMG
 15min.lt##DIV[class^="pi_base_box pi_base_"]
 15min.lt##IFRAME[id^="wrp151"]
+15min.lt##IFRAME[id^="iframe_autop"]
 15min.lt##IMG[alt="Klasikinės muzikos gerbėjams dovana – „Vivace Vilnius“ festivalio koncertai"]
 15min.lt##[data-block="container-teleloto"] *
 15min.lt##[href^="http://adsplius.lt/trackers"] > *
