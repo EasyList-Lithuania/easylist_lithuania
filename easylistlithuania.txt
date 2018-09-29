@@ -5,9 +5,10 @@
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
-! Paskutinis atnaujinimas: 2018-09-16
+! Paskutinis atnaujinimas: 2018-09-29
 ! Expires: 30 days (update frequency)
 
+||alio.lt/positionPages.html?position=KomentaraiS_VisaA_580x150
 lrytas.lt#@#.afs_ads
 lrytas.lt##div[class="block__horizontalAd block__horizontalAdVirs"]
 lrytas.lt##div[class="block__asideInner nosticky"]
