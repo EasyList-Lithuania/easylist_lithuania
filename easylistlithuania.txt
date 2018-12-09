@@ -8,6 +8,7 @@
 ! Paskutinis atnaujinimas: 2018-12-09
 ! Expires: 30 days (update frequency)
 
+moteris.lt##.banner-mobile
 ||dcdn.lt/wsst27_
 delfi.lt#?#a[style*=".dcdn.lt/wsst27_"]
 siandien.com,korespondentas.com, anglijaplius.com##.sidebar
