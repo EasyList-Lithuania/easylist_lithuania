@@ -19,7 +19,7 @@ manonamai.lt##.banner-wide-border
 manonamai.lt##.lazyloading
 manonamai.lt##.banner-inline
 moteris.lt##.banner-mobile
-||dcdn.lt/wsst2
+||dcdn.lt/wsst
 delfi.lt#?#a[style*=".dcdn.lt/wsst"]
 siandien.com,korespondentas.com, anglijaplius.com##.sidebar
 bigbox.lt##.img_banner
