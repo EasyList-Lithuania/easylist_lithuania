@@ -8,8 +8,13 @@
 ! Paskutinis atnaujinimas: 2018-12-21
 ! Expires: 7 days (update frequency)
 
+<<<<<<< HEAD
 delfi.lt##a[style*=".dcdn.lt/*_*.jpg"]
 delfi.lt##img[src*="dcdn.lt/*_*.jpg"]
+=======
+delfi.lt##a[style*=".dcdn.lt/w"]
+delfi.lt##img[src*="dcdn.lt/w"]
+>>>>>>> parent of e5ff29a... delfi
 autogidas.lt##a[href*="banner"]
 autogidas.lt##.lizingas-banner
 autogidas.lt##.blender-content>a[onclick*="Banners"]
