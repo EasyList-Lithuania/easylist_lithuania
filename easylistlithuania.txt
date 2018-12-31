@@ -13,6 +13,7 @@ lrytas.lt###ad_incomm_10
 lrytas.lt##.ad_incom
 lrytas.lt###ad_995x100
 lrytas.lt##.ads.fab
+delfi.lt##img[src*="1_4.jpg"]
 delfi.lt##a[style*="1_1.jpg"]
 delfi.lt##img[src*="_2.jpg?v4"]
 delfi.lt##img[src*="2_.jpg?v4"]
