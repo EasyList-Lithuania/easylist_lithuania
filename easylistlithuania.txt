@@ -9,7 +9,9 @@
 ! Paskutinis atnaujinimas: 2019-02-04
 ! Expires: 7 days (update frequency)
 
-@@||delfi.lt^$generichide
+delfi.lt#@#.delfi-ads-block
+delfi.lt#@##wallpaper-link-container
+delfi.lt#@##wallpaper-sitehat
 @@||delfi.lt^$elemhide
 /^https:\/\/g\d\.dcdn\.lt\/images\/[0-9a-z_\-\=\$\@\*\?\.]+$/$image
 ###delfi-front-right-column
