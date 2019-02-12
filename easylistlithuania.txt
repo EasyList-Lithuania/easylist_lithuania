@@ -12,7 +12,8 @@
 delfi.lt##iframe[id="alio_block"]
 delfi.lt##iframe[src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="]
 delfi.lt##iframe[src*="alio.lt/posPages.html"]
-@@||dcdn.lt/images/pix/
+@@||dcdn.lt/images/pix/*/*.jpg
+@@||dcdn.lt/images/pix/*.jpg
 /^https:\/\/g\d\.dcdn\.lt\/images\/[0-9a-z_\-\=\$\@\*\?\.]*/[0-9a-z_\-\=\$\@\*\?\.]*\/[0-9a-zA-Z_\-\=\$\@\*\?\.]+$/$image
 delfi.lt#?#div:-abp-has(img[style*="position: absolute; left: 50%; -webkit-transform: translateX(-50%)"])
 delfi.lt#@##wallpaper-link-container
