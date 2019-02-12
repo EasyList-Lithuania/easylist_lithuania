@@ -6,9 +6,8 @@
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: http://margevicius.lt/easylist_lithuania/
 ! Facebook: https://www.facebook.com/easylistlithuania/
-! Paskutinis atnaujinimas: 2019-02-12
+! Paskutinis atnaujinimas: 2019-02-08
 ! Expires: 7 days (update frequency)
-
 
 delfi.lt##iframe[id="alio_block"]
 delfi.lt##iframe[src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="]
@@ -19,7 +18,6 @@ delfi.lt#?#div:-abp-has(img[style*="position: absolute; left: 50%; -webkit-trans
 delfi.lt#@##wallpaper-link-container
 delfi.lt#@##wallpaper-sitehat
 delfi.lt#@#.delfi-ads-block
-@@||delfi.lt^$generichide
 /^https:\/\/g\d\.dcdn\.lt\/images\/[0-9a-z_\-\=\$\@\*\?\.]*\/[0-9a-z_\-\=\$\@\*\?\.]+$/$image
 ###delfi-front-right-column
 ##.reklamos_nuorodos
