@@ -9,7 +9,6 @@
 ! Paskutinis atnaujinimas: 2019-02-14
 ! Expires: 7 days (update frequency)
 
-delfi.lt#$#abort-on-property-read btoa
 lrytas.lt##div[data-id="19522"]
 lrytas.lt##div[data-id="19528"]
 lrytas.lt#?#div[layout*="layout-second"]>div[data-id="19539"]
