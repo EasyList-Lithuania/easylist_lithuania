@@ -6,9 +6,13 @@
 ! Licencijos url: http://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: https://github.com/EasyList-Lithuania/easylist_lithuania/blob/master/easylistlithuania.txt
 ! Facebook: https://www.facebook.com/easylistlithuania/
-! Paskutinis atnaujinimas: 2019-10-02
+! Paskutinis atnaujinimas: 2020-03-19
 ! Expires: 30 days (update frequency)
 
+@@kaunieciams.lt#/miestas/
+kaunieciams.lt##.jeg_postblock_content
+kaunieciams.lt##.jeg_block_container
+kaunieciams.lt##.code-block.code-block-1
 ||15min.lt/static/cache/*imgad*.jpg
 ||15min.lt/static/cache/*lidl*.jpg
 delfi.lt##.revolut-juosta
