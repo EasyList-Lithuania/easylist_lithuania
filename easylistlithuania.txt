@@ -1,14 +1,14 @@
 [Adblock Plus 2.0]
 ! Title: EasyList Lithuania
-! - - - - - - Have spare time? Take over this list from me, i don't have time to maintain this list-----------
+! - - - - - - Have spare time? Take over this list from me, I (Margevičius) don't have time to maintain this list - - - - - -
 ! Prisidėjo: Algimantas Margevičius, Mantas Malcius, Imre Kristoffer Eilertsen (Dandelion Sprout)
 ! Apie neužblokuotas reklamas ar kitas bėdas praneškite https://github.com/EasyList-Lithuania/easylist_lithuania/issues arba forume https://forums.lanik.us/ 
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: https://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: https://raw.githubusercontent.com/EasyList-Lithuania/easylist_lithuania/master/easylistlithuania.txt
 ! Paskutinis atnaujinimas: 2020-08-08
-! Version: 080820202 (for ABP's own issue report central)
-! Expires: 14 days
+! Version: 080820203 (for ABP's own issue report central)
+! Expires: 7 days
 
 ###delfi-front-right-column
 ##.baneriai
@@ -19,7 +19,7 @@
 ##a[href="http://igrovieavtomationline.net"]
 ##a[href="http://igrovoi-klub.org/fair-land"]
 ##a[href="http://www.moteris.lt/didieji-grozio-pokyciai/"]
-##a[href="http://www.netcredit.lt/"]
+~netcredit.lt##a[href="http://www.netcredit.lt/"]
 ##iframe[src="prod.one.lt/savaitgalis/savaitgalis_3x6_ziema/"]
 ##img[alt="Dedikuoti.lt serveriai"]
 ##img[alt="Hostingas Serveriai.lt"]
@@ -697,6 +697,9 @@ zurnalai.lt##img[alt="Informacija ir pagalba telefonu 1588"]
 ||keliones.lt^$third-party
 ||top100.lt^$third-party
 ||veliavos.anglija.lt^
+||on-line.lt^$third-party
+||pigu.lt^$third-party
+||plius.lt^$third-party
 ! ——— Narrow blocking rules ———
 images/banners/$domain=marijosradijas.lt,image
 images/stories/Logotipai/$domain=marijampolieciai.lt,image
@@ -1072,7 +1075,6 @@ pav/$domain=orai.biz,image
 ||nyksciai.lt/images/sportas_1.jpg
 ||nyksciai.lt/images/sveikatos_oaze_982x110new1
 ||offers.webitas.lt/o-images
-||on-line.lt^$third-party
 ||onlyoffice.com/images/banners/
 ||opti-myst.lt/wp-content/uploads/2014/05/linava_2.jpg
 ||ori.lt/wp-content/uploads/2013/09/Moters_pagalba_180x150.gif
@@ -1098,11 +1100,9 @@ pav/$domain=orai.biz,image
 ||photobucket.com/albums/tt302/techpill/radiocool_link.jpg
 ||photobucket.com/albums/tt302/techpill/zaidimubalsas140x60.jpg
 ||pics.livejournal.com/yourprivatehell/pic/00050ypw
-||pigu.lt^$third-party
 ||pirkanglijoje.lt/wp-content/themes/pirkebay/images/regi.png
 ||pirkpigiau.lt/shop/images/shop/banners-
 ||pixolain.lt/images/stories/peliuko.jpg
-||plius.lt^$third-party
 ||pokalbis.narod.ru/ismok.gif
 ||pokalbis.narod.ru/lietuva_laisva.gif
 ||povilas.panavas.lt/blogas/wp-content/uploads/2012/05/Vieta-jūsų-reklamai.png
