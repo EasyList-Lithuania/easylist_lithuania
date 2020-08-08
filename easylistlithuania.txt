@@ -7,7 +7,7 @@
 ! Licencijos url: https://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: https://raw.githubusercontent.com/EasyList-Lithuania/easylist_lithuania/master/easylistlithuania.txt
 ! Paskutinis atnaujinimas: 2020-08-08
-! Version: 080820203 (for ABP's own issue report central)
+! Version: 080820204 (for ABP's own issue report central)
 ! Expires: 7 days
 
 ###delfi-front-right-column
@@ -26,50 +26,14 @@
 ##img[alt="Reklaminis skydelis"]
 118.lt##.adnet-add
 1588.lt###headerBanner
-15min.lt###ad-holder
-15min.lt###block-header-container-teleloto
-15min.lt###plius_container_0
-15min.lt##.ap_mm_15min
-15min.lt##.ar-item.bg-border-greywhite.ar-row-29
-15min.lt##.ar-wrapper
-15min.lt##.article-banner.ads-cnt
-15min.lt##.article-banners.clearfix
-15min.lt##.block.block-orakulas
-15min.lt##.col-18.no-padding.vl-auto-row
-15min.lt##.content-ad.ads-cnt
-15min.lt##.df-auto-container
-15min.lt##.footer_note
-15min.lt##.fs-banner
-15min.lt##.K3IgmZX
-15min.lt##.kainos_box
-15min.lt##.most_read_ads
-15min.lt##.OSKGuuR
-15min.lt##.outer-links
-15min.lt##.plius-base-box.plius-base-box-auto
-15min.lt##.plius-base-box.plius-base-box-domo
-15min.lt##.plius-base-box.plius-base-box-plius
 15min.lt##.top-banner
-15min.lt##.top-banner.row-24.clearfix + * + div[style="width: 100%; height: 320px;"]
-15min.lt##.widget.ads
-15min.lt##.yasKHEH
-15min.lt##.YuhQjBNY
-15min.lt##[data-block="container-teleloto"] *
-15min.lt##[href^="http://adsplius.lt/trackers"] > *
-15min.lt##[href^="http://bit.ly/"][target="_blank"]
-15min.lt##a[href*="optibet.lt"]
-15min.lt##a[href*="perku.perlas.lt"]
-15min.lt##a[href="http://www.vistienakitaip.lt/fiesta"] > img
-15min.lt##a[href^="https://bit.ly"]
-15min.lt##div>img[src*="adblock-banner"]
-15min.lt##div[class^="pi_base_box pi_base_"]
-15min.lt##div[id*="google_ads_iframe_"]
-15min.lt##iframe[id*="google_ads_iframe_"]
-15min.lt##Iframe[id^="iframe_autop"]
-15min.lt##Iframe[id^="wrp151"]
-15min.lt##iframe[src*="sport1.lt/15mindev"]
-15min.lt##img[alt="Klasikinės muzikos gerbėjams dovana – „Vivace Vilnius“ festivalio koncertai"]
-15min.lt##pi_one_ad
-15min.lt#@#.adsbox
+15min.lt#?#script + div:not(.header):-abp-has(+ .wrapper)
+15min.lt##.dfp
+15min.lt##.ads-cnt
+15min.lt##.article-0
+15min.lt##.col-right-small > .widget-group:first-of-type
+15min.lt##.page-item-lazyload
+15min.lt##.widget-ad
 aciu.lt###adrotate_2
 aciu.lt##.parama
 aciu.lt,gydomasismasazas.lt###adrotate_1
@@ -700,6 +664,7 @@ zurnalai.lt##img[alt="Informacija ir pagalba telefonu 1588"]
 ||on-line.lt^$third-party
 ||pigu.lt^$third-party
 ||plius.lt^$third-party
+||rkl.draugas.lt^
 ! ——— Narrow blocking rules ———
 images/banners/$domain=marijosradijas.lt,image
 images/stories/Logotipai/$domain=marijampolieciai.lt,image
@@ -709,17 +674,14 @@ vela.lt/images/additional/footmate3.jpg$~third-party,image
 pav/$domain=orai.biz,image
 |http://www.lukoil.lt/mimages/Banners/
 ||1551.lt/images/banner
-||15min.lt/assets/media/blocks/telia/teliablock_header.png
-||15min.lt/img/2017/07/autoplius_inf_300x400_ID1500.js
-||15min.lt/img/banners/
-||15min.lt/media/lidl-velykos
-||15min.lt/static/cache/*/15min_*_kampas
-||15min.lt/static/cache/*/optibet_1200x250
-||15min.lt/static/cache/*1200x250-
-||15min.lt/static/cache/*300x400*.jpg
-||15min.lt/static/cache/*imgad*.jpg
-||15min.lt/static/cache/*lidl*.jpg
-||15min.lt/static/cache/*op_add_-300x400-
+||15min.lt/static/cache/*-adblock-banner-*.jpg^$image
+||15min.lt/*_baneriai_*.jpg^$image
+||15min.lt/static/*/300x400-*.jpg^$image
+||15min.lt/*_300x400px-*.jpg^$image
+||15min.lt/static/*/200x300_*.jpg^$image
+||dgn.lt^$domain=15min.lt
+||15min.lt/*_300x400-$image
+/banner-job-ads^$domain=www.15min.lt
 ||15minlt.adocean.pl/files/x/*.mp4
 ||195.82.146.52/top-rq/Kozhedub.swf?
 ||4ride.lt/media/wysiwyg/Blog/unnamed.png
@@ -1276,7 +1238,6 @@ pav/$domain=orai.biz,image
 @@.png#$domain=siustis.net
 @@.png#^$domain=filmux.org
 @@/ad/img/ad$domain=moviex.org
-@@/ads/banner.$domain=15min.lt
 @@/advertisment.$domain=manomeskeres.lt
 @@/advertisments/*$domain=manomeskeres.lt
 @@/adzoneright.$domain=moviex.org
@@ -1290,9 +1251,7 @@ pav/$domain=orai.biz,image
 @@ad=760x120&$domain=moviex.org
 @@imasdk.googleapis.com^$domain=lrytas.lt
 @@|http://skelbimai.one.lt/uploads/modules/ads/
-@@||15min.lt/*ads
 @@||9menesiai.lt/image/cache/data/Baneriai/
-@@||adocean.pl^domain=15min.lt
 @@||adservice.google.com/adsid/integrator.js?domain=pump.lt
 @@||adworks.lt^
 @@||am15.net$domain=filmux.org
@@ -1332,7 +1291,6 @@ pav/$domain=orai.biz,image
 @@||prod.one.lt/api/framesize.js
 @@||pump.lt/wp-content/themes/mad1/js/ads.js
 @@||sascdn.com^$third-party,domain=vz.lt
-@@||securepubads.g.doubleclick.net^$domain=15min.lt
 @@||simpsonaionline.net/js/advertisement.js
 @@||smailas.net/baneriai/
 @@||spargalka.lt/*/fuckadblock.js
@@ -1347,7 +1305,6 @@ pav/$domain=orai.biz,image
 @@||vaikutis.lt/image/data/baneriai/
 @@||vjs.zencdn.net/4.12.5/video.js
 ! ——— Generic Hide ———
-@@||15min.lt^$generichide
 @@||cosmopolitan.lt^$generichide
 @@||delfi.lt^$generichide
 @@||eurobasket.lt$generichide
