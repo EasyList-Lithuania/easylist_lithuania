@@ -7,7 +7,7 @@
 ! Licencijos url: https://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: https://raw.githubusercontent.com/EasyList-Lithuania/easylist_lithuania/master/easylistlithuania.txt
 ! Paskutinis atnaujinimas: 2020-08-09
-! Version: 090820201 (for ABP's own issue report central)
+! Version: 090820202 (for ABP's own issue report central)
 ! Expires: 7 days
 
 ###delfi-front-right-column
@@ -649,6 +649,7 @@ zurnalai.lt##img[alt="Informacija ir pagalba telefonu 1588"]
 ||pigu.lt^$third-party
 ||plius.lt^$third-party
 ||rkl.draugas.lt^
+||komi.lt^$third-party
 ! ——— Narrow blocking rules ———
 images/banners/$domain=marijosradijas.lt,image
 images/stories/Logotipai/$domain=marijampolieciai.lt,image
@@ -667,7 +668,6 @@ pav/$domain=orai.biz,image
 ||15min.lt/*_300x400-$image
 /banner-job-ads^$domain=www.15min.lt
 ||15minlt.adocean.pl/files/x/*.mp4
-||195.82.146.52/top-rq/Kozhedub.swf?
 ||4ride.lt/media/wysiwyg/Blog/unnamed.png
 ||ads3-adnow.com/js/adv_out.js
 ||alio.lt/infoblock1200x250a.html
@@ -676,16 +676,10 @@ pav/$domain=orai.biz,image
 ||alkas.lt/uploads/init-logo.jpg
 ||alkas.lt/wp-content/uploads/2010/09/remeju-logo.png
 ||alytausgidas.lt/media/_banners/
-||alytausnaujienos.lt/images/alytausnaujienos.ltbaneris.jpg
 ||alytausnaujienos.lt/images/LRV.swf
-||alytausnaujienos.lt/images/LTkatalogas.jpg
 ||am.lt/VI/images/betos.jpg
 ||am.lt/VI/images/Numeris2.jpg
-||apieseksa.lt/swf/suzadink.swf
-||apieseksa.lt/wp-content/uploads/2014/02/FASHION-STOCKINGS-BANNER-300x300.jpg
-||apieseksa.lt/wp-content/uploads/2014/03/SEKS-KOMPLEKTUKAI.jpg
 ||apievestuves.lt/m/ads
-||aruodas-files.dgn.lt/adb_0_0059/file.jpg
 ||asirpsichologija.lt/manage/data/upimages/pirktuve.gif
 ||asusshop.lt/out/basic/2/img/peel/new_big.swf
 ||atsimink.lt/images/120_60.jpg
@@ -726,7 +720,6 @@ pav/$domain=orai.biz,image
 ||basketzone.lt/images/stories/wfotkes/musu_statymai.jpg
 ||basketzone.lt/images/stories/wfotkes/statymai_blue_500x60.gif
 ||basset-hound.lt/uploads/basset_banner.gif
-||bdsm.blogas.lt/files/2014/01/malonucom-dinamic.gif
 ||beligu.lt/images/longavit.jpg
 ||bigbenas.com/https://ad.admitad.com/
 ||bigbenas.lt/wp-content/uploads/2017/03/banner-1.jpg
@@ -734,10 +727,7 @@ pav/$domain=orai.biz,image
 ||bigbolz.com/ads.php
 ||blogr.lt/promo.jpg
 ||bukmanodraugas.lt/attachments/Image/1-diena_1.jpg
-||bukmanodraugas.lt/attachments/Image/kika_logo.jpg
-||bukmanodraugas.lt/attachments/Image/mars.jpg
 ||buypcgame.eu/banner
-||c.lefux.com/images/dd_new/beata_logo.gif
 ||ccg.lv/ads/
 ||ccic.lt/get.php?i.
 ||cdn.gsmarena.com/vv/assets8/js/
@@ -750,8 +740,6 @@ pav/$domain=orai.biz,image
 ||daiktai.eu/images/banners/
 ||dazasvydis.lt/images/laz_ban.gif
 ||dazasvydis.lt/images/lazertag_ban-ani.gif
-||dazasvydis.transer.net/files/image/transer%20technical%20translations_logo.jpg
-||dazasvydis.transer.net/files/image/vestuves%20logo.jpg
 ||delfi.lt/apps/banners
 ||delfi.lt/b?region=
 ||delfi.lt/c/ib/
@@ -759,7 +747,6 @@ pav/$domain=orai.biz,image
 ||delfi.lt/media/ads/anm
 ||delfi.lt/misc/ebooks.php
 ||delfi.lt/misc/export/aovp.php
-||delfi.lt/newsfeed/?p=
 ||delfi.lt/video/sporto-tv/widgets/250px/
 ||delfi.lt/video/sporto-tv/widgets/728px/images/hermis.jpg
 ||depiliacija.eu/wp-content/uploads/2011/12/fotoepiliacija-namuose.png
@@ -767,7 +754,6 @@ pav/$domain=orai.biz,image
 ||depiliacija.eu/wp-content/uploads/2013/09/HF-depiliacija-baneris180x500.jpg
 ||dgn.lt/static/5/paskolos-v2.html
 ||dgn.lt/static/nqs/5/banner
-||dideleszuvys.lt/templates/rhuk_milkyway/images/blue/logo.png
 ||diena.lt/sites/default/files/forma/cikaga.gif
 ||diena.lt/sites/default/files/forma/izel-3.gif
 ||diena.lt/sites/default/files/Vilniausdiena/Vartotoju%20zona/diena_admin/giberta_darbo_0.jpg
@@ -780,11 +766,6 @@ pav/$domain=orai.biz,image
 ||drauge.org/pilnas/pvgen_promo.jpg
 ||dumblas.com/data/images/banners/
 ||dykai.eu/fun/content/2014/01/08/video-chatas-juodame.jpg
-||e-sviestuvai.lt/images/gforma.png
-||e-sviestuvai.lt/images/istudija.png
-||e-sviestuvai.lt/images/kristint.png
-||e-sviestuvai.lt/images/macGroup.png
-||e-sviestuvai.lt/images/vt.png
 ||ecoland.lt/modules/sotewsadds/files/Right
 ||ekspresas.co.uk/files/2014/06/My-Ferry-Link-1000x164.gif
 ||ekspresas.co.uk/wp-content/uploads/2013/10/ujsgroup_banner_big1.gif
@@ -811,7 +792,6 @@ pav/$domain=orai.biz,image
 ||etaplius.lt/wp-content/uploads/2014/04/Sidabras_300x300.swf?
 ||etaplius.lt/wp-content/uploads/2014/04/vasare.jpg
 ||etaplius.lt/wp-content/uploads/2014/04/Vasare_480x100.jpg
-||euro.lt/images/zaidimai_banner_195x80.swf
 ||eurobasket.lt/images/statymai3.jpg
 ||eurobasket.lt/images/toshow/1000x200.jpg
 ||eurofootball.lt/img/efbanner2.png
@@ -819,7 +799,6 @@ pav/$domain=orai.biz,image
 ||europoszemelapis.lt/serveriai-nuolaida150.jpg
 ||fanpagelistbuilder.net/pagetab/app_coupon/scriptindex.php?pageid=
 ||farm4.static.flickr.com/3512/3178137982_2d1f1d4ff1_o.gif
-||filmai.in/v2_ajax.php
 ||filosofija.info/wp-content/uploads/2013/11/praktine-filosofija.gif
 ||fm99.lt/wp-content/banners/
 ||fm99.lt/wp-content/uploads/2014/03/slider_blues_konkurs_dlugi_logo_ang.jpg
@@ -846,7 +825,6 @@ pav/$domain=orai.biz,image
 ||groziodovanos.lt/groupon/affiliateFrame
 ||grupinis.lt/www.grupinis.lt
 ||gsmarena.lt/images/13173439603.jpeg
-||gydomasismasazas.lt/pasikeisk.jpg
 ||gyvenimas.eu/G_DS/skelb_arkl.jpg
 ||hardas.lt/http://www.hardas.lt/wp-content/uploads/icons//2014/04/brother-mazasis.png
 ||herba.lt/media/dynamic/banners/
@@ -861,9 +839,7 @@ pav/$domain=orai.biz,image
 ||igs.lt/images/saugumas/
 ||images.neobux.com/imagens/banner9/?uh=536B79425454&u3=15892148
 ||img.diena.lt/sites/default/files/Vilniausdiena/Vartotoju%20zona/diena_admin/300x600_1.png
-||img198.imageshack.us/img198/4817/unled3gs.jpg
 ||img2.diena.lt/sites/default/files/Vilniausdiena/Vartotoju%20zona/diena_admin/urmas-kaledos-940x100-px-2.jpg
-||img94.imageshack.us/img94/2181/bannerisx.jpg
 ||imgur.com/rGcWN.jpg
 ||imones.lt/searchblocks/$third-party
 ||infoadmin.lt/img/alertpay120x60.gif
@@ -879,9 +855,7 @@ pav/$domain=orai.biz,image
 ||invega.lt/site/banners/
 ||itneta.lt/failai/CENTAS.jpg
 ||iwant.lt/ads.php
-||jonavosnaujienos.lzinios.lt/wp-content/uploads/2017/02/kasyba-geras.jpg
 ||jurbarkiskis.lt/images/stories/lanmeta.gif
-||jurbarkosviesa.lt/content/download/229/2025/coral_solutions_banner.swf
 ||jurbarkosviesa.lt/var/ezwebin_site/storage/images/media/skydeliu-kategorijos/
 ||kaimai.lt/images/default/source/perku_vaikui.jpg
 ||kaina24.lt/images/kaina24_180_green.gif
@@ -895,7 +869,6 @@ pav/$domain=orai.biz,image
 ||kasvyksta.lt/wp-content/uploads/2015/06/bagazinesvilijampole.jpg
 ||kasvyksta.lt/wp-content/uploads/2017/*300x250.jpg
 ||katpedele.lt/images/charlie/charlie-kids-980x200-v4-clicktag.swf
-||kaunozemelapis.lt/z24.swf
 ||kaunozurnalistai.lt/templates/zurnalistai/images/random/kamane.jpg
 ||kedes.lt/showimage.php?f=4786_banner_lauko_baldai_6520s.jpg&w=215
 ||kedes.lt/showimage.php?f=banner_rumsiskes_200x200_6447s.jpg&w=215
@@ -903,7 +876,6 @@ pav/$domain=orai.biz,image
 ||kinopavasaris.lt/bnr/2014/
 ||kkml.lt/public/var/banners/
 ||komentaras.lt/wp-content/themes/kk/img/P1_baneris.jpg
-||komi.lt^$third-party
 ||komiksai.com/img_rek/
 ||kompextra.lt/image/data/182x258_kompextra.jpg
 ||kompextra.lt/image/data/Reklama%20sonine/cia%20galioja%20DC%20nuolaida.jpg
@@ -926,8 +898,6 @@ pav/$domain=orai.biz,image
 ||laisvaslaikrastis.lt/laikrascio%20baneris.swf
 ||lavinantys.lt/shop/out/oxbaseshop/html/2/images
 ||legacy.flirtas.lt/alfa/users_block/
-||lh3.googleusercontent.com/-HlLkax1GggM/UGSYFJmOVpI/AAAAAAAAmCc/TZT-DJmpt4g/s125/aukok.png
-||lh6.googleusercontent.com/-emSu6klAyOM/U00ckPNq4KI/AAAAAAAAAOk/Op4XYSWK7R4/w700-h112-no/go9000bannerisiforuma.jpg
 ||lianosgalerija.webs.com/tavokaroliukai%20(2).jpg%20
 ||lianosgalerija.webs.com/veriniai%20(1).jpg%20
 ||lilijairsaulius.ucoz.de/Ikonos/Unbenannt.png
@@ -990,7 +960,6 @@ pav/$domain=orai.biz,image
 ||naujienos.vu.lt/wp-content/uploads/2014/07/mokslo_festivalis_306_306.swf
 ||nesijuok.lt/images/buliausgalia.gif
 ||niekonaujo.lt/wp-content/uploads/2010/12/serveriai_logo.png
-||nk.lt/static/media/uploads/reitingai-banner.jpg
 ||nuotykiu-lenktynes.pramoguslenis.lt/failai/iliustracijos/2013/Generalinis_KAS.gif
 ||nuotykiu-lenktynes.pramoguslenis.lt/failai/iliustracijos/2014/Pagr_remejai_AIC-Imenza_S-Sportas.gif
 ||nuotykiu-lenktynes.pramoguslenis.lt/failai/iliustracijos/2014/s_sportas_LOGOTIPAS_horizontalus_small.jpg
@@ -1014,10 +983,8 @@ pav/$domain=orai.biz,image
 ||offers.webitas.lt/o-images
 ||onlyoffice.com/images/banners/
 ||opti-myst.lt/wp-content/uploads/2014/05/linava_2.jpg
-||ori.lt/wp-content/uploads/2013/09/Moters_pagalba_180x150.gif
 ||pasidarykpats.eu/wp-content/uploads/2012/09/pasidaryk120.png
 ||pasidarykpats.eu/wp-content/uploads/2012/09/pasidaryk468.png
-||passat-club.lt/auto_parts.jpg
 ||perku.lt/uploads/taupiems_tapetas.gif
 ||perkuvaikui.lt/media/upload/image/Beautyline%20ban%20180x180.jpg
 ||perkuvaikui.lt/media/upload/image/kaimai_lt(2).jpg
@@ -1051,7 +1018,6 @@ pav/$domain=orai.biz,image
 ||prokuraturos.lt/Portals/0/Skins/lrgp/images/Patarimai.gif
 ||psichika.eu/wp-content/uploads/1/Terapija.jpg
 ||psichika.eu/wp-content/uploads/2014/07/VALGYMO-sutrikimai.jpg
-||pulas.lt/htm/texas.gif
 ||pzemaitis.lt/wp-content/uploads/2013/06/VMI/
 ||r.diena.lt/i/co-sites/
 ||r1.lt/paveiksliukai/*.png
@@ -1067,7 +1033,6 @@ pav/$domain=orai.biz,image
 ||rkdragunas.lt/ip_themes/dragunas/rk_pav/
 ||rkl.lt/15min/index.php
 ||russianamerica.com/top/logo/index.php?id=5983
-||s-microsoft.com/global/ImageStore/PublishingImages/logos/hp/logo-lg-1x.png
 ||s1.15cdn.lt/img/banners/knorr/knorr_oru_ikonele.png
 ||s1.postimage.org/xh5bk9p2n/siuntos_200x200.jpg
 ||s2.15cdn.lt/images/infoblocks/vaiva-cili-535f717dc89e7.jpg
@@ -1081,11 +1046,8 @@ pav/$domain=orai.biz,image
 ||silaine.lt/Kase/Silokarcema2.gif
 ||silaine.lt/m/wp-content/uploads/2013/11/MLA-2.gif
 ||siloaidas.lt/wp-content/uploads/2012/12/Logotipas1.jpg
-||siustis.net/templates/Coco/images/940x100.png
 ||skaiciuokle.gf.lt/calculators/display
 ||skelbiu-files.dgn.lt/blplc_0_
-||skelbiu-static.dgn.lt/static/5/smspinigai-v2.html
-||skelbiu-static.dgn.lt/static/html/banners/credit24.html
 ||skelbiu-static.dgn.lt/static/images/banner
 ||skrastas.lt/galery/_skrastas/banners/
 ||sl.lt/online/calc
@@ -1105,13 +1067,11 @@ pav/$domain=orai.biz,image
 ||suru.lt/srwrd/wp-content/themes/scarlett/images/sponsors/LELO_PLEASURE_OBJECTS.png
 ||suru.lt/srwrd/wp-content/uploads/mBanner/banners/
 ||sveikas.lt/uploads/img/banners/
-||sveikata.info/files/autoportalas.lt-reklama1.jpg
-||sveikata.info/files/zaidimai-protui.jpg
 ||sveikatosabc.lt/templates/main/images/skradio.jpg
 ||sveikatosabc.lt/vidpadziai200x229.swf
 ||tavovaikams.lt//cshowimage/augantys_rasomieji_stalai_vaikams_akcija6264s.jpg/165/170
 ||tavovaikams.lt//cshowimage/mamairvaik._180_5207s.jpg/165/170
-||tavovaikas.lt/newsfeed/?p=
+/newsfeed/?p=$domain=tavovaikas.lt|delfi.lt
 ||technologijos.lt/archyvas/skydeliai_mainams/
 ||technologijos.lt/infoBlockEN
 ||technologijos.lt/n/iframe_baneris
@@ -1176,7 +1136,6 @@ pav/$domain=orai.biz,image
 ||vilniausgidas.lt/wp-content/uploads/2013/05/vorutos-logo.jpg
 ||vilniausgidas.lt/wp-content/uploads/2013/06/G.clips_.png
 ||visalietuva.lt/companies/banners/
-||viskas-vestuvems.lt/grozio/stiliusvisiems.jpg
 ||viskasvestuvems.eu/images/banners/
 ||viskasvestuvems.eu/images/Paslaugos/patalpos/alauso/alausoslenis.gif
 ||vmi.lt/Images/Vmi/img/VMI%20220x110.swf
@@ -1233,7 +1192,6 @@ pav/$domain=orai.biz,image
 @@||kaunieciams.lt/miestas/
 @@||kvt.lt/ebilet.cup.static/img/header/
 @@||lib.lrytas.lt/js/cx/EAS_fif.js
-@@||localhost^$document
 @@||lrytas.lt/*/advertisement.js
 @@||lrytas.lt/eas
 @@||lrytas.lt/files/js/ado.js
