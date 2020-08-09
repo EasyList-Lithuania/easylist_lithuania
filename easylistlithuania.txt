@@ -6,8 +6,8 @@
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: https://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: https://raw.githubusercontent.com/EasyList-Lithuania/easylist_lithuania/master/easylistlithuania.txt
-! Paskutinis atnaujinimas: 2020-08-09
-! Version: 090820202 (for ABP's own issue report central)
+! Paskutinis atnaujinimas: 2020-08-10
+! Version: 100820201 (for ABP's own issue report central)
 ! Expires: 7 days
 
 ###delfi-front-right-column
@@ -307,18 +307,8 @@ kupi.lt##img[alt="OZO estetinės odontologijos ir implantologijos klinika"]
 kupi.lt##SECTION#akcijos_wrapper.akcijos > img
 kurjeris.lt##.infobox-banner
 kursenuparapija.lt###sidebar-primary
-kvitrina.com###slider
-kvitrina.com##[alt="doc01304120140423130921-3"]
-kvitrina.com##a[href="http://www.birstonosportas.lt"]
-kvitrina.com##a[href^="http://kvitrina.com/?p="] > img
-kvitrina.com##a[target="_blank"] > img
-kvitrina.com##a[target="_blank"] STRONG
-kvitrina.com##img[alt="1_akcija"]
-kvitrina.com##img[alt="breziniai"]
-kvitrina.com##img[alt="girl eating a long loaf"]
-kvitrina.com##img[alt="Ordo autoservisas_A4_2014 03 20"]
-kvitrina.com##img[alt="taures-medaliai-oranzine"]
-kvitrina.com##STRONG > a[target="_blank"][href^="http://"] > *
+kvitrina.lt##.nivoSlider
+kvitrina.lt##.nivo-controlNav
 l24.lt###scr > .js-marquee-wrapper > *
 l2info.lt##img[alt="klausyk.net, muzika, mp3, dainu zodziai"]
 lankasautodalys.lt###banners_container
@@ -891,6 +881,19 @@ pav/$domain=orai.biz,image
 ||kursenuparapija.lt/wp-content/uploads/logo/logo_marijos-r.gif
 ||kursenuparapija.lt/wp-content/uploads/logo/logo_pakuta.gif
 ||kursenuparapija.lt/wp-content/uploads/logo/logo_vatikano-r.gif
+||kvitrina.lt/kv/updir/*-reklama-*.jpg^
+||kvitrina.lt/kv/updir/2016/*_o-536x*.jpg^
+||kvitrina.lt/kv/updir/*-536x*-536x*.jpeg^
+||kvitrina.lt/kv/updir/*/btn-*.jpeg^
+||kvitrina.lt/kv/updir/2015/10/*-536x*.jpg^
+||kvitrina.lt/kv/updir/*/A00*.jpeg^
+||kvitrina.lt/kv/updir/2016/05/*-536x*.jpg^
+||kvitrina.lt/kv/updir/2015/12/*-536x*.jpg^
+||kvitrina.lt/kv/updir/2020/08/*_2019_*.jpg^
+||kvitrina.lt/kv/updir/2020/07/*stovykla*.jpg
+||kvitrina.lt/kv/updir/*/150x150.jpg^
+||kvitrina.lt/kv/updir/*-150x150.jpg^
+||kvitrina.lt/kv/updir/2015/07/mineral_spa_logo-*.jpg^
 ||l2j.lt/ads/
 ||l2r.xz.lt/l2rbanners/
 ||l2servers.com/promo
