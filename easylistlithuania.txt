@@ -569,6 +569,9 @@ zurnalai.lt##img[alt="Informacija ir pagalba telefonu 1588"]
 diena.lt##.panel-separator
 priekavos.lt###content-banners
 skytech.lt##.front-ads
+www.plius.lt##.ads-items
+www.plius.lt##.top-media
+www.plius.lt##.list-media
 ! ——— Broad blocking rules ———
 -baneris-
 .altero-banner-2_top
@@ -604,7 +607,7 @@ skytech.lt##.front-ads
 ||veliavos.anglija.lt^
 ||on-line.lt^$third-party
 ||pigu.lt^$third-party
-||plius.lt^$third-party
+||plius.lt^$third-party,domain=~domoplius.lt
 ||rkl.draugas.lt^
 ||komi.lt^$third-party
 ! https://www.diena.lt/naujienos/kaunas/miesto-pulsas/po-gautos-zinutes-moteris-suabejojo-duomenu-apsauga-smart-id-programeleje-984430
