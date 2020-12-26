@@ -6,7 +6,7 @@
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: https://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: https://raw.githubusercontent.com/EasyList-Lithuania/easylist_lithuania/master/easylistlithuania.txt
-! Paskutinis atnaujinimas: 2020-11-26
+! Paskutinis atnaujinimas: 2020-12-26
 ! Version: 261220201 (for ABP's own issue report central)
 ! Expires: 7 days
 
