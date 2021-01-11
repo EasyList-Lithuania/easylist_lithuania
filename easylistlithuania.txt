@@ -7,7 +7,7 @@
 ! Licencijos url: https://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: https://raw.githubusercontent.com/EasyList-Lithuania/easylist_lithuania/master/easylistlithuania.txt
 ! Paskutinis atnaujinimas: 2021-01-11
-! Version: 110120211
+! Version: 110120212
 ! Expires: 7 days
 
 ###delfi-front-right-column
@@ -398,8 +398,7 @@ prokuraturos.lt###dnn_daugiauInfo
 prokuraturos.lt###dnn_LeftPane
 psichologas.info##img[alt="laisvoji banga tiesiogine laida"]
 pulsas.lt###ja-col2
-pump.lt#@#.adsbygoogle
-pump.lt#@#.bottomad
+pump.lt##.textwidget
 pzemaitis.lt,xn--mslaikas-qzb5f.lt##[class^=banner]
 radiocool.lt##img[title="Free Delivery on all Books at the Book Depository"]
 rde.lt##.ukio10
@@ -1104,7 +1103,6 @@ uploads/images/$domain=gyvenimoguru.lt,image
 @@imasdk.googleapis.com^$domain=lrytas.lt
 @@|http://skelbimai.one.lt/uploads/modules/ads/
 @@||9menesiai.lt/image/cache/data/Baneriai/
-@@||adservice.google.com/adsid/integrator.js?domain=pump.lt
 @@||adworks.lt^
 @@||am15.net$domain=filmux.net
 @@||apatinukai.lt/image/cache/data/baneriai/
@@ -1137,7 +1135,6 @@ uploads/images/$domain=gyvenimoguru.lt,image
 @@||post.lt/bin/banners/
 @@||post.lt/files/resized/*x*/banners/
 @@||prod.one.lt/api/framesize.js
-@@||pump.lt/wp-content/themes/mad1/js/ads.js
 @@||sascdn.com^$third-party,domain=vz.lt
 @@||simpsonaionline.net/js/advertisement.js
 @@||smailas.net/baneriai/
@@ -1163,7 +1160,7 @@ uploads/images/$domain=gyvenimoguru.lt,image
 @@||panele.lt^$generichide
 @@||play.tv3.lt^$generichide
 @@||powerhitradio.tv3.lt/stream/player/$generichide
-@@||pump.lt$generichide
+@@||pump.lt^$generichide
 @@||siustis.net^$generichide
 @@||spargalka.lt^$generichide
 @@||tavovaikas.lt^$generichide
