@@ -7,7 +7,7 @@
 ! Licencijos url: https://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: https://raw.githubusercontent.com/EasyList-Lithuania/easylist_lithuania/master/easylistlithuania.txt
 ! Paskutinis atnaujinimas: 2021-01-27
-! Version: 270120212
+! Version: 270120213
 ! Expires: 7 days
 
 ###delfi-front-right-column
@@ -465,6 +465,7 @@ sportas.lt##[id^=s300x600_]
 sportas.lt##a[href^="http://www.taupiems.lt"]
 supermama.lt##div[style="width: 752px; padding-top: 7px;"]
 suvalkai.lt#?#.widget_text:-abp-has(a:not([href*="suvalkai."]))
+suvalkai.lt##a[href*="pakavimopleveles.lt"]
 sveikas.lt##.side-block.side-banner *
 sveikatosabc.lt##div[style="width:250px; float:left"] > div[style^="height:"]
 sveikatossodas.lt##[class^=baneris]
