@@ -6,8 +6,8 @@
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: https://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: https://raw.githubusercontent.com/EasyList-Lithuania/easylist_lithuania/master/easylistlithuania.txt
-! Paskutinis atnaujinimas: 2021-01-27
-! Version: 270120213
+! Paskutinis atnaujinimas: 2021-02-07
+! Version: 070220211
 ! Expires: 7 days
 
 ###delfi-front-right-column
@@ -160,8 +160,9 @@ diena.lt##.big
 diena.lt##.competitionBlock
 diena.lt##.reklama-text
 diena.lt##[id^=reklama-pop-]
+diena.lt##div[class^=header-reklama-]
 diena.lt##div[id*=ado-]
-diena.lt##Iframe[src*="cvzona.lt"]
+diena.lt##iframe[src*="cvzona.lt"]
 diena.lt##iframe[src*="diena.lt/cview.php"]
 dimexpro.eu,buypcgame.eu,apiereklama.lt,pokernews.com##.ads
 diskusijos.darnipora.lt##.post.bg3
@@ -1152,6 +1153,7 @@ uploads/images/$domain=gyvenimoguru.lt,image
 @@||vaikutis.lt/image/cache/data/baneriai/
 @@||vaikutis.lt/image/data/baneriai/
 @@||vjs.zencdn.net/4.12.5/video.js
+@@||b.adbox.lv^$domain=inbox.lt
 ! ——— Generic Hide ———
 @@||cosmopolitan.lt^$generichide
 @@||delfi.lt^$generichide
