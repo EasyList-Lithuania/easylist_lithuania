@@ -6,8 +6,8 @@
 ! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
 ! Licencijos url: https://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: https://raw.githubusercontent.com/EasyList-Lithuania/easylist_lithuania/master/easylistlithuania.txt
-! Paskutinis atnaujinimas: 2021-02-07
-! Version: 070220211
+! Paskutinis atnaujinimas: 2021-03-04
+! Version: 040320211
 ! Expires: 7 days
 
 ###delfi-front-right-column
@@ -597,7 +597,6 @@ www.plius.lt##.list-media
 */lt/davise/$domain=torrent.ai|torrent.tl
 */out_data/banners/$domain=ekstremalas.lt|samata.lt
 .lt/infoblocks$domain=autoplius.lt|cvmarket.lt
-.lt/online/calc$domain=mokilizingas.lt|sl.lt
 .lt/static/images/banner
 .lt/uploads/img/banners/$domain=medguru.lt|sveikas.lt
 /ads.php$domain=bigbolz.com|iwant.lt
