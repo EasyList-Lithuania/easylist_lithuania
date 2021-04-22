@@ -6,7 +6,7 @@
 ! Description: Removes ads on Lithuanian-language websites.
 ! Homepage: https://github.com/EasyList-Lithuania/easylist_lithuania
 ! Paskutinis atnaujinimas: 2021-04-22
-! Version: 220420211
+! Version: 220420212
 ! Expires: 7 days
 
 ###delfi-front-right-column
@@ -78,29 +78,17 @@ auto.plius.lt##.ads-hor
 auto.plius.lt##.auto_leasing
 auto.plius.lt##.citadele-wrapper
 autobilis.lt###citadele-box
-autogidas.lt##.banner-big-bank
-autogidas.lt##.blender-content>a[onclick*=Banners]
-autogidas.lt##.container.header-ann
-autogidas.lt##.lizingas-banner
-autogidas.lt##a[href*=banner]
-autogidas.lt##div#citadele-mini
-autogidas.lt##iframe[src*="r.autogidas.lt/images/autogidas/filemanager/tfbank"]
+autogidas.lt##.header-ann
+autogidas.lt##.no-print:not([class*=" "])
+autogidas.lt##.reklama-300x250
 automokyklos.lt##.reklamaadd
-autoplius.lt###auto_leasing
-autoplius.lt##.ad-corner-top-250
 autoplius.lt##.ap-loan-calculator-native
 autoplius.lt##.apl-content-calculator
 autoplius.lt##.apl-example-note
-autoplius.lt##.auto-leasing-link
-autoplius.lt##.citadele-black
 autoplius.lt##.head-small
 autoplius.lt##.ket-rules
 autoplius.lt##.leader-board-wrapper
 autoplius.lt##.news-15min-sidebar
-autoplius.lt##.other-announcements-sidebar-right.related-ads-container
-autoplius.lt##.right-offers
-autoplius.lt##div[class^=bigbank]
-autoplius.lt,skelbiu.lt##.bigbank.bigbank-wrapper
 avitela.lt,elektromarkt.lt##.lizing
 baidare.com##.spotlight > *
 balsas.lt###position_7376 + .c_block.cont_list_8.c_block_bordered > *
@@ -134,12 +122,7 @@ cosmopolitan.lt,moteris.lt,panele.lt,tavovaikas.lt##.banner-mobile
 cust.lt##.footer_banners
 cvzona.lt###top-b
 cvzona.lt##.b-group
-cvzona.lt##.no-print
-cvzona.lt##[style="position: absolute; bottom:6px; left: 2px; font-size: 10px; background: url(/img/icon-reklama.gif) no-repeat; width: 7px; height: 41px"] + #fl-embd-736
-cvzona.lt##div[style="position: absolute; text-align: center; height: 100px; width: 750px; border:1px solid #F1F1F1; border-top:none; background: #F7F7F7"]
-daiktai.eu##[bgcolor="#87B6D9"] > [bordercolor=beige][style="font-family: verdana;font-weight:bold;color:indigo;font-size:11px;background:whitesmoke; width:300px;border: 0px solid brown;margin-left:6px"] > *
-daiktai.eu##TABLE[style="background: #4b4442; width: 160px; border: 0px solid white;padding-top:5px;padding-left:5px"]
-daiktai.eu##TABLE[style="font-family: verdana;font-weight:normal;color:indigo;font-size:11px;background:#4b4442; width:160px;border: 0px solid brown;padding-left:16;"]
+cvzona.lt##.rkl
 dainos.lt##.standartinisSarasas.sriftas13
 dainos.lt##a[href="http://egu.lt"]
 danguje.lt##a[href^="/component/banners/click/"] > img
@@ -153,13 +136,8 @@ depresijosklubas.lt##img[src$="rozmarinas.gif"]
 diena.lt###komentaru-top-left
 diena.lt###sticky-reklama
 diena.lt##.article_showcase_1
-diena.lt##.big
-diena.lt##.competitionBlock
-diena.lt##.reklama-text
-diena.lt##[id^=reklama-pop-]
 diena.lt##div[class^=header-reklama-]
 diena.lt##div[id*=ado-]
-diena.lt##iframe[src*="cvzona.lt"]
 diena.lt##iframe[src*="diena.lt/cview.php"]
 dimexpro.eu,buypcgame.eu,apiereklama.lt,pokernews.com##.ads
 diskusijos.darnipora.lt##.post.bg3
@@ -179,8 +157,6 @@ ekonomika.tv3.lt##a[href="http://www.lexpro.lt/lt?utm_source=ekonomika-lt&utm_me
 ekopirk.lt###friends_block
 ekopirk.lt###lojalumas_block
 ekspresas.co.uk##.hometakeover.gofollow
-elektromarkt.lt###cboxOverlay
-elektromarkt.lt###ms_overlay
 elektronika.lt##.randomcontent.group1 + * + * + * > *
 elektronika.lt##[style="border:1px solid #000000;padding:6px;"]
 elektronika.lt##td[bgcolor="#FFFFFF"][align=center][style="border:1px solid #000000;"]
@@ -211,10 +187,6 @@ grupinis.lt###product2
 grupinis.lt##.block.villa
 gyvenimas.eu##.textwidget > a[href^="http://"] > img
 gyvenimoguru.lt###stulpelis1c img
-gyvenimoguru.lt##.turinys img[style="float: left; margin: 1px 2px; border: 1px solid black;"]
-gyvenimoguru.lt##img[alt="Viešo kalbėjimo ir bendravimo kursai"]
-gyvenimoguru.lt##img[style="margin-left: 2px; margin-right: 2px; border: 2px solid black;"]
-gyvenimoguru.lt##img[title="Silva metodas"]
 gyvensena.sveikas.lt##A.close
 hardas.lt###v1b13546c9f
 imones.lrytas.lt##.ad-banner-right
@@ -236,15 +208,6 @@ jumsinfo.lt##.pixel6
 juokauju.lt##.moduletable_ads
 kabutes.kasvyksta.lt##.miestasreng
 kamane.lt##.left_banner
-kasvyksta.lt###sidebar-widget-in
-kasvyksta.lt##.ad-block-content
-kasvyksta.lt##.iskelta-galerija
-kasvyksta.lt##.skelbimu-lenta.left
-kasvyksta.lt##.susijusios-galerijos
-kasvyksta.lt##div[class*=exit-wrapper]
-kasvyksta.lt##div[id*=existing-inside]
-kasvyksta.lt##div[id*=mobile-post-main]
-kasvyksta.lt#@#.social-bottom
 kaunas.lt##.top_baneris
 kaunas.lt##td[style="PADDING-BOTTOM: 13px; PADDING-LEFT: 0px; BACKGROUND: url(/kaunas/m/m_images/wfiles/il4sk332.jpg) #faf6f5 no-repeat left top; PADDING-TOP: 13px"]
 kaunieciams.lt##.code-block.code-block-1
@@ -306,22 +269,9 @@ lrt.lt##.Scrolling_banner
 lrt.lt##td[height="118"]
 lrvalstybe.lt##.left_banners
 lrvalstybe.lt##.right_banners
-lrytas.lt##div[class*=layout]>div[class*=left]>div[style="width: 584px; height: 522px; display: none;"]
-lrytas.lt##div[data-id="19522"]
-lrytas.lt##div[data-id="19528"]
-lrytas.lt##iframe[style="height: 522px; margin: 0px; border-width: 0px; padding: 0px; width: 584px;"]
-lrytas.lt##div[layout*=layout-second] > div[data-id="19539"]
-lrytas.lt,tvplay.tv3.lt#@#.afs_ads
+tvplay.tv3.lt#@#.afs_ads
 lttv.us##a[href="http://www.filmux.us"]
-lzinios.lt###\31 088533
-lzinios.lt###\31 088574
-lzinios.lt###Setup\.Lzinios\.lt\.lzinios\.lt_300x250_article
-lzinios.lt###Setup\.Lzinios\.lt\.lzinios\.lt_468x120_article
-lzinios.lt###Setup\.Lzinios\.lt\.lzinios\.lt_970x250
-lzinios.lt###Setup\.Lzinios\.lt\.lzinios\.lt_980x200
-lzinios.lt###trecia
-lzinios.lt###treciaStop
-lzinios.lt##div[style="width:300px;height:300px;float:left;padding-top:26px;margin:5px 20px 10px 0;background-image:url(images/reklama_vid_300x300_header.png);background-position:0 0;background-repeat:no-repeat"]
+lzinios.lt#?#.fl-row:-abp-has(iframe[src*=reklama])
 lzskelbimai.com###banners_170
 m.autogidas.lt###bigbank-mobile
 macpartija.lt##a[href^="http://www."][target=_blank]
@@ -333,7 +283,6 @@ mamyciuklubas.lt##.banners_mklt_side1.banner_cont
 man.lt###text-86775731
 mano-gargzdai.lt##.bnrdid
 manoekonamai.lt##.tb-content-block.tb-content-block-banners-sidebar
-manonamai.lt###MNN01_1200x300
 manonamai.lt##.banner-article-wide
 manonamai.lt##.banner-inline
 manonamai.lt##.banner-wide-border
@@ -414,10 +363,6 @@ rokiskis.popo.lt##[title="Blogosferos Autorių Teisių Gynimo Asociacijos Agent�
 rokiskis.popo.lt##img[alt="FlyLAL logo"]
 rutana.lt##.banner-left-side
 samata.lt##.banner_right
-sapnuotisapnus.lt###td_ad_idAdbillboard
-sapnuotisapnus.lt##[data-rocketsrc^="http://implt.tradedoubler.com/imp"] + * > [type="text/rocketscript"] + * > #td_ad_idAdbillboard20946930
-sapnuotisapnus.lt##[id*="td_ad_idAdbillboard*"]
-sapnuotisapnus.lt##div[style="width: 286px; height: 33px; left: 0px; top: 0px; background-color: rgb(255, 255, 255);"]
 sapnuotisapnus.lt##div[align=center]
 satenai.lt##.attachment-sponsor-thumb-header.wp-post-image
 savaite.lt##div[class^=news_p]
@@ -435,24 +380,11 @@ siloaidas.lt,mususavaite.lt,spainetosdraudimas.lt##img[src*=baneris]
 silokarcema.lt###ads
 skelbiu.lt###banner-three-in-one-between-items
 skelbiu.lt###list-middle-zone
-skelbiu.lt###offer-container
 skelbiu.lt###top-item-zone
-skelbiu.lt##.bigbank-loan-calculator-wrapper
-skelbiu.lt##.kainoslt-desktop-listing
-skelbiu.lt##.luminor-counter-container
-skelbiu.lt##div.advertisementTitle
-skelbiu.lt##div.content
-skelbiu.lt##div.result
-skelbiu.lt##div[style="padding: 1px; border-bottom: 1px solid #E3E3E3; margin-top: -10px;"]
-skelbiu.lt##div[style="text-align: center; padding: 0px 0px; height: 200px; margin-bottom: 10px;"]
-skelbiu.lt##div[style="width: 980px; height: 200px;"]
-skelbiu.lt##iframe[src*="skelbiu-static.dgn.lt/static/5/banner/"]
-skelbiu.lt##LI[style="height: 240px;"]
+skelbiu.lt##.lazy-zone
+skelbiu.lt###right-side-layout
 skrastas.lt##[src^="images/drawflash.php"] + * > *
 skrastas.lt##a[href^="go.php?lt="]
-skytech.lt###banner
-skytech.lt###bannerlink[href^="http://www.skytech.lt/"]
-skytech.lt###gfLeasingPlaceholder
 skytech.lt##a[href^="http://www.skytech.lt/"] > *
 solisun.lt,hardas.lt##img[alt^=baner_]
 sorimpeksas.com##div:last-child > P[align=center]
@@ -512,7 +444,6 @@ vaistai.lt###table-rightbanner1
 vaistai.lt###table-rightbanner3.rightbanner_info
 vaistai.lt##.module_right_content_col
 vaistai.lt##.topbanner_info [data^="http://www.vaistai.lt/images/banners/"]
-vaistai.lt##a[href^="http://www.vaistai.lt/index.php?option=com_artbanners&task=clk&id="] > *
 valstietis.lt##.col-md-12.col-sm-6.col-xs-12.nopaddingright.nopaddingright-small.nopaddingleft-xs.padding-left-sidebar-small
 vandensparkas.lt##.banner-1
 vardai.org##.adsb
@@ -547,7 +478,6 @@ zooplius.lt##CENTER > A > *
 zurnalai.lt##img[alt="Informacija ir pagalba telefonu 1588"]
 diena.lt##.panel-separator
 priekavos.lt###content-banners
-skytech.lt##.front-ads
 www.plius.lt##.ads-items
 www.plius.lt##.top-media
 www.plius.lt##.list-media
@@ -587,9 +517,11 @@ www.plius.lt##.list-media
 ||plius.lt^$third-party,domain=~domoplius.lt
 ||rkl.draugas.lt^
 ||komi.lt^$third-party
-://ad.admitad.com^
+://ad.admitad.com^$third-party
+||ads.vmedija.lt^$third-party
+||ads.one.lt^$third-party
 ! ——— Narrow blocking rules ———
-*/images/banners/$domain=daiktai.eu|dumblas.com|onlyoffice.com|viskasvestuvems.eu
+*/images/banners/$domain=dumblas.com|onlyoffice.com|viskasvestuvems.eu
 */lt/davise/$domain=torrent.ai
 */out_data/banners/$domain=ekstremalas.lt|samata.lt
 .lt/infoblocks$domain=autoplius.lt|cvmarket.lt
@@ -642,7 +574,6 @@ uploads/images/$domain=gyvenimoguru.lt,image
 ||aukse.ucoz.com/sokiu_bunkeris.png
 ||auto-loads.lt/media/uploads/banners/
 ||autobilis.lt/assets/images/lizingas.jpg
-||autogidas.lt/images/banners_autogida
 ||autoplius-static.dgn.lt/static/images/desktop/placement/Luminor/luminor_ap_2048.jpg
 ||autotaurage.lt/images/jau_at.png
 ||autotaurage.lt/images/salvage_lt.jpg
@@ -973,8 +904,6 @@ uploads/images/$domain=gyvenimoguru.lt,image
 ||sport24.lt/uploads/NET4.png
 ||sportas.lt/Uploads/image/03_klasika_2200x1024.jpg
 ||sportas.lt/Uploads/image/Naujasis%20tapetas%20be%20vir%C5%A1aus.jpg
-||static.autogidas.lt/static/nqs/4/bigbank-autoleasing-till
-||static.autogidas.lt/static/nqs/4/mokilizingas-mobile
 ||suaugusiems.lt/Uploads/Affiliates/
 ||suru.lt/srwrd/wp-content/themes/scarlett/images/sponsors/LELO_PLEASURE_OBJECTS.png
 ||suru.lt/srwrd/wp-content/uploads/mBanner/banners/
