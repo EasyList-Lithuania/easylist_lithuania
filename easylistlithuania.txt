@@ -1,13 +1,12 @@
 [Adblock Plus 2.0]
 ! Title: EasyList Lithuania
-! - - - - - - Have spare time? Take over this list from me, I (Margevičius) don't have time to maintain this list - - - - - -
-! Prisidėjo: Algimantas Margevičius, Mantas Malcius, Imre Kristoffer Eilertsen (Dandelion Sprout)
-! Apie neužblokuotas reklamas ar kitas bėdas praneškite https://github.com/EasyList-Lithuania/easylist_lithuania/issues arba forume https://forums.lanik.us/ 
-! Licencija: šis turinys yra pateikiamas pagal GNU GPL3 licenciją.
-! Licencijos url: https://www.gnu.org/licenses/gpl-3.0.txt
-! Homepage: https://raw.githubusercontent.com/EasyList-Lithuania/easylist_lithuania/master/easylistlithuania.txt
-! Paskutinis atnaujinimas: 2021-03-04
-! Version: 040320211
+! Prisidėjo: Imre Kristoffer Eilertsen (Dandelion Sprout). (Anksčiau: Algimantas Margevičius, Mantas Malcius)
+! Apie neužblokuotas reklamas ar kitas bėdas praneškite https://github.com/EasyList-Lithuania/easylist_lithuania/issues arba forume https://forums.lanik.us/viewforum.php?f=101
+! Licencija: Šis turinys yra pateikiamas pagal GNU GPL3 licenciją - https://www.gnu.org/licenses/gpl-3.0.txt
+! Description: Removes ads on Lithuanian-language websites.
+! Homepage: https://github.com/EasyList-Lithuania/easylist_lithuania
+! Paskutinis atnaujinimas: 2021-04-22
+! Version: 220420211
 ! Expires: 7 days
 
 ###delfi-front-right-column
@@ -110,8 +109,6 @@ baltupiudarzelis.lt###content > a[href^="http://www."] > img
 basketnews.lt##.showWhenBlocked
 basketnews.lt##[style="margin-bottom: 10px; height: 100px; padding-left: 10px; padding-right: 10px; text-align: center;"]
 basketnews.lt##img[alt=Olybet]
-basketzone.lt###breadcrumb
-basketzone.lt###right_bottom
 beatosvirtuve.lt##.archive.tax-recipe-categories.term-velykos.term-82[style="overflow: hidden;"]:last-child
 beatosvirtuve.lt##.dialogBg
 beatosvirtuve.lt##.valdiklis_reklama.clearfix [alt="probiotic valikliai"]
@@ -499,7 +496,6 @@ torrent.ai##.tb_click_right
 torrent.ai##a[href*="flirtai.lt"]
 torrent.ai##a[href*="topsport.lt"]
 torrent.ai##a[href="store?ad=0"]
-torrent.ai##div > [href="http://www.lyso.lt/?utm_source=torrent-ai"] > img[src="http://cdn.torrent.tl/lt/davise/lyso728.gif"]
 traders.lt##div[style="padding-top:4px;padding-bottom:4px;text-align:center;"]
 trakai.lt##td[style="PADDING-BOTTOM: 15px; PADDING-LEFT: 12px; PADDING-RIGHT: 10px; BACKGROUND: url(/trakai/m/m_images/wfiles/igxbdh5338.jpg) repeat-y left top; PADDING-TOP: 15px"]
 trakai.lt##td[style="PADDING-BOTTOM: 15px; PADDING-LEFT: 22px; BACKGROUND: url(/trakai/m/m_images/wfiles/ipxjgy5347.jpg) repeat-y left top; PADDING-TOP: 16px"]
@@ -594,7 +590,7 @@ www.plius.lt##.list-media
 ://ad.admitad.com^
 ! ——— Narrow blocking rules ———
 */images/banners/$domain=daiktai.eu|dumblas.com|onlyoffice.com|viskasvestuvems.eu
-*/lt/davise/$domain=torrent.ai|torrent.tl
+*/lt/davise/$domain=torrent.ai
 */out_data/banners/$domain=ekstremalas.lt|samata.lt
 .lt/infoblocks$domain=autoplius.lt|cvmarket.lt
 .lt/static/images/banner
@@ -1055,38 +1051,6 @@ uploads/images/$domain=gyvenimoguru.lt,image
 ||zindymas.lt/sites/zindymas.lt/files/ptc-logo2.png
 ||elektronika.lt/*150x32_*$image
 ||elektronika.lt/*150x32.*$image
-! ——— Flash files ———
-||alytausnaujienos.lt/images/LRV.swf
-||asusshop.lt/out/basic/2/img/peel/new_big.swf
-||basketnews.lt/config/basketnews.lt/files/3/1753.swf
-||basketnews.lt/config/basketnews.lt/files/7/1807.swf
-||basketnews.lt/config/basketnews.lt/files/8/1838.swf
-||basketnews.lt/config/basketnews.lt/files/9/1809.swf
-||email.man.lt/images/email.swf
-||etaplius.lt/wp-content/uploads/2013/10/neo2.swf?
-||etaplius.lt/wp-content/uploads/2014/04/Sidabras_300x300.swf?
-||katpedele.lt/images/charlie/charlie-kids-980x200-v4-clicktag.swf
-||kernel.lt/img/nf.swf
-||kupi.lt/LTLku_180x150.swf
-||laisvaslaikrastis.lt/laikrascio%20baneris.swf
-||lrvalstybe.lt/images_new/gubele_960x100url2.swf
-||lrvalstybe.lt/images_new/yukon_960x100url.swf
-||mediasearch.lt/flashplayer/flowplayer.swf?0.38348993902331463
-||naujienos.vu.lt/wp-content/uploads/2014/07/mokslo_festivalis_306_306.swf
-||priejuros.lt/palangosvila/palangosvila.swf
-||senukai.lt/out/1/html/0/images/wysiwigpro/*.swf
-||sveikatosabc.lt/vidpadziai200x229.swf
-||tic.siauliai.lt/ezmediacatalogue/catalogue/php4ZH7kE.swf
-||tic.siauliai.lt/ezmediacatalogue/catalogue/phpjkv02A.swf
-||tic.siauliai.lt/ezmediacatalogue/catalogue/phpquhjXf.swf
-||tiketa.lt/files/2014.04/id_18953.swf?
-||tvenkiniu-projektai.lt/baseinai.swf
-||veberis.com/lasivesaleja/KA_173x183_fotopro.swf
-||verdiktas.lt/dzukuainiai.swf
-||vestuves.eu/img/banners/42.swf
-||vht.tradedoubler.com/file/248282/0814/bobutes-paskola-ruduo-750x100.swf
-||vilniaus-turtas.lt/images/kitokia_energija.swf
-||vmi.lt/Images/Vmi/img/VMI%20220x110.swf
 ! ——— Whitelistings ———
 @@-120_600_$domain=moviex.org
 @@.png#$domain=siustis.net
@@ -1109,7 +1073,6 @@ uploads/images/$domain=gyvenimoguru.lt,image
 @@||adworks.lt^
 @@||am15.net$domain=filmux.net
 @@||apatinukai.lt/image/cache/data/baneriai/
-@@||banners.adnet.lt/i/euro_1_490x270_3.swf
 @@||banners.adnet.lt/i/euro_game_1.js
 @@||entitlements.jwplayer.com/*.json
 @@||eurovaistine.lt/uploads/banners/
