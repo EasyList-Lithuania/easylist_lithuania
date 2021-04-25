@@ -5,8 +5,8 @@
 ! Licencija: Šis turinys yra pateikiamas pagal GNU GPL3 licenciją - https://www.gnu.org/licenses/gpl-3.0.txt
 ! Description: Removes ads on Lithuanian-language websites.
 ! Homepage: https://github.com/EasyList-Lithuania/easylist_lithuania
-! Paskutinis atnaujinimas: 2021-04-22
-! Version: 220420212
+! Paskutinis atnaujinimas: 2021-04-26
+! Version: 260420211
 ! Expires: 7 days
 
 ###delfi-front-right-column
@@ -1060,3 +1060,35 @@ uploads/images/$domain=gyvenimoguru.lt,image
 @@||siustis.net^$generichide
 @@||spargalka.lt^$generichide
 @@||tavovaikas.lt^$generichide
+!#if !adguard
+! ——— Borrowed from AdGuard Base ———
+15min.lt##.ads
+15min.lt##.widget-ad
+15min.lt#?#.item:-abp-has(> a[href*="//bit.ly"][target="_blank"] > img)
+delfi.lt##.row > .left + div[class]:not(.right):not([id]) > :not(iframe):not(span):not(table):not(form):not([class])
+delfi.lt##body > #header-top-banner + [class]:not(div):not(iframe):not(span):not(table):not(form)
+delfi.lt##div[itemprop="articleBody"] > div[style="float:left;margin: 0 25px 25px 0;"]
+filmux.org##div[id*="ScriptRoot"]
+filmux.org#?##blockblockA:style(display: none!important;)
+filmux.org#?##blockblockB:style(display: block!important;)
+filmux.org#?##box-main > .box-rekbar:-abp-has(> noindex > div[id*="ScriptRoot"])
+lrt.lt##.banner-block
+m.basketnews.lt##.main_title > div[style="text-align: center;"] > a > img
+m.basketnews.lt##div[style^="text-align: center; width: 300px; height: 250px;"]
+skelbiu.lt###top-item-zone
+topzone.lt##div[id^="edit"] > .tborder:not([id^="post"])
+tv3.lt#?##sidebar > div.custom-div:-abp-contains(REKLAMA)
+vaistai.lt###billboardwrapper
+filmux.org#@#.myTestAd
+skelbiu.lt#@#DIV.content
+||p.jwpcdn.com/*/vast.js$domain=lnk.lt
+||serveris.lnk.lt/*/ad.js?
+||serveris.lnk.lt/*ad.xml?
+||serveris.lnk.lt/files/x/*/*.mp4$media,domain=lnk.lt
+||static.vz.lt/files/antsrauto/countsJS.php^
+||v.fwmrm.net/ad/g/1?$domain=tvplay.tv3.lt
+@@/banners*swf$domain=vma.esec.vu.lt
+@@||skelbiu-static.dgn.lt/static/css/inside_ad.css
+@@||skelbiu-static.dgn.lt/static/js/inside_ad.js
+@@||ufonaut.000webhostapp.com/advertisement.js$domain=filmux.org
+!#endif
