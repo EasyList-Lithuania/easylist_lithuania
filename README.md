@@ -4,4 +4,4 @@ EasyList Lithuania
 
 This is an adblock list for websites in the Lithuanian language.
 
-(Mirror: https://gitlab.com/DandelionSprout/easylist_lithuania/-/tree/master)
+[Official mirror](https://gitlab.com/DandelionSprout/easylist_lithuania/-/tree/master)
