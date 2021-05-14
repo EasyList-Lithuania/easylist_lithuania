@@ -5,8 +5,8 @@
 ! Licencija: Šis turinys yra pateikiamas pagal GNU GPL3 licenciją - https://www.gnu.org/licenses/gpl-3.0.txt
 ! Description: Removes ads on Lithuanian-language websites.
 ! Homepage: https://github.com/EasyList-Lithuania/easylist_lithuania
-! Paskutinis atnaujinimas: 2021-04-26
-! Version: 260420211
+! Paskutinis atnaujinimas: 2021-05-14
+! Version: 140520211
 ! Expires: 7 days
 
 ###delfi-front-right-column
@@ -1091,4 +1091,9 @@ skelbiu.lt#@#DIV.content
 @@||skelbiu-static.dgn.lt/static/css/inside_ad.css
 @@||skelbiu-static.dgn.lt/static/js/inside_ad.js
 @@||ufonaut.000webhostapp.com/advertisement.js$domain=filmux.org
+@@||mssl.fwmrm.net/libs/adm/*/linktag2.js$domain=play.tv3.lt
+@@||v.fwmrm.net/ad/g/1?$domain=play.tv3.lt
+play.tv3.lt##.c-details__leaderboard-ad
+play.tv3.lt##.c-player__wrapper > #freewheel
+play.tv3.lt###ad_banner_skin
 !#endif
