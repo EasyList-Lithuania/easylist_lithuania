@@ -5,8 +5,8 @@
 ! Licencija: Šis turinys yra pateikiamas pagal GNU GPL3 licenciją - https://www.gnu.org/licenses/gpl-3.0.txt
 ! Description: Removes ads on Lithuanian-language websites.
 ! Homepage: https://github.com/EasyList-Lithuania/easylist_lithuania
-! Paskutinis atnaujinimas: 2021-05-14
-! Version: 140520211
+! Paskutinis atnaujinimas: 2021-06-20
+! Version: 200620211
 ! Expires: 7 days
 
 ###delfi-front-right-column
@@ -457,7 +457,6 @@ versliukai.lt###sidebar-madmen
 verslosavaite.lt##.moduletabledesinen
 vilniaus-turtas.lt,niekonaujo.lt##a[target=_blank]
 visalietuva.lt##.content_banners
-vitosrankdarbiai.lt##a[href^="http://www."] > img
 voruta.lt##a[rel=nofollow] + * + * + * > img
 vz.lt##.bannerbox
 vz.lt##.cvWr.row.hidden-xxs
