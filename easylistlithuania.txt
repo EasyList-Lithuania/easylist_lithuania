@@ -5,8 +5,8 @@
 ! Licencija: Šis turinys yra pateikiamas pagal GNU GPL3 licenciją - https://www.gnu.org/licenses/gpl-3.0.txt
 ! Description: Removes ads on Lithuanian-language websites.
 ! Homepage: https://github.com/EasyList-Lithuania/easylist_lithuania
-! Paskutinis atnaujinimas: 2021-06-20
-! Version: 200620211
+! Paskutinis atnaujinimas: 2021-06-23
+! Version: 230620211
 ! Expires: 7 days
 
 ###delfi-front-right-column
@@ -164,7 +164,8 @@ elta.lt##td[style^="TEXT-ALIGN: "]
 enorca.blogspot.com###Image2_img
 eurobasket.lt##.adsbygoogle
 fightclub.lt##.advert
-filmux.net##iframe[src*="rekovers.ru/filmux.net.html"]
+filmux.tv,filmux.net,161.97.106.129##iframe[src*="rekovers.ru/filmux.net.html"]
+filmux.tv,filmux.net,161.97.106.129###info_video
 fortuna.draugas.lt##.rkl
 forum.mintys.lt##.post.bg2
 fotofabrikas.lt###popup-w
@@ -519,6 +520,9 @@ www.plius.lt##.list-media
 ://ad.admitad.com^$third-party
 ||ads.vmedija.lt^$third-party
 ||ads.one.lt^$third-party
+||betsafe.lt^$popup
+||optibet.lt^$popup
+||enlabspartners.com^$popup
 ! ——— Narrow blocking rules ———
 */images/banners/$domain=dumblas.com|onlyoffice.com|viskasvestuvems.eu
 */lt/davise/$domain=torrent.ai
