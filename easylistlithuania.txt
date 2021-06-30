@@ -5,8 +5,8 @@
 ! Licencija: Šis turinys yra pateikiamas pagal GNU GPL3 licenciją - https://www.gnu.org/licenses/gpl-3.0.txt
 ! Description: Removes ads on Lithuanian-language websites.
 ! Homepage: https://github.com/EasyList-Lithuania/easylist_lithuania
-! Paskutinis atnaujinimas: 2021-06-23
-! Version: 230620211
+! Paskutinis atnaujinimas: 2021-06-30
+! Version: 300620211
 ! Expires: 7 days
 
 ###delfi-front-right-column
@@ -481,6 +481,9 @@ priekavos.lt###content-banners
 www.plius.lt##.ads-items
 www.plius.lt##.top-media
 www.plius.lt##.list-media
+play.tv3.lt##span[id*=_ad_container]
+! https://play.tv3.lt/clips/maskoliuno-minutes-pertraukele-is-arti-nerealaus-pigumo-klaidos,clip-3059056
+##video[playsinline]
 ! ——— Broad blocking rules ———
 -baneris-
 .altero-banner-2_top
@@ -523,6 +526,9 @@ www.plius.lt##.list-media
 ||betsafe.lt^$popup
 ||optibet.lt^$popup
 ||enlabspartners.com^$popup
+||r-scale-fb.static.go3.tv^
+||freewheel-mtgx-tv.akamaized.net^
+||imu.tvplst.com^
 ! ——— Narrow blocking rules ———
 */images/banners/$domain=dumblas.com|onlyoffice.com|viskasvestuvems.eu
 */lt/davise/$domain=torrent.ai
