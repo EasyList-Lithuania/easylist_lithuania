@@ -6,7 +6,7 @@
 ! Description: Removes ads on Lithuanian-language websites.
 ! Homepage: https://github.com/EasyList-Lithuania/easylist_lithuania
 ! Paskutinis atnaujinimas: 2021-06-30
-! Version: 300620212
+! Version: 300620213
 ! Expires: 7 days
 
 ###delfi-front-right-column
@@ -1102,6 +1102,5 @@ skelbiu.lt#@#DIV.content
 @@||mssl.fwmrm.net/libs/adm/*/linktag2.js$domain=play.tv3.lt
 @@||v.fwmrm.net/ad/g/1?$domain=play.tv3.lt
 play.tv3.lt##.c-details__leaderboard-ad
-play.tv3.lt##.c-player__wrapper > #freewheel
 play.tv3.lt###ad_banner_skin
 !#endif
