@@ -480,6 +480,7 @@ www.plius.lt##.top-media
 www.plius.lt##.list-media
 play.tv3.lt##span[id*=_ad_container]
 !!!play.tv3.lt##video[playsinline]
+m.delfi.lt##.ad
 ! ——— Broad blocking rules ———
 -baneris-
 .altero-banner-2_top
@@ -1012,7 +1013,6 @@ uploads/images/$domain=gyvenimoguru.lt,image
 @@/events.gif?$domain=play.tv3.lt
 ! ——— Generic Hide ———
 @@||cosmopolitan.lt^$generichide
-@@||delfi.lt^$generichide
 @@||eurobasket.lt^$generichide
 @@||manomeskeres.lt^$generichide
 @@||manonamai.lt^$generichide
@@ -1025,6 +1025,9 @@ uploads/images/$domain=gyvenimoguru.lt,image
 @@||siustis.net^$generichide
 @@||spargalka.lt^$generichide
 @@||tavovaikas.lt^$generichide
+!#if false
+@@||delfi.lt^$generichide
+!#endif
 !#if !adguard
 ! ——— Borrowed from AdGuard Base ———
 15min.lt##.ads
