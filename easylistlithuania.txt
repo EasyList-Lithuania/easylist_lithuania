@@ -5,7 +5,7 @@
 ! Licencija: Šis turinys yra pateikiamas pagal GNU GPL3 licenciją - https://www.gnu.org/licenses/gpl-3.0.txt
 ! Description: Removes ads on Lithuanian-language websites.
 ! Homepage: https://github.com/EasyList-Lithuania/easylist_lithuania
-! Version: 28July2021v2
+! Version: 30July2021v1
 ! Expires: 7 days
 
 ###delfi-front-right-column
@@ -480,7 +480,7 @@ www.plius.lt##.top-media
 www.plius.lt##.list-media
 play.tv3.lt##span[id*=_ad_container]
 !!!play.tv3.lt##video[playsinline]
-m.delfi.lt##.ad
+delfi.lt##.ad
 ! ——— Broad blocking rules ———
 -baneris-
 .altero-banner-2_top
