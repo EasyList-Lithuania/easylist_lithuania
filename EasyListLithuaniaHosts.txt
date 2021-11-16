@@ -1,0 +1,41 @@
+! Title: EasyList Lithuania (Hosts)
+! Designed for: AdGuard Home, OS hosts files, Blokada, Pi-hole, uMatrix, AdAway, personalDNSFilter, AdGuard for Windows/Android/Mac's DNS filtering
+! Description: This is a (currently pretty small and not much tested) version of EasyList Lithuania designed for use with domains-based tools.
+! Licencija: Šis turinys yra pateikiamas pagal GNU GPL3 licenciją - https://www.gnu.org/licenses/gpl-3.0.txt
+! Homepage: https://github.com/EasyList-Lithuania/easylist_lithuania
+! Version: 16November2021v1-Alpha
+! Expires: 20 days
+127.0.0.1 adart.hostin.lt
+127.0.0.1 adbox.lt www.adbox.lt
+127.0.0.1 adclick.lt www.adclick.lt
+127.0.0.1 adsplius.lt www.adsplius.lt
+127.0.0.1 adverum.lt www.adverum.lt
+127.0.0.1 aleja.lt www.aleja.lt
+127.0.0.1 banners.igloro.info
+127.0.0.1 bms.creativepartner.lt
+127.0.0.1 eads.lt www.eads.lt
+127.0.0.1 prod.one.lt
+127.0.0.1 trackers.adtarget.me
+127.0.0.1 darnipora.lt www.darnipora.lt
+127.0.0.1 keliones.lt www.keliones.lt
+127.0.0.1 top100.lt www.top100.lt
+127.0.0.1 on-line.lt www.on-line.lt
+127.0.0.1 pigu.lt www.pigu.lt
+127.0.0.1 rkl.draugas.lt
+127.0.0.1 komi.lt www.komi.lt
+127.0.0.1 ad.admitad.com
+127.0.0.1 ads.vmedija.lt
+127.0.0.1 ads.one.lt
+127.0.0.1 enlabspartners.com www.enlabspartners.com
+127.0.0.1 r-scale-fb.static.go3.tv
+127.0.0.1 freewheel-mtgx-tv.akamaized.net
+127.0.0.1 imu.tvplst.com
+127.0.0.1 tygafso.com www.tygafso.com
+127.0.0.1 vswcdns.com www.vswcdns.com
+127.0.0.1 skpiramide.lt www.skpiramide.lt
+127.0.0.1 revive.imones.lt
+127.0.0.1 pazintysxxx.com www.pazintysxxx.com
+127.0.0.1 banners.adnetmedia.lt
+127.0.0.1 static.grupinis.lt
+127.0.0.1 xlixpdhpfpnlor.xyz www.xlixpdhpfpnlor.xyz
+127.0.0.1 topsport.lt www.topsport.lt
