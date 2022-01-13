@@ -3,7 +3,7 @@
 ! Description: This is a (currently pretty small and not much tested) version of EasyList Lithuania designed for use with domains-based tools.
 ! Licencija: Šis turinys yra pateikiamas pagal GNU GPL3 licenciją - https://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: https://github.com/EasyList-Lithuania/easylist_lithuania
-! Version: 16November2021v1-Alpha
+! Version: 13January2021v1-Alpha
 ! Expires: 20 days
 127.0.0.1 adart.hostin.lt
 127.0.0.1 adbox.lt www.adbox.lt
@@ -34,7 +34,6 @@
 127.0.0.1 vswcdns.com www.vswcdns.com
 127.0.0.1 skpiramide.lt www.skpiramide.lt
 127.0.0.1 revive.imones.lt
-127.0.0.1 pazintysxxx.com www.pazintysxxx.com
 127.0.0.1 banners.adnetmedia.lt
 127.0.0.1 static.grupinis.lt
 127.0.0.1 xlixpdhpfpnlor.xyz www.xlixpdhpfpnlor.xyz
