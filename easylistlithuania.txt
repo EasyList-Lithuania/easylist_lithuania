@@ -502,6 +502,7 @@ skelbiu.lt##.luminor-item-container
 skelbiu.lt##.luminor-spacer
 skelbiu.lt##.bigbank-calculator
 skelbiu.lt##.bigbank-recommendation-by
+m.skelbiu.lt###big-bank-small-mobile
 skelbiu.lt##.luminor-item-container-new
 skelbiu.lt##[href^="https://www.aruodas.lt/nauji-projektai/?utm_source"]
 skelbiu.lt##.bigbank-loan-calculator-wrapper
