@@ -1,1 +1,4 @@
 * text eol=lf
+
+# Adblocker filter files
+*.txt adb
