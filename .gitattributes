@@ -1,4 +1,5 @@
 * text eol=lf
 
 # Adblocker filter files
+[attr]adb   linguist-detectable linguist-language=AdBlock
 *.txt adb
