@@ -5,7 +5,7 @@
 ! Licencija: Šis turinys yra pateikiamas pagal GNU GPL3 licenciją - https://www.gnu.org/licenses/gpl-3.0.txt
 ! Description: Removes ads on Lithuanian-language websites.
 ! Homepage: https://github.com/EasyList-Lithuania/easylist_lithuania
-! Version: 17April2023v3
+! Version: 17April2023v4
 ! Expires: 7 days
 
 ###delfi-front-right-column
@@ -142,6 +142,14 @@ delfi.lt##body > .container > .row > .left ~ :not(.right) > :not(.delfi-ads-bloc
 delfi.lt##.hero
 delfi.lt##div[class^=col-xs-][style^="float: left; "]:first-of-type + div[class]:not([class*=" "]):last-of-type
 depresijosklubas.lt##img[src$="rozmarinas.gif"]
+15min.lt##div > em
+15min.lt##body > i
+15min.lt##body > label
+15min.lt##body > em
+15min.lt##body > span
+15min.lt##div > abbr
+15min.lt##body > strong
+15min.lt##body > div[class][style="display: block;"]
 diena.lt###komentaru-top-left
 diena.lt###sticky-reklama
 diena.lt##.article_showcase_1
