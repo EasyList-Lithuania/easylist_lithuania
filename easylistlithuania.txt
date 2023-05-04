@@ -288,6 +288,7 @@ lrt.lt##.Scrolling_banner
 lrt.lt##td[height="118"]
 lrvalstybe.lt##.left_banners
 lrvalstybe.lt##.right_banners
+lrytas.lt##.LBlockSidebar__item
 tvplay.tv3.lt#@#.afs_ads
 lttv.us##a[href="http://www.filmux.us"]
 lzinios.lt#?#.fl-row:-abp-has(iframe[src*=reklama])
