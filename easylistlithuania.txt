@@ -139,6 +139,9 @@ delfi.lt##body > div[style*="height:"][style*="z-index:"]
 delfi.lt##body > .container > .row > .left ~ :not(.right) > :not(.delfi-ads-block)
 delfi.lt##.hero
 delfi.lt##div[class^=col-xs-][style^="float: left; "]:first-of-type + div[class]:not([class*=" "]):last-of-type
+delfi.lt##*[style*="float: right;"]
+delfi.lt##.bb3
+delfi.lt##.hr
 depresijosklubas.lt##img[src$="rozmarinas.gif"]
 15min.lt##div > em
 15min.lt##body > i
