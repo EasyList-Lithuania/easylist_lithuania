@@ -3,39 +3,59 @@
 ! Description: This is a (currently pretty small and not much tested) version of EasyList Lithuania designed for use with domains-based tools.
 ! Licencija: Šis turinys yra pateikiamas pagal GNU GPL3 licenciją - https://www.gnu.org/licenses/gpl-3.0.txt
 ! Homepage: https://github.com/EasyList-Lithuania/easylist_lithuania
-! Version: 07December2023v1-Alpha
+! Version: 20September2025v1-Alpha
 ! Expires: 20 days
+127.0.0.1 ad.admitad.com
 127.0.0.1 adart.hostin.lt
-127.0.0.1 adbox.lt www.adbox.lt
-127.0.0.1 adclick.lt www.adclick.lt
-127.0.0.1 adsplius.lt www.adsplius.lt
-127.0.0.1 adverum.lt www.adverum.lt
-127.0.0.1 aleja.lt www.aleja.lt
+127.0.0.1 adbox.lt
+127.0.0.1 adclick.lt
+127.0.0.1 ads.one.lt
+127.0.0.1 ads.vmedija.lt
+127.0.0.1 adsplius.lt
+127.0.0.1 adverum.lt
+127.0.0.1 aleja.lt
+127.0.0.1 banners.adnetmedia.lt
 127.0.0.1 banners.igloro.info
 127.0.0.1 bms.creativepartner.lt
-127.0.0.1 eads.lt www.eads.lt
-127.0.0.1 prod.one.lt
-127.0.0.1 trackers.adtarget.me
-127.0.0.1 darnipora.lt www.darnipora.lt
-127.0.0.1 keliones.lt www.keliones.lt
-127.0.0.1 top100.lt www.top100.lt
-127.0.0.1 on-line.lt www.on-line.lt
-127.0.0.1 rkl.draugas.lt
-127.0.0.1 komi.lt www.komi.lt
-127.0.0.1 ad.admitad.com
-127.0.0.1 ads.vmedija.lt
-127.0.0.1 ads.one.lt
-127.0.0.1 enlabspartners.com www.enlabspartners.com
-127.0.0.1 r-scale-fb.static.go3.tv
+127.0.0.1 darnipora.lt
+127.0.0.1 eads.lt
+127.0.0.1 enlabspartners.com
 127.0.0.1 freewheel-mtgx-tv.akamaized.net
-127.0.0.1 tygafso.com www.tygafso.com
-127.0.0.1 vswcdns.com www.vswcdns.com
-127.0.0.1 skpiramide.lt www.skpiramide.lt
+127.0.0.1 keliones.lt
+127.0.0.1 komi.lt
+127.0.0.1 on-line.lt
+127.0.0.1 peacto.com
+127.0.0.1 plius.lt
+127.0.0.1 prod.one.lt
+127.0.0.1 r-scale-fb.static.go3.tv
 127.0.0.1 revive.imones.lt
-127.0.0.1 banners.adnetmedia.lt
+127.0.0.1 rkl.draugas.lt
+127.0.0.1 skaitliukas.eu
+127.0.0.1 skpiramide.lt
 127.0.0.1 static.grupinis.lt
-127.0.0.1 xlixpdhpfpnlor.xyz www.xlixpdhpfpnlor.xyz
-127.0.0.1 topsport.lt www.topsport.lt
-127.0.0.1 peacto.com www.peacto.com
-127.0.0.1 plius.lt www.plius.lt
-127.0.0.1 skaitliukas.eu www.skaitliukas.eu
+127.0.0.1 top100.lt
+127.0.0.1 topsport.lt
+127.0.0.1 trackers.adtarget.me
+127.0.0.1 tygafso.com
+127.0.0.1 vswcdns.com
+127.0.0.1 www.adbox.lt
+127.0.0.1 www.adclick.lt
+127.0.0.1 www.adsplius.lt
+127.0.0.1 www.adverum.lt
+127.0.0.1 www.aleja.lt
+127.0.0.1 www.darnipora.lt
+127.0.0.1 www.eads.lt
+127.0.0.1 www.enlabspartners.com
+127.0.0.1 www.keliones.lt
+127.0.0.1 www.komi.lt
+127.0.0.1 www.on-line.lt
+127.0.0.1 www.peacto.com
+127.0.0.1 www.plius.lt
+127.0.0.1 www.skaitliukas.eu
+127.0.0.1 www.skpiramide.lt
+127.0.0.1 www.top100.lt
+127.0.0.1 www.topsport.lt
+127.0.0.1 www.tygafso.com
+127.0.0.1 www.vswcdns.com
+127.0.0.1 www.xlixpdhpfpnlor.xyz
+127.0.0.1 xlixpdhpfpnlor.xyz
