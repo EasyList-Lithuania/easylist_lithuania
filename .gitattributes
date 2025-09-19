@@ -2,4 +2,7 @@
 
 # Adblocker filter files
 [attr]adb   linguist-detectable linguist-language=AdBlock
+[attr]hosts linguist-detectable linguist-language=hosts
+
+AntiMalwareHosts.txt hosts
 *.txt adb
