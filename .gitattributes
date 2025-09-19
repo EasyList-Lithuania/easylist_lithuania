@@ -5,4 +5,4 @@
 [attr]hosts linguist-detectable linguist-language=hosts
 
 AntiMalwareHosts.txt linguist-detectable linguist-language=hosts
-*.txt linguist-detectable linguist-language=AdBlock
+easylistlithuania.txt linguist-detectable linguist-language=AdBlock
