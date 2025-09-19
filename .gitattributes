@@ -4,5 +4,5 @@
 [attr]adb   linguist-detectable linguist-language=AdBlock
 [attr]hosts linguist-detectable linguist-language=hosts
 
-AntiMalwareHosts.txt hosts
-*.txt adb
+AntiMalwareHosts.txt linguist-detectable linguist-language=hosts
+*.txt linguist-detectable linguist-language=AdBlock
