@@ -218,6 +218,7 @@ interjeras.lt##.projects-container-home
 internetine-tv.narod.ru##a[target=titul] > img
 invega.lt##[src^="site/banners/"] + * TD
 itiketini-faktai.online##center:has-text(Reklama)
+itiketini-faktai.online#?#center:-abp-contains(Reklama)
 jp.lt##.span4.column_container.td-post-sidebar
 jp.lt##[id^=penci-banner_box]
 jumsinfo.lt##.pixel6
