@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
 ! Title: EasyList Lithuania
-! Prisidėjo: Imre Kristoffer Eilertsen (Dandelion Sprout), iibett. (Anksčiau: Algimantas Margevičius, Mantas Malcius)
+! Prisidėjo: Imre Eilertsen (Dandelion Sprout), iibett. (Anksčiau: Algimantas Margevičius, Mantas Malcius)
 ! Apie neužblokuotas reklamas ar kitas bėdas praneškite https://github.com/EasyList-Lithuania/easylist_lithuania/issues arba forume https://forums.lanik.us/viewforum.php?f=101
 ! Licencija: Šis turinys yra pateikiamas pagal GNU GPL3 licenciją - https://www.gnu.org/licenses/gpl-3.0.txt
 ! Description: Removes ads on Lithuanian-language websites.
 ! Homepage: https://github.com/EasyList-Lithuania/easylist_lithuania
-! Version: 26December2025v1
+! Version: 06January2026v1
 ! Expires: 7 days
 
 ##.baneriai
@@ -217,7 +217,7 @@ infrost.lt##img[alt="inFROST - CS 1.6 Serveriai"]
 interjeras.lt##.projects-container-home
 internetine-tv.narod.ru##a[target=titul] > img
 invega.lt##[src^="site/banners/"] + * TD
-itiketini-faktai.online##center:has-text(Reklama)
+itiketini-faktai.online##center:-abp-contains(Reklama)
 jp.lt##.span4.column_container.td-post-sidebar
 jp.lt##[id^=penci-banner_box]
 jumsinfo.lt##.pixel6
@@ -566,7 +566,7 @@ m.delfi.lt##.lb-adx-frame.ad-marker
 delfi.lt##[style]>[href]>img[width="100%"]
 technologijos.lt##.main_block > center
 technologijos.lt##.portlet_nuorodos
-technologijos.lt#?#.portlet_block:has-text(Partneriai)
+technologijos.lt#?#.portlet_block:-abp-contains(Partneriai)
 krepsinis.net##.custom-div
 elenta.lt###unit-details-sidebar-ad
 ohoskelbimai.lt##.sidebar-banner
@@ -586,9 +586,9 @@ pirkis.lt##aside > .uk-panel-box:has(> ins)
 etaplius.lt##.ad
 etaplius.lt##iframe[data-id]
 hey.lt##a[href*=casino]
-kaunozinios.lt#?##sidebar1 > div:has-text(mods)
+kaunozinios.lt#?##sidebar1 > div:-abp-contains(mods)
 kaunozinios.lt###sidebar1 > .block-title
-klaipedoszinios.lt,xn--iauliinios-z9b5t9e.lt#?#.td_block_wrap:has-text(/^Nuorodos/)
+klaipedoszinios.lt,xn--iauliinios-z9b5t9e.lt#?#.td_block_wrap:-abp-contains(/^Nuorodos/)
 vilniauszinios.lt##.links
 kinomanija.lt##.widget_block
 vz.lt##.banners
